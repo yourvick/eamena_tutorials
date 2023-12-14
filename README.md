@@ -20,9 +20,11 @@ Logging in is required to access and edit database records\. If you have not alr
 
 Navigate to the Home Page and click on ‘Sign in’ in the upper right corner to enter your login details \(Figures 1–2\): 
 
-![Figure 1](images/001.jpg)
+![](images/001.jpg)
+Figure 1
 
-![Figure 2](images/002.jpg)
+![](images/002.jpg)
+Figure 2
 
 
 
@@ -32,8 +34,7 @@ After you have signed in for the first time using your temporary password, we ad
 
 To change your password, click “Welcome, \[your username\]”, in the upper right corner of the home page \(Figure 3\)\.
 
-![Figure 3](images/003.jpg)
-
+![](images/003.jpg)
 Figure 3
 
 On the Profile Manager page, click Change Password, and follow the instructions to enter a new password for your account \(Figure 4\)\.
@@ -62,9 +63,7 @@ The EAMENA Database is currently available to use in English or Arabic\.
 
 To change the language, from any page within the database, click the dropdown menu in the upper right corner where it says ‘English \(en\)’ and choose your preferred language \(Figure 7\)\.
 
-![Graphical user interface, website
-
-Description automatically generated](images/007.jpg)
+![Graphical user interface, website](images/007.jpg)
 
 Figure 7
 
@@ -78,9 +77,7 @@ Click on ‘Search the EAMENA Database’ \(Figure 8\), to go directly to the Se
 
 To learn more about searching, please refer to __Tutorial 1: Searching the Database \(Basic\)__\. 
 
-![A map of a desert
-
-Description automatically generated](images/008.jpg)
+![Description automatically generated](images/008.jpg)
 
 Figure 8
 
@@ -146,9 +143,7 @@ Figure 10
 
 Click on the Arches symbol in the upper left corner of the screen to reveal the full main database menu \(Figure 11\)\.
 
-![A screenshot of a computer
-
-Description automatically generated](images/011.jpg)
+![A screenshot of a computer](images/011.jpg)
 
 Figure 11
 
@@ -158,9 +153,7 @@ To access the Search page, click the Search Icon on the left side of the screen,
 
 To learn more about searching, please refer to __Tutorial 1: Searching the Database \(Basic\)__\. 
 
-![A screenshot of a computer
-
-Description automatically generated](images/012.jpg)
+![A screenshot of a computer](images/012.jpg)
 
 Figure 12
 
@@ -168,9 +161,7 @@ Figure 12
 
 To access the Resource Menu, click “Add New Resource” \(Figure 13\), or you can choose from one of the seven different types of Resources described in Section 6 to go directly to their pages\.
 
-![A screenshot of a computer
-
-Description automatically generated](images/013.jpg)
+![A screenshot of a computer](images/013.jpg)
 
 Figure 13
 
@@ -194,9 +185,7 @@ Figure 14
 
 To access your account and details \(as already discussed in Section 4\), click “Profile Manager” \(Figure 15\)\. 
 
-![A screenshot of a computer
-
-Description automatically generated](images/015.jpg)
+![A screenshot of a computer](images/015.jpg)
 
 Figure 15
 
@@ -206,9 +195,7 @@ To access the Reference Data Manager \(RDM\) click on “Reference Data Manager�
 
 The RDM should only be used by someone who has been designated to manage the database\. If you would like to learn more about it, please speak to a member of the EAMENA team\.
 
-![A screenshot of a computer
-
-Description automatically generated](images/016.jpg)
+![A screenshot of a computer](images/016.jpg)
 
 Figure 16
 
@@ -244,17 +231,13 @@ There are several ways to access the search page\.
 
 From the Home page, click on ‘Search the EAMENA Database’ \(Figure 1\), it will take you directly to the Search Page\.
 
-![A close up of a rock
-
-Description automatically generated](images/019.jpg)
+![A close up of a rock](images/019.jpg)
 
 Figure 1 
 
 If you already in another part of the database, you can also access the Search page by clicking the Search Icon on the left side of the screen, or in the upper right corner \(Figure 2\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/020.jpg)
+![Graphical user interface, application](images/020.jpg)
 
 Figure 2
 
@@ -266,9 +249,7 @@ On the left side of the screen you will see the Search Bar \(see Section 2\.1\) 
 
 On the right, you will see a map, which shows the distribution of the Search Results\. You can also use the Map Filter to search for sites by location \(see Section 3\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/021.jpg)Figure 3
+![Graphical user interface, application](images/021.jpg)Figure 3
 
 ### The Search Bar
 
@@ -280,45 +261,33 @@ The simplest and quickest way to search the database is to begin typing in the s
 
 Click on the suggested term which best matches what you want to search for to create a simple filter based on that term, for example, by a country, or interpretation, time period\. 
 
-![Graphical user interface, application
+![Graphical user interface, application](images/022.jpg)
 
-Description automatically generated](images/022.jpg)
-
-![A picture containing timeline
-
-Description automatically generated](images/023.jpg)
+![A picture containing timeline](images/023.jpg)
 
 Figure 4
 
 You can also search by free\-text by pressing enter once you have typed your search term or clicking on it where it appears underlined in blue, instead of choosing one of the suggestions\. This will return any records which have your term in any field, whether dropdown or free\-text \(Figure 5\)\.
 
-![A picture containing timeline
-
-Description automatically generated](images/024.jpg)
+![A picture containing timeline](images/024.jpg)
 
 Figure 5
 
 Continue adding terms to filter your results further \(Figure 6\)\.
 
-![Graphical user interface, application, website
-
-Description automatically generated](images/025.jpg)
+![Graphical user interface, application, website](images/025.jpg)
 
 Figure 6
 
 To exclude a search term, add it to the search bar, then click on it once to change it and a ‘\-‘ sign will appear before it \(Figure 7\)\.
 
-![A picture containing graphical user interface
-
-Description automatically generated](images/026.jpg)
+![A picture containing graphical user interface](images/026.jpg)
 
 Figure 7
 
 If you are only interested in one type of record, e\.g\. Heritage Places, you can click on ‘Resource Type’ and choose from the record types to limit your search to that particular type of record \(Figure 8\)\.
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/027.jpg)
+![Graphical user interface, text, application](images/027.jpg)
 
 Figure 8
 
@@ -329,9 +298,7 @@ You may also choose to filter your results by the QA Type \(Figure 9\)\.
 
 Choose ‘Authoritative’ to include only approved records in your search and exclude those waiting approval\.
 
-![Graphical user interface
-
-Description automatically generated](images/028.jpg)
+![Graphical user interface](images/028.jpg)
 
 Figure 9
 
@@ -341,33 +308,25 @@ The Search Results appear in a list below the Search Bar\.
 
 Click on the Record ID \(e\.g\. EAMENA\-0012345, INFORMATION\-0009876, etc\.\) to view the full Record, which will open in a new browser tab \(Figure 10\)\.
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/029.jpg)
+![Graphical user interface, text, application](images/029.jpg)
 
 Figure 10
 
 Click on ‘Edit’ to open a new browser tab and go directly to the editing page for a record, which will open in a new browser tab\. Refer to the relevant tutorial on how to edit different types of records \(Figure 11\)\.
 
-*![Graphical user interface, text, application
-
-Description automatically generated](images/030.jpg)*
+*![Graphical user interface, text, application](images/030.jpg)*
 
 Figure 11
 
 Click on ‘Details’ beneath the Record ID to show a summary preview of the information in that record in the ‘Details’ tab to the right\.
 
-*![Graphical user interface, text, application
-
-Description automatically generated](images/031.jpg)*
+*![Graphical user interface, text, application](images/031.jpg)*
 
 Figure 12
 
 Click on ‘Map’ beneath the Record ID to zoom to the location of that record on the map to the right\.
 
-*![Graphical user interface, text, application
-
-Description automatically generated](images/032.jpg)*
+*![Graphical user interface, text, application](images/032.jpg)*
 
 Figure 13
 
@@ -377,9 +336,7 @@ The default appearance will be a visual representation of the relationships betw
 
 Click on ‘load more’ below any entry in the list to reveal further relationships, where they exist\.
 
-![Graphical user interface, chart
-
-Description automatically generated](images/033.jpg)
+![Graphical user interface, chart](images/033.jpg)
 
 Figure 14
 
@@ -389,25 +346,19 @@ The Map Filter window displays the geographic locations of the Search Results\. 
 
 The default map type is satellite imagery\. To switch to a streetmap, click on ‘Basemap’ on the right side of the map and choose ‘satellite’ \(Figure 15\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/034.jpg)
+![Graphical user interface, application](images/034.jpg)
 
 Figure 15
 
 Click on ‘Overlays’ on the right side of the window to see a list of the available layers\. You can toggle them on and off by clicking on the switch \(Figure 16\)\. 
 
-![Graphical user interface, application
-
-Description automatically generated](images/035.jpg)
+![Graphical user interface, application](images/035.jpg)
 
   Figure 16
 
 Click on ‘Legend’ on the right side of the window to view the map legend \(Figure 17\)\. 
 
-![Graphical user interface, application
-
-Description automatically generated](images/036.jpg)
+![Graphical user interface, application](images/036.jpg)
 
 Figure 17
 
@@ -423,9 +374,7 @@ You can navigate the map using your mouse and the controls in the upper left cor
 - To return the map so that north is up, click the compass icon once\.
 - Make the map full screen by clicking the expand icon in the upper left\.
 
-![Graphical user interface, application, map
-
-Description automatically generated](images/037.jpg)
+![Graphical user interface, application, map](images/037.jpg)
 
 Figure 18
 
@@ -433,33 +382,25 @@ Figure 18
 
 If you want to search by an address or geographic location, for example, a city or street address, you can type it into the ‘Find an address’ bar in the upper right corner of the map \(Figure 19\)\.
 
-![Graphical user interface, application, map
-
-Description automatically generated](images/038.jpg)
+![Graphical user interface, application, map](images/038.jpg)
 
 Figure 19
 
 To further refine your search using location, click on ‘Filter’ on the right side of the map, which will open the Map Search options \(Figure 20\)\.
 
-![Graphical user interface, application, website
-
-Description automatically generated](images/039.jpg)
+![Graphical user interface, application, website](images/039.jpg)
 
 Figure 20
 
 In the ‘Select a filter’ dropdown menu, choose one of the four options to search by location \(Figure 21\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/040.jpg)
+![Graphical user interface, application](images/040.jpg)
 
 Figure 21
 
 Choose ‘Search by Map Extent’ to display all search results within the area visible in the map window at the level you have zoomed \(Figure 22\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/041.jpg)
+![Graphical user interface, application](images/041.jpg)
 
 Figure 22
 
@@ -471,9 +412,7 @@ Method 1:
 - Click your mouse on the map to add a point\.
 - Change the buffer distance \(in metres or feet\) to search for sites within that distance of your point in any direction \(Figure 23\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/042.jpg)
+![Graphical user interface, application](images/042.jpg)
 
 Figure 23
 
@@ -485,9 +424,7 @@ Method 2:
 - Finish by clicking on the green ‘Accept GeoJSON’ button at the bottom and you will see the point move in the map to your specific location\.
 - Change the buffer distance \(in metres or feet\) to search for sites within that distance of your point in any direction\.
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/043.jpg)
+![Graphical user interface, text, application](images/043.jpg)
 
 Figure 24
 
@@ -496,25 +433,19 @@ Choose ‘Draw a Polyline’ or ‘Draw a Polygon’ to search by line or polygo
 - Double\-click to stop drawing, or stop drawing by closing the polygon on the first point \(vertex\) again \(Figure 25\)\. 
 - Adjust the buffer distance to include sites within a certain distance around your line or polygon\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/044.jpg)
+![Graphical user interface, application](images/044.jpg)
 
 Figure 25
 
 If you have zoomed in or out of the map results and wish to return to a view where all of the search results are displayed on the map, click “Zoom to all features” \(Figure 26\)\.
 
-![Graphical user interface, application, website
-
-Description automatically generated](images/045.jpg)
+![Graphical user interface, application, website](images/045.jpg)
 
 Figure 26
 
 To clear your map search filters, e\.g\. to start a new search, click “Clear spatial filter” \(Figure 27\)\.
 
-![Graphical user interface, application, website
-
-Description automatically generated](images/046.jpg)
+![Graphical user interface, application, website](images/046.jpg)
 
 Figure 27
 
@@ -541,9 +472,7 @@ Go to the Search page\.
 
 When you arrive at the Search page, click on ‘Advanced’ to access the Advanced Search page \(Figure 1\)\.
 
-![A screenshot of a computer
-
-Description automatically generated](images/048.jpg)
+![A screenshot of a computer](images/048.jpg)
 
 Figure 1
 
@@ -551,33 +480,25 @@ In the Advanced Search screen you see a list of cards in the database on the rig
 
 Scroll down to the ‘Heritage Place’ section and click on Assessment Summary / ملخص التقييم  \(Figure 2\)
 
-![Graphical user interface, application
-
-Description automatically generated](images/049.jpg)
+![Graphical user interface, application](images/049.jpg)
 
 Figure 2
 
 Click on the second, right\-hand field that appears under Assessment Investigator / اسم من قام بالفحص \(Figure 3\)
 
-![Graphical user interface, application
-
-Description automatically generated](images/050.jpg)
+![Graphical user interface, application](images/050.jpg)
 
 Figure 3
 
 Type your name into the field, and when it appears in the dropdown, click on it \(Figure 4\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/051.jpg)
+![Graphical user interface, application](images/051.jpg)
 
 Figure 4
 
 Your search results will appear in a list on the left side \(Figure 5\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/052.jpg)
+![Graphical user interface, application](images/052.jpg)
 
 Figure 5
 
@@ -747,15 +668,11 @@ The Assessment Summary part of a Resource records details about the name, role a
 - Click on the Arches symbol in the upper left corner of the screen \(Figure 3\) to reveal the full main database menu \(Figure 4\)\.
 - Choose from the list beneath ‘Add New Resource’ to start a new one\.
 
-![Graphical user interface, website
-
-Description automatically generated](images/067.jpg)
+![Graphical user interface, website](images/067.jpg)
 
 Figure 3
 
-![Graphical user interface
-
-Description automatically generated](images/068.jpg)
+![Graphical user interface](images/068.jpg)
 
 Figure 4
 
@@ -785,9 +702,7 @@ In the ‘Assessment Investigator – Actor’ field, find and select the name f
 		- Add the name in a different language or alphabet, e\.g\. Arabic, where applicable in the ‘Alternate language name’ field\.
 		- Click on ‘__Add__’\. 
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/070.jpg)
+![Graphical user interface, text, application, email](images/070.jpg)
 
 Figure 6
 
@@ -798,9 +713,7 @@ The new Person/Organization you have now created will appear below the ‘Assess
 - By clicking on the name, you can edit the type of relationship this Person has with the Heritage Place; however, for the ‘Assessment Investigator – Actor’ field this should be left alone\.
 - See __Tutorial 2: Person/Organization Records__ for more information about creating and editing ‘Person/Organization’ records\. 
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/071.jpg)
+![Graphical user interface, application, Teams](images/071.jpg)
 
 Figure 7
 
@@ -833,9 +746,7 @@ The Google Earth Assessment switch \(Figure 8\) is a shortcut to indicate that y
 	- The Activity Type you chose above should contain the phrase ‘Image Interpretation’\.
 	- Make sure the switch is completely green \(to the right\) or blank \(to the left\), do not put it in the middle\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/072.jpg)
+![Graphical user interface, application](images/072.jpg)
 
 Figure 8: A filled in Assessment Summary group with the ‘Google Earth Assessment’ switch put on \(green\)\.
 
@@ -846,9 +757,7 @@ Once you have clicked ‘Add’, in the Heritage Place Card Tree on the left sid
 - 
 	- These fields will allow you to provide further information about the imagery or other resources used specifically for this assessment\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/073.jpg)
+![Graphical user interface, application, Teams](images/073.jpg)
 
 Figure 9: After adding the Assessment, two extra field groups appear, ‘GE Imagery Acquisition Date’ and ‘Information Resource’\.
 
@@ -863,9 +772,7 @@ If you have toggled the ‘Google Earth Assessment’ switch to green \(yes\), y
 	- You can also navigate back to ‘GE Imagery Acquisition Date’ card in the Heritage Place Card Tree and click on the plus sign beside the card name add the next date as above\. 
 	- Repeat until you have added all the relevant dates\. 
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/074.jpg)
+![Graphical user interface, application, Teams](images/074.jpg)
 
 Figure 10: ‘GE Imagery Acquisition’ window\. From the menu you can see that one ‘GE Imagery Acquisition Date’ was already added \(2020\-03\-03, or 3 March 2020\)\. The second one is in progress of being added\.
 
@@ -884,9 +791,7 @@ If you have used an Information Resource \(imagery, publication, etc\.\) specifi
 	- Add additional ‘Information Resources’ to each Assessment by clicking the plus sign next to the Information Resource Card name in the Card Tree
 	- If your Information Resource is applicable to the whole Heritage Place and multiple assessments, you should add it through the ‘Related Resources’ card \(see __Tutorial 9: Related Resources __and __Tutorial 15: Information Resources__\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/075.jpg)
+![Graphical user interface, application, Teams](images/075.jpg)
 
 Figure 11: Adding an Information Resource to a specific Assessment\. To navigate to the Information Resource record, click on the ‘pen’ symbol next to the Information Resource number\.
 
@@ -899,9 +804,7 @@ Enter as many Assessment entries as necessary \(e\.g\. one each for field\-based
 	- Alternatively, you can also click on ‘\+Add New’ on the top right corner of the page and repeat the steps above\. 
 	- Each assessment entry will appear under the main Assessment Summary Card in the Card Tree on the left side \(Figure 12\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/076.jpg)
+![Graphical user interface, application, Teams](images/076.jpg)
 
 Figure 12: An Assessment Summary with two assessment entries added\.
 
@@ -914,9 +817,7 @@ In this tutorial you will learn how to fill in the Resource Summary page of a He
 - To navigate between the different sections \(‘cards’\) of the record, use the Card Tree on the left side of the screen\.
 - Click on __Resource Summary__ to move to that card \(Figure 1\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/077.jpg)
+![Graphical user interface, application, Teams](images/077.jpg)
 
 Figure 1: Click on the Resource Summary card\.
 
@@ -940,9 +841,7 @@ The ‘Name’ section consists of two fields: ‘Resource Name’ and ‘Name T
 
 If the site has no known names or designations, you may leave this field blank\.
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/078.jpg)
+![Graphical user interface, text, application, email](images/078.jpg)
 
 Figure 2: The Resource Name field with the example of an ‘Alternative Reference’ from a survey gazetteer\.
 
@@ -967,9 +866,7 @@ In this field, you will enter the 'Heritage Place Type’ of the site that you a
 	- When there are multiple correct options, choose the most specific one\. When in doubt, use “Archaeological Site”\.
 - Click ‘__Add__’\. Your entry will appear below and in the Card Tree on the left\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/080.jpg)
+![Graphical user interface, application](images/080.jpg)
 
 Figure 4: Heritage Place Type field\.
 
@@ -993,9 +890,7 @@ A Designation should be added when a site is listed on an official list or regis
 - Click ‘__Add__’\. Your entry will appear below and in the Card Tree on the left\.
 - Repeat as many times as necessary until you have listed all of the official lists or registers 	that the site is on\.
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/081.jpg)
+![Graphical user interface, text, application](images/081.jpg)
 
 Figure 5: Adding the UNESCO World Heritage List Designation, assigned at 14 July 2016\. The site is still on the list, so the ‘Designation To Date’ \(end\) date field is left blank\. 
 
@@ -1018,9 +913,7 @@ A site may have multiple functions, so repeat the steps above as many times as n
 	- However, if you are recording a building with an uncertain interpretation, and it could be a temple OR it could be a house, you may choose ‘Religious’ OR ‘Domestic’, but not both\.
 		- Choose the one you think is more likely to be correct\. If you are really not sure, choose ‘Unknown’\.
 
-![Graphical user interface, text, application, email, Teams
-
-Description automatically generated](images/082.jpg)
+![Graphical user interface, text, application, email, Teams](images/082.jpg)
 
 Figure 6: The Heritage Place Function group, filled in as having an “Agricultural/Pastoral” function with a “High” certainty\.
 
@@ -1035,9 +928,7 @@ In this field you can add a \(brief\) description about the site, information ab
 - Click ‘__Add__’\. Your entry will appear below and in the Card Tree on the left\.
 - Repeat as many times as necessary if you need to enter different types of descriptions or comments\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/083.jpg)
+![Graphical user interface, application, Teams](images/083.jpg)
 
 Figure 7: Choosing a term from the ‘Resource Descriptions Type’ menu\.
 
@@ -1049,9 +940,7 @@ This section records details about the geographic location and extent of the Res
 
 Click on ‘Geometries’ in the Card Tree on the left side to go to that Card \(Figure 1\)\.
 
-![Graphical user interface
-
-Description automatically generated](images/084.jpg)
+![Graphical user interface](images/084.jpg)
 
 Figure 1: \(Navigating to\) the geometry card\.
 
@@ -1089,15 +978,11 @@ If you used the previous version of the EAMENA database, you are probably used t
 	4. The point you drew above will automatically move to the correct location\.
 	5. Finish by clicking on the green ‘Update Features’ button\.
 
-![A close up of a map
-
-Description automatically generated](images/086.jpg)
+![A close up of a map](images/086.jpg)
 
 Figure 3: Click on GeoJSON editor, after having added a point geometry in a random location\.
 
-![A screenshot of a social media post
-
-Description automatically generated](images/087.jpg)
+![A screenshot of a social media post](images/087.jpg)
 
 Figure 4: Adjusting the coordinates in the ‘Edit GeoJSON’ field\.
 
@@ -1127,27 +1012,19 @@ To draw a polygon:
 - If you want to delete your geometry, click on the ‘bin’ icon next to it \(Figure 8\)\.
 	- If you used Method 3 above to find the location of your site, after you have drawn your polygon, delete the original Point you drew\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/088.jpg)
+![Graphical user interface, application](images/088.jpg)
 
 Figure 5
 
-![Graphical user interface
-
-Description automatically generated](images/089.jpg)
+![Graphical user interface](images/089.jpg)
 
 Figure 6: Drawing a polygon
 
-![A picture containing graphical user interface
-
-Description automatically generated](images/090.jpg)
+![A picture containing graphical user interface](images/090.jpg)
 
 *Figure 7: Geometry card with one polygon, showing the outline of the archaeological remains\.*
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/091.jpg)
+![Graphical user interface, text, application](images/091.jpg)
 
 Figure 8: Editing \(or deleting\) a geometry\. You can also edit the geometry by clicking on it in the map\.
 
@@ -1171,9 +1048,7 @@ In this field you will indicate how certain you are that the boundaries of the g
 	- Note that ‘Definite’ should only be used for sites for which the boundary of the site has been mapped in the field\.
 	- If no polygon has been created, because, for example the exact location or boundaries of the site are completely unknown, choose the term ‘Negligible’\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/092.jpg)
+![Graphical user interface, application](images/092.jpg)
 
 *Figure 9*
 
@@ -1203,9 +1078,7 @@ Click on__ __‘Geography’__ __in the Card Tree to go to that Card \(Figure 1\
 
 - You will see the map window in this Card, but it will not be necessary to use it fill in any specific information\. See __Tutorial 5: Geometries__ for more information about the map window\.
 
-![Graphical user interface, website
-
-Description automatically generated](images/093.jpg)
+![Graphical user interface, website](images/093.jpg)
 
 *Figure 1: The Geography Card*
 
@@ -1220,9 +1093,7 @@ In this field you will enter the overall, horizontal shape of the full extent of
 	- Choose the term closest to the actual shape of the Heritage Place rather than how you ended up drawing it\. 
 		- For example, if you drew a polygon around a circular Heritage Place because it was too difficult to draw a perfect circle, the shape is ‘Circular’ and not ‘Polygonal’\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/094.jpg)
+![Graphical user interface, application](images/094.jpg)
 
 Figure 2: The dropdown list of the Shape field \(scroll down for more options\)\.
 
@@ -1269,15 +1140,11 @@ To enter the Grid Square:
 	- There may be rare circumstances where your site overlaps two grid squares\. In this case, choose the square in which the majority of your site falls\.
 	- Alternatively, you can choose to add the second Grid Square as a Related Resource\. See __Tutorial 9: Related Resources__ for instructions how to do this\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/095.jpg)
+![Graphical user interface, application](images/095.jpg)
 
 Figure 3: If you type a Grid Square number that is not yet in the list, the ‘Create a new Grid Square’ option appears\.
 
-![Graphical user interface, application, Word
-
-Description automatically generated](images/096.jpg)
+![Graphical user interface, application, Word](images/096.jpg)
 
 Figure 4: The ‘Add new Grid Square’ window\.
 
@@ -1293,9 +1160,7 @@ Click ‘__Add__’ to save the information in this card\. It will be appear in 
 
 After you click Add, two more cards will also appear in the card tree below your entry: Administrative Division and Address \(Figure 5\)\.
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/097.jpg)
+![Graphical user interface, text, application, email](images/097.jpg)
 
 Figure 5
 
@@ -1333,9 +1198,7 @@ In this tutorial you will enter more detailed information about the Heritage Pla
 
 Click on ‘__Archaeological Assessment’__ in the Card Tree on the left to go to that card \(Figure 1\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/098.jpg)
+![Graphical user interface, application, Teams](images/098.jpg)
 
 Figure 1
 
@@ -1376,9 +1239,7 @@ In this field you will define the cultural period\(s\) that are represented at t
 		- You might for example be entering data that someone else has recorded in the field, or you might get your information from someone else’s work \(a report, book, etc\.\)\. If the name refers to the author of a published or unpublished work, make sure to also make an Information Resource for this and relate it to the current Heritage Place record\.
 - Click ‘__Add__’\.
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/099.jpg)
+![Graphical user interface, text, application, email](images/099.jpg)
 
 Figure 2: ‘Cultural Period’ field group, indicating that the Heritage Place probably dates to the Levantine/Mesopotamian Neolithic, as based on information by Gary Rollefson \(in this case found in a publication that is entered as an Information Resource and linked to this record\)\.
 
@@ -1394,18 +1255,14 @@ Figure 2: ‘Cultural Period’ field group, indicating that the Heritage Place 
 	- __Note__: Use ‘Definite’ only when the site material has been analysed and there is no doubt about that time\-period\.
 - Click ‘__Add__’\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/100.jpg)
+![Graphical user interface, application](images/100.jpg)
 
 Figure 3: Adding a sub\-period to the main Cultural Period of ‘Neolithic \(Levant/Mesopotamia\)’
 
 - To add another sub\-period WITHIN the same Cultural Period you have already chosen, click on ‘Cultural Sub\-period’ in the Card Tree on the left \(or the ‘\+ Add New’ tab on the top right corner of the page\)\.
 - To add a new Cultural Period, click on ‘Cultural Period Belief’ in the Card Tree and repeat the steps above as many times as necessary to record all of the cultural periods and sub\-periods which are relevant to the site \(Figure 4\)\.
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/101.jpg)
+![Graphical user interface, text, application](images/101.jpg)
 
 Figure 4: Detailed view of the Card Tree, showing two ‘Cultural Period Type’ entries: the first \(Neolithic \(Levant/Mesopotamia\)\) has two sub\-periods entered, while the second \(Bronze Age \(Levant\)\) only has one\.
 
@@ -1442,15 +1299,11 @@ In this card, you will record the details about the different features which mak
 - Alternatively, click ‘Site Features’ in the Card Tree on the left \(Figure 5\)\.
 - Either method will open the ‘Site Features’ card \(Figure 6\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/102.jpg)
+![Graphical user interface, application, Teams](images/102.jpg)
 
 Figure 5: Click on ‘Add’ under Site Features, or directly on ‘Site Features’ in the Card Tree on the left
 
-![Graphical user interface, application
-
-Description automatically generated](images/103.jpg)
+![Graphical user interface, application](images/103.jpg)
 
 Figure 6: First few fields of the ‘Site Features’ card\.
 
@@ -1469,9 +1322,7 @@ In the first section, ‘Site Feature Form’, you will describe the physical ch
 - Click ‘__Add__’\.
 	- Your entry will appear in the Card Tree on the left below the ‘Site Feature Form’ Card, with three new cards below it \(Figure 7\)\.
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/104.jpg)
+![Graphical user interface, text, application, email](images/104.jpg)
 
 Figure 7: Navigating to the Site Feature Shape Type field in the Card Tree
 
@@ -1521,9 +1372,7 @@ In this card you will list the known interpretation\(s\) of the feature\(s\) you
 		- However, if you are not certain of the interpretation of the cairns, e\.g\. they could be tombs, OR they could be clearance cairns, you should pick the interpretation you think is more likely, but not both\.
 		- If you are really not sure, choose ‘Unknown’\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/105.jpg)
+![Graphical user interface, application, Teams](images/105.jpg)
 
 Figure 8: ‘Site Feature’ Card showing a ‘Site Feature Form’ of ‘Small Mound/Cairn’ with two ‘Site Feature Interpretations’
 
@@ -1550,9 +1399,7 @@ In this field you can record a relationship between the specific ‘Site Feature
 		- Click on dropdowns to change the relationships if necessary\.
 - Repeat if there are multiple relationships\. 
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/106.jpg)
+![Graphical user interface, text, application, email](images/106.jpg)
 
 Figure 8: A relationship entry between a ‘Site Feature’ and another Heritage Place \(EAMENA\-0000005\) with the default relationship types\. This indicates that the individual Site Feature you are recording here, contains the entire Heritage Place recorded in EAMENA\-0000005\.
 
@@ -1589,9 +1436,7 @@ To start recording the next feature, add a new ‘Site Feature’ entry, as outl
 - Click on the plus sign beside the Site Feature card in the card tree on the left to create a new, blank ‘Site Feature’ card \(Figure 9\)\.
 - Repeat the steps above until you have recorded all of the features present at your Heritage Place\.
 
-![Graphical user interface, text, application, Teams
-
-Description automatically generated](images/107.jpg)
+![Graphical user interface, text, application, Teams](images/107.jpg)
 
 Figure 9: A record with one completed Site Feature entry, which has a group of Small Mound/Cairns, which have two interpretations\. Below, is a new, blank, Site Feature entry, ready to be filled in\.
 
@@ -1609,9 +1454,7 @@ In these fields you will enter any measurements that related to the Heritage Pla
 - Repeat for each relevant measurement\. 
 	- Make sure to click on either ‘Measurements’ in the menu or on ‘\+Add new’ in the upper right first before adding a new measurement, as otherwise you will be editing the previous one instead\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/108.jpg)
+![Graphical user interface, application](images/108.jpg)
 
 *Figure 10: Length and width of the Heritage Place of 250 m by 100 m\. The latest addition, the Breadth/Width of 100m is shown in the edit window here\.*
 
@@ -1650,9 +1493,7 @@ This Card records details about the environmental setting of the Heritage Resour
 
 Click on ‘Environment Assessment’ in the Card Tree to access that Card \(Figure 1\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/109.jpg)
+![Graphical user interface, application, Teams](images/109.jpg)
 
 Figure 1: The Environment Assessment Card\.
 
@@ -1812,9 +1653,7 @@ Click on__ ‘__Related Resources’__ __in the card tree to access the Related 
 
 - The ‘Related Resources’ is only accessible once the record has been saved and has an EAMENA\-number\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/119.jpg)
+![Graphical user interface, application](images/119.jpg)
 
 Figure 1
 
@@ -1830,9 +1669,7 @@ Click in the ‘Related Resources’ field and start typing the Resource ID numb
 	- If you don’t know the number, open the search in a different browser tab, and look it up \(see __Tutorial 1: Searching the Database__\)\.
 - Click ‘__Add__’\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/120.jpg)
+![Graphical user interface, application](images/120.jpg)
 
 Figure 2
 
@@ -1845,9 +1682,7 @@ A default relationship type is automatically assigned based on the type of resou
 - Repeat until you have added all the resources that are related to the Heritage Place\.
 	- Click on the ‘pencil’ \(edit\) symbol next to the Related Resource name to go directly to its editing page\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/121.jpg)
+![Graphical user interface, application](images/121.jpg)
 
 Figure 3
 
@@ -1886,9 +1721,7 @@ Figure 3: Adding a new Geoarchaeology resource from the main window\.
 
 You will see the same setup as the standard Heritage Place Resource Model with a Card Tree on the left side showing 7 cards which can be filled in \(Figure 4\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/125.jpg)
+![Graphical user interface, application](images/125.jpg)
 
 Figure 4: Navigating through a Geoarchaeology record using the Card Tree\.
 
@@ -1958,9 +1791,7 @@ Differences to Heritage Place:
 		- Refer to the Glossary for definitions of these terms\.
 	- Click __‘Add’__
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/126.jpg)
+![Graphical user interface, text, application](images/126.jpg)
 
 Figure 5: Extra mandatory field ‘Process Indicator/Evidence of’ 
 
@@ -1968,9 +1799,7 @@ Figure 5: Extra mandatory field ‘Process Indicator/Evidence of’
 
 Figure 6: Select the appropriate Process Indicator of/Evidence of Type’
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/128.jpg)
+![Graphical user interface, text, application, email](images/128.jpg)
 
 Figure 7: Select the appropriate certainty\.
 
@@ -1994,21 +1823,15 @@ Differences to Heritage Place:
 	- Click on the ‘Overall Location Type’__ __field and choose the most appropriate term from the dropdown \(Figure 10\)\. 
 		- Refer to the Glossary for definitions of these terms\. 
 
-![Map
-
-Description automatically generated](images/129.jpg)
+![Map](images/129.jpg)
 
 Figure 8: The Geoarchaeology Geography Card, highlighting extra, mandatory fields
 
-![Graphical user interface, application, email
-
-Description automatically generated](images/130.jpg)
+![Graphical user interface, application, email](images/130.jpg)
 
 Figure 9: The ‘Maritime Region Type’ field
 
-![Graphical user interface, application
-
-Description automatically generated](images/131.jpg)
+![Graphical user interface, application](images/131.jpg)
 
 Figure 10: The ‘Overall Location Type’ field
 
@@ -2364,9 +2187,7 @@ To start a new ‘Cause’ card, click ‘Cause’ in the Card Tree on the left\
 	- ‘Unknown’ should be selected when you cannot identify a specific Disturbance Cause, but you can identify the disturbance effects \(see below\)\.
 	- ‘No Visible/Known’ should be selected when there are NO identifiable or known disturbances\. 
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/151.jpg)
+![Graphical user interface, application, Teams](images/151.jpg)
 
   Figure 6
 
@@ -2424,9 +2245,7 @@ It is possible to know the Disturbance Effect but not the Disturbance Cause\. Fo
 
 - Click on ‘Effect’ in the Card Tree to go to that card \(Figure 9\)\. 
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/154.jpg)
+![Graphical user interface, application, Teams](images/154.jpg)
 
 Figure 9
 
@@ -2449,9 +2268,7 @@ Figure 9
 - Repeat as many times as necessary by clicking on “\+ Add New” tab on the top right corner of the window to add multiple Effects for the same Disturbance Cause \(Figure 10\)\. 
 - You can also click on ‘Effect’ in the Card Tree to create a new entry\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/155.jpg)
+![Graphical user interface, application, Teams](images/155.jpg)
 
 Figure 10
 
@@ -2467,9 +2284,7 @@ To add other ‘Disturbance Category’, click on ‘Disturbance’ in the Card 
 
 Repeat these steps as many times as necessary to record all of the Disturbances affecting the Heritage Place you are recording \(Figure 11\)
 
-![Timeline
-
-Description automatically generated](images/156.jpg)
+![Timeline](images/156.jpg)
 
 Figure 11: Card Tree showing two Disturbance entries\. The first entry is for the ‘Agricultural/Pastoral’ Category, which has two Causes recorded, each with their Effects, that belong to that category\. The second entry is for ‘Looting/Illegal Activities’, with a single Cause and its Effect\.
 
@@ -2600,9 +2415,7 @@ To create a new Built Component record, click on the ‘Resource Manager’ butt
 
 Figure 1: Adding a new Built Component from the Resource Manager page\.
 
-![Graphical user interface, website
-
-Description automatically generated](images/159.jpg)
+![Graphical user interface, website](images/159.jpg)
 
 Figure 2: Adding a new Built Component from the left side menu
 
@@ -2612,9 +2425,7 @@ To add information to an existing Built Component, search for it in the database
 
 When the new or existing record opens, on the left side of the page you will see the resource’s Card Tree\. You can navigate between different sections of the record by selecting a card \(for example Built Component Observation card or Material card\) \(Figure 3\)\. 
 
-![Graphical user interface, application
-
-Description automatically generated](images/160.jpg)
+![Graphical user interface, application](images/160.jpg)
 
 Figure 3: A new Built Component record with Card Tree on the left
 
@@ -2624,9 +2435,7 @@ In this card you will enter information about the type and orientation of the Bu
 
 - Click on ‘Built Component Observation’ in the Card Tree to go to that card \(Figure 4\)
 
-![Graphical user interface, text, application, email
-
-Description automatically generated](images/161.jpg)
+![Graphical user interface, text, application, email](images/161.jpg)
 
 Figure 4: The Built Component Observation Card
 
@@ -2663,9 +2472,7 @@ You can use this field to upload images to the Built Component record, or any ot
 	- Note that your document is not saved on the database until you click the ‘Add” button\. 
 	- You may upload as many documents as you need; however, the maximum size of any single file is 200MB\. 
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/162.jpg)
+![Graphical user interface, application, Teams](images/162.jpg)
 
 Figure 5
 
@@ -2735,9 +2542,7 @@ Once you have filled in the fields above, click ‘__Add__’ to save\.
 - Click on ‘\+Add New’ on the top right corner of the blue banner or the ‘Material’ card in the Card Tree and repeat the steps above\. 
 - Each recorded material will appear as an entry in the Card Tree below the ‘Material’ card \(Figure 8\)
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/165.jpg)
+![Graphical user interface, application, Teams](images/165.jpg)
 
 Figure 8
 
@@ -2845,15 +2650,11 @@ Click on the ‘Detailed Condition Assessment’ field and type ‘create’ or 
 
 - Click on it and fill in the Assessment Summary information in the window that appears \(Figure 11\)\.  
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/167.jpg)
+![Graphical user interface, text, application](images/167.jpg)
 
 Figure 10
 
-![Graphical user interface, application
-
-Description automatically generated](images/168.jpg)
+![Graphical user interface, application](images/168.jpg)
 
 Figure 11
 
@@ -2867,9 +2668,7 @@ Fill out the ‘Investigator Name’, Investigator Role Type’, and ‘Activity
 		- Make sure to then complete the rest of the DCA record\. Click on the ‘edit’ \(pencil\) icon to access the new DCA and follow the steps detailed in __Tutorial 14: Detailed Condition Assessment\.__  
 		- You can also use this number to search for and edit the DCA later, but we recommend doing it as soon as possible after its creation\. 
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/169.jpg)
+![Graphical user interface, application, Teams](images/169.jpg)
 
 Figure 12
 
@@ -2886,9 +2685,7 @@ Click on ‘Related Resources’ in the Card Tree to view a list of the relation
 
 - Note that this card is only available once the record has been saved\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/170.jpg)
+![Graphical user interface, application](images/170.jpg)
 
 Figure 13
 
@@ -2927,17 +2724,13 @@ To add information to an existing DCA:
 - Or search for it in the database and click on ‘Edit’ below its CONDITION\-number in the search results\.
 - Refer to __Tutorial 1: Searching the Database – Basic__, for detailed instructions about searching\.
 
-![Graphical user interface, application, email, Teams
-
-Description automatically generated](images/171.jpg)
+![Graphical user interface, application, email, Teams](images/171.jpg)
 
 Figure 1: Click the pencil icon to edit an existing DCA record
 
 When the new or existing record opens, on the left side of the page you will see the resource’s Card Tree\. You can navigate between different sections of the record by clicking on the individual cards, for example Assessment Summary or Damage Assessment \(Figure 2\)\.
 
-![A picture containing table
-
-Description automatically generated](images/172.jpg)
+![A picture containing table](images/172.jpg)
 
 Figure 2: Card Tree for DCA record
 
@@ -2946,9 +2739,7 @@ In some cases you may create a new DCA record from scratch\. To create a new DCA
 - Choose ‘Detailed Condition Assessment’ and click on ‘Create Resource’ \(Figure 3\)\. 
 - Alternatively, you can go directly to a new DCA record by hovering over the Resource Manager icon on the left side, then choosing ‘Detailed Condition Assessment’ from the list that appears\. 
 
- *![Graphical user interface, website
-
-Description automatically generated](images/173.jpg)*
+ *![Graphical user interface, website](images/173.jpg)*
 
 Figure 3: Click on ‘Create Resource’ in the Resource Manager Page or on ‘Detailed Condition Assessment’ in the left side menu\.
 
@@ -3081,9 +2872,7 @@ In the ‘Modification’ fields, you will add information about any previous co
 	- Your entry will appear below the ‘Add’ button and below ‘Modification’ in the Card Tree\.
 - Repeat the steps above to add further entries \(Figure 6\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/176.jpg)
+![Graphical user interface, application, Teams](images/176.jpg)
 
 *Figure 6: A DCA with one Modification entry already saved and a second being entered\.*
 
@@ -3103,9 +2892,7 @@ In the ‘Construction Technique Type’ fields, you will enter information abou
 	- Your entry will appear below the ‘Add’ button and below ‘Construction Technique Type’ in the Card Tree\.
 - Repeat the steps above to add further entries\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/177.jpg)
+![Graphical user interface, application, Teams](images/177.jpg)
 
 *Figure 7: The Materials and Construction Technique Type fields*
 
@@ -3177,9 +2964,7 @@ The entry will appear in the Card Tree below the ‘Disturbance’ Card \(Figure
 
 - The ‘Damage Observation’ card will also appear below your entry\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/179.jpg)
+![Graphical user interface, application, Teams](images/179.jpg)
 
 Figure 9: A saved Disturbance entry
 
@@ -3237,9 +3022,7 @@ The entry will appear in the Card Tree below the ‘Damage Observation’ Card \
 
 - Click ‘Damage Observation’ in the Card Tree or ‘\+Add New’ in the top right corner of the screen to add further Damage Observation entries for the Disturbance you are recording and repeat the steps above \(Figure 10\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/180.jpg)
+![Graphical user interface, application, Teams](images/180.jpg)
 
 Figure 10: A Disturbance Cause entry with two Damage Observation entries\.
 
@@ -3270,9 +3053,7 @@ Click on ‘Recommendation Plan’ in the Card Tree to go to that card\.
 	- You can add as many Recommendation Plans as are appropriate and necessary 
 	- Click on ‘\+ Add New’ in the top right corner or on ‘Recommendation Plan’ in the Card Tree to start a new entry \(Figure 12\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/182.jpg)
+![Graphical user interface, application, Teams](images/182.jpg)
 
 *Figure 12*
 
@@ -3291,9 +3072,7 @@ Click on ‘Damage Assessment’ to return to the main Damage Assessment window 
 - To add additional Damage Assessors, you must return to the main Damage Assessment window
 	- Scroll down to the ‘Damage Assessor’ section and repeat the steps above\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/183.jpg)
+![Graphical user interface, application, Teams](images/183.jpg)
 
 Figure 13
 
@@ -3303,9 +3082,7 @@ In this card you will record information about potential threats and future risk
 
 Click on ‘Threat and Risk Assessment’ in the Card Tree to go directly to a blank card to begin your data entry, or click on ‘\+’ beside it to expand the nested cards \(Figure 14\): Threat Event, Recommendation and Priority, and Threat and Risk Assessor\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/184.jpg)
+![Graphical user interface, application, Teams](images/184.jpg)
 
 Figure 14: Card Tree showing Threat and Risk Assessment cards and a new, blank, Threat and Risk Assessment window\.
 
@@ -3376,9 +3153,7 @@ The entry will appear in the Card Tree below the ‘Threat Event’ Card \(Figur
 
 - The ‘Potential Impact Type’, ‘Secondary Threat Type’, and ‘Risk Level Belief’ cards will also appear below your entry \(Figure 15\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/185.jpg)
+![Graphical user interface, application](images/185.jpg)
 
 Figure 15
 
@@ -3545,9 +3320,7 @@ Click on ‘Related Resources’ in the Card Tree to view a list of the relation
 
 - Note that this card is only available once the record has been saved\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/192.jpg)
+![Graphical user interface, application](images/192.jpg)
 
 Figure 22
 
@@ -3581,15 +3354,11 @@ Method 1: Create a new record from the Resource Manager page, and then relate it
 - To create a new Information Resource from the Homepage, click on ‘Create New Heritage Resources’ towards the top right of the page\. This will take you to the ‘Resource Manager’ page \(Figure 1\)\.
 - In the Resource Manager, go to ‘Information Resource’ and click on ‘Create Resource’ \(Figure 2\)\.
 
-![A picture containing outdoor, sitting, sign, large
-
-Description automatically generated](images/193.jpg)
+![A picture containing outdoor, sitting, sign, large](images/193.jpg)
 
 Figure 1
 
-![Graphical user interface
-
-Description automatically generated](images/194.jpg)
+![Graphical user interface](images/194.jpg)
 
 Figure 2
 
@@ -3601,9 +3370,7 @@ On the left\-hand side of the screen under ‘New Resource \(Information Resourc
 
 - You can navigate between the different sections of the record by selecting the Cards\.
 
-![Graphical user interface, application, Word
-
-Description automatically generated](images/195.jpg)
+![Graphical user interface, application, Word](images/195.jpg)
 
 Figure 3: The Card Tree
 
@@ -3632,9 +3399,7 @@ This field records the type of resource from which the data you are using has co
 
 IMPORTANT: Remember the category of the ‘Resource Type’ you have entered\. You will then fill in the information for the ‘Card’ of the same name\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/196.jpg)
+![Graphical user interface, application](images/196.jpg)
 
 Figure 4
 
@@ -3648,9 +3413,7 @@ In this field you will record the format of the resource that you used/consulted
 - Repeat if relevant\.
 	- It is possible to add multiple Formats, for example if you are adding exactly the same book that you have used in both its physical and digital form \(Figure 5\)\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/197.jpg)
+![Graphical user interface, application, Teams](images/197.jpg)
 
 Figure 5
 
@@ -3676,9 +3439,7 @@ Click on ‘Bibliography’ in the Card Tree to go directly to that card \(Figur
 - You can do your data entry directly in this window for all fields or click on the ‘\+’ beside ‘Bibliography’ in the Card Tree to expand the nested fields\.
 - You can click on each field the fill them in one by one\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/198.jpg)
+![Graphical user interface, application, Teams](images/198.jpg)
 
 Figure 6
 
@@ -3794,9 +3555,7 @@ Note: This field should only be used if the figure in question stands alone as i
 - Click on the ‘Figure Number\(s\)’ field and enter the figure number or letter\.
 - Click ‘__Add__’\.
 
-![A screenshot of a cell phone
-
-Description automatically generated](images/199.jpg)
+![A screenshot of a cell phone](images/199.jpg)
 
 Figure 7: A completed record view example of an entry for a book\. 
 
@@ -3817,9 +3576,7 @@ Click on ‘Imagery’ in the Card Tree to go directly to that card \(Figure 8\)
 - You can do your data entry directly in this window for all fields or click on the ‘\+’ beside ‘Imagery’ in the Card Tree to expand the nested fields\.
 - You can click on each field the fill them in one by one\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/200.jpg)
+![Graphical user interface, application, Teams](images/200.jpg)
 
 Figure 8: The Imagery card
 
@@ -3930,15 +3687,11 @@ Enter the resolution of the image at the time of its acquisition\.
 	- For Google Earth:
 		- Choose ‘Unknown’\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/201.jpg)
+![Graphical user interface, application](images/201.jpg)
 
 Figure 9: Image detail fields filled in for a ground photograph\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/202.jpg)
+![Graphical user interface, application](images/202.jpg)
 
 Figure 10: Image detail fields filled in for Google Earth imagery\.
 
@@ -3985,9 +3738,7 @@ Enter the latest date on which the version of the image being consulted was crea
 - Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
 - If only the year is known, enter the year and choose 1 January for the date\. Similarly, if only the year and month is known, enter the date as the 1st of the appropriate month, for example 2020\-05\-01 for May 2020\.
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/203.jpg)
+![Graphical user interface, text, application](images/203.jpg)
 
 Figure 11: This image was captured on the 1st of October 2020 and the file was changed \(e\.g\. processed\) on the 23rd of October 2020\.
 
@@ -3998,21 +3749,15 @@ Enter the type of copyright that applies to the image\. This field may NOT be le
 - Click on the ‘Right Type’ field and select an option from the dropdown list
 - Click ‘__Add__’\.
 
-![Graphical user interface
-
-Description automatically generated](images/204.jpg)
+![Graphical user interface](images/204.jpg)
 
 Figure 12: A completed record view example of an entry for a ground photograph\. 
 
-![A picture containing table
-
-Description automatically generated](images/205.jpg)
+![A picture containing table](images/205.jpg)
 
 Figure 13: A completed record view example of an entry for a satellite image for which you have access to the original image \(i\.e\. not an online viewer like Google Earth\)\.
 
-![A picture containing table
-
-Description automatically generated](images/206.jpg)
+![A picture containing table](images/206.jpg)
 
 Figure 14: A completed record view entry for Google Earth imagery\.
 
@@ -4107,9 +3852,7 @@ Enter the date of the map\. If the date is unknown, leave this field blank\.
 - Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
 - If only the year is known, enter the year and choose 1 January for the date\. Similarly, if only the year and month is known, enter the date as the 1st of the appropriate month, for example 2020\-05\-01 for May 2020\.
 
-![Graphical user interface, application, email
-
-Description automatically generated](images/207.jpg)
+![Graphical user interface, application, email](images/207.jpg)
 
 Figure 15: A completed record view entry for a map\. 
 
@@ -4157,9 +3900,7 @@ Enter the Date of the sharing agreement\. If this information is unknown, leave 
 - Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
 - If only the year is known, enter the year and choose 1 January for the date\. Similarly, if only the year and month is known, enter the date as the 1st of the appropriate month, for example 2020\-05\-01 for May 2020\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/208.jpg)
+![Graphical user interface, application, Teams](images/208.jpg)
 
 Figure 16: An example of a shared dataset Information Resource card\.
 
@@ -4181,9 +3922,7 @@ Click on URLs in the Card Tree to go to that card\.
 
 Note: This will not create a hyperlink directly to the website\(s\) in question\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/209.jpg)
+![Graphical user interface, application](images/209.jpg)
 
 Figure 17: An example of the URL card\.
 
@@ -4224,9 +3963,7 @@ To add a file:
 	- You may upload as many documents as you need\. 
 	- The maximum size of any single file is 200MB; however, please make sure that your file is smaller, __*ideally less than 1 MB*__, and not larger than 3–4 MB, in order to not fill up the database server and keep the database working well\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/210.jpg)
+![Graphical user interface, application](images/210.jpg)
 
 Figure 18
 
@@ -4267,9 +4004,7 @@ Click on ‘Related Resources’ in the Card Tree to go to that card\.
 - Any relationships which already exist between your Information Resource and other records should already appear here, including Person/Organisation records you added in, e\.g\. the ‘Author’ field in previous sections \(Figure 19\)\.
 - Make sure to double\-check that these relationships have been added correctly\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/211.jpg)
+![Graphical user interface, application, Teams](images/211.jpg)
 
 Figure 19: This information resource is already related to the Person/Organization record for ‘Philip Kenrick’ because he was added as the ‘Author’ of the book that this record is for in Section 4\.1 above\.
 
@@ -4295,17 +4030,13 @@ In this tutorial you learn how to manage your records, including how to copy, de
 
 From within any record in the EAMENA database, click on the ‘Manage’ menu in the upper left corner \(Figure 1\)\.
 
-![Graphical user interface
-
-Description automatically generated](images/212.jpg)
+![Graphical user interface](images/212.jpg)
 
 Figure 1
 
 This will reveal the ‘Manage’ menu, which has five options for managing your record \(Figure 2\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/213.jpg)
+![Graphical user interface, application](images/213.jpg)
 
 Figure 2
 
@@ -4319,9 +4050,7 @@ Once you click on ‘Copy Resource’ you will get a notification saying ‘Reso
 
 - Click ‘Ok’\.
 
-![Graphical user interface
-
-Description automatically generated](images/214.jpg)
+![Graphical user interface](images/214.jpg)
 
 Figure 3
 
@@ -4341,9 +4070,7 @@ Click ‘Delete Resource’ to delete your record entirely\.
 - You will receive a warning message \(Figure 4\)\.
 - Click ‘Ok’ to delete your resource\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/215.jpg)
+![Graphical user interface, application](images/215.jpg)
 
 Figure 4
 
@@ -4368,9 +4095,7 @@ Click on ‘Jump to Report’ to open and view the resource report page for your
 - This page shows a full report of your record with all the fields of the resource\. 
 - You can choose to hide any blank fields by toggling the ‘Hide Null Values’ switch in the upper right corner \(Figure 6\)\.
 
-![Graphical user interface, application, PowerPoint
-
-Description automatically generated](images/217.jpg)
+![Graphical user interface, application, PowerPoint](images/217.jpg)
 
 Figure 6: Resource Report page, with ‘Hide Null Values’ switch indicated in red
 
@@ -4406,9 +4131,7 @@ In this tutorial, you will learn how to conduct more complex searches in the EAM
 
 From the search page, click on ‘Advanced Search’ to open the advanced search functions \(Figure 1\)\.
 
-![A screenshot of a computer
-
-Description automatically generated](images/219.jpg)
+![A screenshot of a computer](images/219.jpg)
 
 Figure 1
 
@@ -4417,9 +4140,7 @@ You will see the ‘Advanced Search’ window and a list of ‘Search facets’ 
 - The search facets represent and are organised by Resource Type, Card, and Field\.
 - You can scroll down or use the Search Bar at the top to find the field or card that you wish to search on\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/220.jpg)
+![Graphical user interface, application](images/220.jpg)
 
 Figure 2
 
@@ -4435,9 +4156,7 @@ Click on the facet you wish to search by and a box will appear in the Advanced S
 	- Like: in free\-text fields this will search for terms that match your term and ones that are similar \(e\.g\. alternate spellings\)
 	- Not Like: in free\-text fields this will exclude terms that match your term and ones that are similar
 
-![Graphical user interface, application
-
-Description automatically generated](images/221.jpg)
+![Graphical user interface, application](images/221.jpg)
 
 Figure 3
 
@@ -4445,9 +4164,7 @@ You can define further search parameters within the same card, to filter your re
 
 - In the example in Figure 4, we have further filtered our ‘Libya’ results by the Grid Square E14N32\-32 and can see that the Search Results have been reduced to 42\. This is the equivalent of an ‘AND’ query\.
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/222.jpg)
+![Graphical user interface, application, Teams](images/222.jpg)
 
 Figure 4
 
@@ -4455,9 +4172,7 @@ If you want to add a search term which does not appear in the same Card, find th
 
 - In Figure 5, we searched for sites in Libya, which have an interpretation of ‘Cemetery’, returning 349 results\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/223.jpg)
+![Graphical user interface, application](images/223.jpg)
 
 Figure 5: Second Search Facet from a different Card
 
@@ -4470,9 +4185,7 @@ You can continue to add Search Facets to filter your results further\.
 	- In this case, we can see that the number of search results has increased to 13,157 because it is counting ALL sites in Libya, no matter what their interpretation, and ALL sites interpreted as Cemeteries, no matter what country they are in\.
 - Click on the ‘Remove’ button in the lower right corner of the Search Facet box to remove it\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/224.jpg)
+![Graphical user interface, application](images/224.jpg)
 
 Figure 6
 
@@ -4480,9 +4193,7 @@ The ‘Or’ function, is particularly useful when you want to search for multip
 
 - For example, if you want a list of all the records in the database from either Libya OR Tunisia, you can add the same Search Facet box multiple times \(Figure 7\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/225.jpg)
+![Graphical user interface, application](images/225.jpg)
 
 Figure 7
 
@@ -4581,9 +4292,7 @@ You can combine searches using the Simple Search Bar and the Advanced Search\.
 	- In this case you can enter ‘Syrian Arab Republic’ in the Simple Search Bar to return all results in Syria\. 
 	- Then in the Advanced Search, search for ‘Destroyed’ and ‘Very Bad’ in the ‘Overall Site Condition’ Search Facet, separated by ‘Or’ \(Figure 8\)\.
 
- ![Graphical user interface, application
-
-Description automatically generated](images/229.jpg)
+ ![Graphical user interface, application](images/229.jpg)
 
 Figure 8
 
@@ -4603,9 +4312,7 @@ It is also possible to search the database by filtering based on different date 
 
 - Click on the ‘calendar’ icon in the upper right corner to open the ‘Time Filter’ search options \(Figure 9\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/230.jpg)
+![Graphical user interface, application](images/230.jpg)
 
 Figure 9
 
@@ -4616,17 +4323,13 @@ Find the type of date that you wish to search for in the ‘Type’ dropdown men
 - Whenever possible you should specify what type of date you are looking for because otherwise the search will default to any type of date in any field in the entire database, many of which may not be applicable to your search\.
 - A common choice will be ‘Assessment Summary Activity Date’, that is, the date you made the record\.
 
-![Chart, sunburst chart
-
-Description automatically generated](images/231.jpg)
+![Chart, sunburst chart](images/231.jpg)
 
 Figure 10
 
 Specify the date range you wish to search within by choosing one of the options from the ‘Within’ dropdown menu or choose ‘Custom date range’ and enter the dates in the From and To fields below \(Figure 11\)\.
 
-![Chart, sunburst chart
-
-Description automatically generated](images/232.jpg)
+![Chart, sunburst chart](images/232.jpg)
 
 Figure 11
 
@@ -4637,9 +4340,7 @@ The Time Wheel gives a visual representation of the proportion of different date
 - Double\-clicking on a section will ‘zoom in’ to that period\. Double\-click the centre of the wheel to zoom out again\.
 - In Figure 12, you can see that the smallest orange block represents dates between AD 1000 and 2000\.
 
-![Chart, sunburst chart
-
-Description automatically generated](images/233.jpg)
+![Chart, sunburst chart](images/233.jpg)
 
 Figure 12
 
@@ -4649,9 +4350,7 @@ Click on a section once to set that period as your filter – you will see that 
 - On the left we see that this returns 40,982 results\.
 - To narrow this further by searching only where those dates occur within a specific field, you can choose a ‘Date Interval Type’ as described above\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/234.jpg)
+![Graphical user interface, application](images/234.jpg)
 
 Figure 13
 
@@ -4667,9 +4366,7 @@ For example, if you want to search for all records you have made or contributed 
 - Open the ‘Date Interval’ window and choose ‘Assessment Summary / Activity Date’ from the type
 - Choose ‘This year’ from the ‘Within’ field or enter the dates in the From and To fields \(Figure 14\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/235.jpg)
+![Graphical user interface, application](images/235.jpg)
 
 Figure 14: Search results for all records created or assessed by ‘Nichole Sheldrick’ in the year 2020\.
 
@@ -4688,9 +4385,7 @@ You want to find all the sites where both ‘Tomb/Grave/Burial’ AND ‘Altar�
 	- Type ‘Tomb/Grave/Burial’ into the simple search bar and choose the matching Concept
 	- Type ‘Altar’ into the simple search bar and choose the matching Concept\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/236.jpg)
+![Graphical user interface, application](images/236.jpg)
 
 Figure 15
 
@@ -4702,9 +4397,7 @@ Figure 15
 		- Choose ‘Altar’ from the ‘Site Feature Interpretation Type’ Dropdown
 	- Make sure the ‘And’ option is picked \(this is the default\)\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/237.jpg)
+![Graphical user interface, application](images/237.jpg)
 
 Figure 16
 
@@ -4721,9 +4414,7 @@ To conduct an ‘Or’ search, you MUST use the Advanced Search \(Figure 17\)\.
 	- Choose ‘Algeria’ from the ‘Country’ Dropdown
 	- Click on ‘Or’ to switch to that function\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/238.jpg)
+![Graphical user interface, application](images/238.jpg)
 
 Figure 17
 
@@ -4743,9 +4434,7 @@ You want to find records that you made or did assessments for in Libya between J
 	- Enter 2020\-01\-01 into the ‘From’ field
 	- Enter 2020\-06\-30 into the ‘To’ field
 
-![Graphical user interface
-
-Description automatically generated](images/239.jpg)
+![Graphical user interface](images/239.jpg)
 
 Figure 18
 
@@ -4811,9 +4500,7 @@ You want to find all sites along a certain stretch of a wadi which have both Far
 	- Draw a Polygon around the area you want to search \(Figure 19\)\.
 	- See __Tutorial 1: Searching the Database \(Basic\), Section 3__ for more details instructions on how to use the map to search\.
 
-![A picture containing text
-
-Description automatically generated](images/240.jpg)
+![A picture containing text](images/240.jpg)
 
 Figure 19: Defining the Search Area by drawing a polygon\. There are 114 sites recorded in this area\.
 
@@ -4842,9 +4529,7 @@ AND
 
 Heritage Place – Overall Site Condition > __Fair__
 
-![Graphical user interface
-
-Description automatically generated](images/241.jpg)
+![Graphical user interface](images/241.jpg)
 
 Figure 20: The combined Location and Advanced Search results\. There are two sites which have both Farm Building and Tomb/Grave/Burial recorded and are in Good or Fair condition\.
 
@@ -4887,21 +4572,15 @@ What you are asking will depend on the aims and objectives of the analyses that 
 	- You can use the columns for numbers and percentages, and for different regions \(Figure 2b\)\. 
 	- Make sure to keep it as simple as possible\. The aim here is to analyse your data, making a table look nice is better done in the final, presentation stage, and using text editing software like MS Word\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/242.jpg)
+![Graphical user interface, application, table, Excel](images/242.jpg)
 
 Figure 1: One sheet per topic or database field\. Use the ‘\+’ button to add more sheets\.
 
-![Graphical user interface, table, Excel
-
-Description automatically generated](images/243.jpg)
+![Graphical user interface, table, Excel](images/243.jpg)
 
 Figure 2a: An example of a spreadsheet table setup, in this case for Overall Condition\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/244.jpg)
+![Graphical user interface, application, table, Excel](images/244.jpg)
 
 Figure 2b: Spreadsheet setup for Overall Condition, comparing different regions\.
 
@@ -4910,24 +4589,18 @@ Figure 2b: Spreadsheet setup for Overall Condition, comparing different regions\
 - Using what you have learned in __*Tutorial 17:*__ __*Searching the Database 2 – Advanced Search*__, conduct the required searches and enter the numbers in the spreadsheet\.
 	- For example, search for each of the Dropdown menu values of Overall Site Condition in Egypt \(Figure 3\) and enter the resulting numbers in the spreadsheet \(Figure 4\)\.
 
-![Graphical user interface, text, application, chat or text message
-
-Description automatically generated](images/245.jpg)
+![Graphical user interface, text, application, chat or text message](images/245.jpg)
 
 Figure 3: Searching for Heritage Place records in Egypt with a ‘Good’ Overall Condition; there are 1089 of such records\.
 
-![Graphical user interface, table
-
-Description automatically generated](images/246.jpg)
+![Graphical user interface, table](images/246.jpg)
 
 Figure 4: Entering the number of Heritage Places with a ‘Good’ Overall Condition into the spreadsheet\. Repeat for each value in this Dropdown by adjusting the search\.
 
 - It is very important to realize that the total is NOT the sum of the numbers\. This is a common mistake\. Because many of the fields in the database can have multiple values \(e\.g\. a site with a Domestic and Agricultural/Pastoral function\) you cannot just add up the numbers\.
 	- Instead, in the search box, type in the name of the field and select ‘Concepts’\. Click on the correct field\. This gives the total number of records for which this field has been filled in \(Figure 5\)\. If you are only searching within a specific country or area, make sure to leave this part of the search intact as well\.
 
-![Graphical user interface, text, application, chat or text message
-
-Description automatically generated](images/247.jpg)
+![Graphical user interface, text, application, chat or text message](images/247.jpg)
 
 Figure 5: Searching for the total number of Heritage Place records in Egypt for which the Overall Condition field has been filled in\. In this case the number is the same as adding up the values, because there is only ever one Overall Condition per record; for other fields this is, however, not the case\!
 
@@ -4943,15 +4616,11 @@ To get a better understanding of your data, especially in relation to the data i
 	- For more information, see the online information for the programme you are using\.
 	- You can, and normally should, format the number in the cell to make it better readable \(e\.g\. remove the decimal numbers\) \(Figure 7\)\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/248.jpg)
+![Graphical user interface, application, table, Excel](images/248.jpg)
 
 Figure 6: Calculating percentages for each of the categories\.
 
-![Graphical user interface, application, table
-
-Description automatically generated](images/249.jpg)
+![Graphical user interface, application, table](images/249.jpg)
 
 Figure 7: Adjusting the number format in Google Spreadsheets\.
 
@@ -4966,9 +4635,7 @@ For your own understanding as well as to visualize the data for others, it is ve
 	- You can put the columns so that the ones you need are adjacent, or you can use Control \(Windows\) or cmd \(Mac\) to select the data\.
 	- Do not select the ‘total’ row but include the column headers\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/250.jpg)
+![Graphical user interface, application, table, Excel](images/250.jpg)
 
 Figure 8: Selecting the two columns relevant for the graph \(column A for the labels, column C for the values; it is also possible to only select the value or data column C and add the labels to the graph later\)\.
 
@@ -4989,21 +4656,15 @@ Then, find the relevant section below, depending on which software you are using
 		- You can add a second series, for example for a different region here \(Figure 11\)
 	- If you did not already add the X\-axis values in the previous steps, you can do this under X\-axis – three dots – add labels and select the labels \(column A ‘Overall Condition’ in the example\)\.
 
-![Graphical user interface, application, table
-
-Description automatically generated](images/251.jpg)
+![Graphical user interface, application, table](images/251.jpg)
 
 Figure 9: Choose Insert – Chart to add a chart in Google Spreadsheets\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/252.jpg)
+![Graphical user interface, application, table, Excel](images/252.jpg)
 
 Figure 10: the produced chart and the Chart editor window to the right of the screen\.
 
-![Graphical user interface, text, application
-
-Description automatically generated](images/253.jpg)
+![Graphical user interface, text, application](images/253.jpg)
 
 Figure 11: Adding more data to the graph, like a second column for a different region\.
 
@@ -5015,15 +4676,11 @@ To change the layout:
 - In the Chart editor, go to ‘Customise’ \(Figure 13\)
 - Here you can add or edit the style of the chart, titles on the axes, the font on all of these, and much more\. To find out more, play around with this, or refer to the [Google Spreadsheet help pages](https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883), especially [here](https://support.google.com/docs/answer/63824?hl=en&ref_topic=9055207)\.
 
-![Chart
-
-Description automatically generated](images/254.jpg)
+![Chart](images/254.jpg)
 
 Figure 12: Opening the Chart editor\.
 
-![Graphical user interface, chart, application, table, Excel
-
-Description automatically generated](images/255.jpg)
+![Graphical user interface, chart, application, table, Excel](images/255.jpg)
 
 Figure 13: The Chart editor, Customize menu\.
 
@@ -5031,9 +4688,7 @@ Figure 13: The Chart editor, Customize menu\.
 
 - Choose Insert – Chart or click on the ‘Chart’ button in the menu bar \(Figures 14a\-b\)\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/256.jpg)
+![Graphical user interface, application, table, Excel](images/256.jpg)
 
 Figure 14a
 
@@ -5042,18 +4697,14 @@ Figure 14a
 - In the Chart Wizard, choose the chart type \(e\.g\. bar chart\) \(Figure 15\)\. 
 - Click next\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/258.jpg)
+![Graphical user interface, application](images/258.jpg)
 
 Figure 15
 
 - In the Chart Wizard, Data Range, click on the select icon and select the area where your data are \(Figure 16\)\. 
 - Click next\.
 
-![Chart, waterfall chart
-
-Description automatically generated](images/259.jpg)
+![Chart, waterfall chart](images/259.jpg)
 
 Figure 16
 
@@ -5063,15 +4714,11 @@ Figure 16
 	- To remove a series, for example if you do not want to display the ‘number of records column’, but only the ‘% of records column’, select the data series and click on ‘Remove’
 	- Click ‘Next’\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/260.jpg)
+![Graphical user interface, application](images/260.jpg)
 
 Figure 17a: Two data series\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/261.jpg)
+![Graphical user interface, application](images/261.jpg)
 
 Figure 17b: The ‘Number of records’ data series was removed, using the ‘Remove’ button, so that only the ‘% of records’ data series remains to be shown in the graph\.
 
@@ -5083,9 +4730,7 @@ Figure 17b: The ‘Number of records’ data series was removed, using the ‘Re
 	- Choose if you want to display a legend, and where\.
 - Click on ‘Finish’\.
 
-![Chart, waterfall chart
-
-Description automatically generated](images/262.jpg)
+![Chart, waterfall chart](images/262.jpg)
 
 Figure 18: Chart Wizard, Chart Elements window, with X\- and Y\-axis titles added, and the display legend box unticked\.
 
@@ -5094,15 +4739,11 @@ Figure 18: Chart Wizard, Chart Elements window, with X\- and Y\-axis titles adde
 
 ![](images/263.jpg)Figure 19: Format selection button\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/264.jpg)
+![Graphical user interface, application](images/264.jpg)
 
 Figure 20: Formatting the Y Axis numbers \(deselect ‘Source format’ to be able to do this\)\.
 
-![A picture containing graphical user interface, table
-
-Description automatically generated](images/265.jpg)
+![A picture containing graphical user interface, table](images/265.jpg)
 
 Figure 21: Formatting the Data Series, changing the colour of the bars\.
 
@@ -5116,9 +4757,7 @@ This guide was made using a Mac, and things may look a bit different if you are 
 - After selecting your data, in ‘Insert’ \(top of page, near the left\), choose the bar chart symbol \(towards the right of the page\), and select ‘2D charts’ \(or any chart of your choice\) \(Figure 22\)\. 
 - A chart is now produced\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/266.jpg)
+![Graphical user interface, application, table, Excel](images/266.jpg)
 
 Figure 22: Insert – Chart – 2D column\.
 
@@ -5128,15 +4767,11 @@ Figure 22: Insert – Chart – 2D column\.
 		- In the Select Data Source Window, click on the ‘\+’ to add more data\.
 		- In this window, you can also edit the existing data series\.
 
-![Graphical user interface, application, table, Excel
-
-Description automatically generated](images/267.jpg)
+![Graphical user interface, application, table, Excel](images/267.jpg)
 
 Figure 23: Choosing a chart element to edit\.
 
-![Graphical user interface, application
-
-Description automatically generated](images/268.jpg)
+![Graphical user interface, application](images/268.jpg)
 
 Figure 24: Clicking on ‘Select Data’ opens this window\. Here you can select data to show in the graph, and you can edit the data that you already selected\. Click on the ‘\+’ to add an additional data series\.
 
@@ -5157,9 +4792,7 @@ Once you are happy with your graph, you can export it to use it in a presentatio
 - Click on the three dots in the upper right corner of the chart area, choose download, and what you want to download it as \(Figure 26\)\.
 - Alternatively, you can copy\-paste it into your Powerpoint/Google slides or document\.
 
-![A picture containing graphical user interface
-
-Description automatically generated](images/270.jpg)
+![A picture containing graphical user interface](images/270.jpg)
 
 Figure 26
 
@@ -5176,9 +4809,7 @@ Figure 26
 	- Microsoft Office Graphic Object
 	- Picture – this results in the lowest resolution, but it remains unchanged when you make changes in the Excel workbook\. 
 
-![Graphical user interface, application, Teams
-
-Description automatically generated](images/271.jpg)
+![Graphical user interface, application, Teams](images/271.jpg)
 
 Figure 27
 
