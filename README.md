@@ -261,15 +261,15 @@ Click on the Record ID \(e\.g\. EAMENA\-0012345, INFORMATION\-0009876, etc\.\) t
 
 Click on ‘Edit’ to open a new browser tab and go directly to the editing page for a record, which will open in a new browser tab\. Refer to the relevant tutorial on how to edit different types of records\.
 
-*![Graphical user interface, text, application](images/030.jpg)
+![Graphical user interface, text, application](images/030.jpg)
 
 Click on ‘Details’ beneath the Record ID to show a summary preview of the information in that record in the ‘Details’ tab to the right\.
 
-*![Graphical user interface, text, application](images/031.jpg)
+![Graphical user interface, text, application](images/031.jpg)
 
 Click on ‘Map’ beneath the Record ID to zoom to the location of that record on the map to the right\.
 
-*![Graphical user interface, text, application](images/032.jpg)
+![Graphical user interface, text, application](images/032.jpg)
 
 Click on ‘Related Resources’ to show the other records to which an individual record is related in the ‘Related’ pane to the right\. 
 
@@ -377,7 +377,7 @@ Go to the Search page\.
 - From the Home Page, click on ‘Search the EAMENA database’ in the upper right corner\.
 - From anywhere else within the database, click on the ‘Search icon’ in the upper left or upper right corner\.
 
-*The Search icon:* ![](images/047.jpg)
+![](images/047.jpg)
 
 - For more detailed instructions on reaching the Search page, refer to __Tutorial 1: Searching the Database__\.
 
@@ -623,8 +623,7 @@ Click ‘__Add__’\. Once you click Add, your record will be automatically save
 
 Once you have clicked ‘Add’, in the Heritage Place Card Tree on the left side menu, two additional cards / fields have appeared under the Assessment Investigator that you have just added: ‘GE Imagery Acquisition Date’ and ‘Information Resource’
 
-- 
-	- These fields will allow you to provide further information about the imagery or other resources used specifically for this assessment\.
+- These fields will allow you to provide further information about the imagery or other resources used specifically for this assessment\.
 
 ![Graphical user interface, application, Teams](images/073.jpg)
 
@@ -632,12 +631,11 @@ Once you have clicked ‘Add’, in the Heritage Place Card Tree on the left sid
 
 If you have toggled the ‘Google Earth Assessment’ switch to green \(yes\), you should fill in the dates of the imagery you have used for the assessment in this Card\.
 
-- 
-	- Enter the first date by navigating to it in the calendar view; make sure the date is in the yyyy\-mm\-dd format\.
-	- Click on ‘__Add__’\.
-	- Click on ‘\+ Add New’ on the top right corner of the page to add the next date as above\. 
-	- You can also navigate back to ‘GE Imagery Acquisition Date’ card in the Heritage Place Card Tree and click on the plus sign beside the card name add the next date as above\. 
-	- Repeat until you have added all the relevant dates\. 
+- Enter the first date by navigating to it in the calendar view; make sure the date is in the yyyy\-mm\-dd format\.
+- Click on ‘__Add__’\.
+- Click on ‘\+ Add New’ on the top right corner of the page to add the next date as above\. 
+- You can also navigate back to ‘GE Imagery Acquisition Date’ card in the Heritage Place Card Tree and click on the plus sign beside the card name add the next date as above\. 
+- Repeat until you have added all the relevant dates\. 
 
 ![Graphical user interface, application, Teams](images/074.jpg)
 
@@ -645,16 +643,15 @@ If you have toggled the ‘Google Earth Assessment’ switch to green \(yes\), y
 
 If you have used an Information Resource \(imagery, publication, etc\.\) specifically for this assessment, add it in the ‘Information Resource’ Card\. 
 
-- 
-	- Look up the Resource ID number of the Information Resource that you have used \(see __Tutorial 1: Searching the Database__\)\.
-	- Type the number in the field and once it appears, click on it\.
-	- If your Information Resource does not yet exist in the system, you can:
-		- Add it here by clicking on ‘Create a new Information Resource’\. Please note that it is __very important__ to add all relevant information to the Information Resource record\. Make sure to do this straight away by navigating to the record \(you can do this by clicking on the ‘pen’ icon\)\.
-		- OR add it first separately \(see __Tutorial 15: Information Resources__\)\.
-	- Add the ‘Information Resource Acquisition Date’, i\.e\. the date the Information Resource was created \(e\.g\. the day a photo was taken\), in yyyy\-mm\-dd format\.
-	- Click on ‘__Add__’\.
-	- Add additional ‘Information Resources’ to each Assessment by clicking the plus sign next to the Information Resource Card name in the Card Tree
-	- If your Information Resource is applicable to the whole Heritage Place and multiple assessments, you should add it through the ‘Related Resources’ card \(see __Tutorial 9: Related Resources __and __Tutorial 15: Information Resources__\)\.
+- Look up the Resource ID number of the Information Resource that you have used \(see __Tutorial 1: Searching the Database__\)\.
+- Type the number in the field and once it appears, click on it\.
+- If your Information Resource does not yet exist in the system, you can:
+	- Add it here by clicking on ‘Create a new Information Resource’\. Please note that it is __very important__ to add all relevant information to the Information Resource record\. Make sure to do this straight away by navigating to the record \(you can do this by clicking on the ‘pen’ icon\)\.
+	- OR add it first separately \(see __Tutorial 15: Information Resources__\)\.
+- Add the ‘Information Resource Acquisition Date’, i\.e\. the date the Information Resource was created \(e\.g\. the day a photo was taken\), in yyyy\-mm\-dd format\.
+- Click on ‘__Add__’\.
+- Add additional ‘Information Resources’ to each Assessment by clicking the plus sign next to the Information Resource Card name in the Card Tree
+- If your Information Resource is applicable to the whole Heritage Place and multiple assessments, you should add it through the ‘Related Resources’ card \(see __Tutorial 9: Related Resources __and __Tutorial 15: Information Resources__\)\.
 
 ![Graphical user interface, application, Teams](images/075.jpg)
 
@@ -662,10 +659,9 @@ If you have used an Information Resource \(imagery, publication, etc\.\) specifi
 
 Enter as many Assessment entries as necessary \(e\.g\. one each for field\-based assessment and desk\-based data entry, or one for each assessor if there are multiple\)\. 
 
-- 
-	- To add a new entry, using the Card Tree, click on the ‘Assessment Summary’ card and repeat the steps above\. 
-	- Alternatively, you can also click on ‘\+Add New’ on the top right corner of the page and repeat the steps above\. 
-	- Each assessment entry will appear under the main Assessment Summary Card in the Card Tree on the left side\.
+- To add a new entry, using the Card Tree, click on the ‘Assessment Summary’ card and repeat the steps above\. 
+- Alternatively, you can also click on ‘\+Add New’ on the top right corner of the page and repeat the steps above\. 
+- Each assessment entry will appear under the main Assessment Summary Card in the Card Tree on the left side\.
 
 ![Graphical user interface, application, Teams](images/076.jpg)
 
@@ -709,7 +705,7 @@ Click ‘__Add__’\. The name will appear below the field and under the ‘Name
 ![](images/079.jpg)
 
 - You can edit your entry by clicking on it in the editing window or in the Card Tree\.
-	-  Change as required and click on ‘Save edit’\. 
+	- Change as required and click on ‘Save edit’\. 
 - To delete an entry, click on it, and then click on ‘Delete this Name’\.
 - To navigate back to the Resource Summary card and continue editing the fields, click on ‘Resource Summary’ in the Card Tree on the left side\.
 	- Alternatively, you can click on the next section \(‘Heritage Place Type’\) and complete the Resource Summary cards individually\.
@@ -1672,7 +1668,6 @@ This card is used to record the age of the feature or site being described throu
 
 ![](images/139.jpg)
 
-- 
 	- If you are recording multiple features with different ages within the same record, then, click ‘Geoarchaeology Assessment’ in the Card Tree to return to the main Geoarchaeology Assessment Card\. 
 		- Scroll down to the ‘General Date’ section and click ‘__Add__’ to create a new entry and repeat the steps above__\.__
 
@@ -1821,12 +1816,9 @@ For adding detailed information about the condition of a site or parts of a site
 
 Click on the ‘Condition Assessment’__ __card in the Card Tree on the left side to go to that section\.
 
-- 
-	- 
-		- 
-			- This will open a new and blank ‘Condition Assessment’ page\. You can scroll down the page and see the data entry fields in this section\.
-				- You can start entering data directly into the fields from this page\.
-			- Another way to access the data entry fields and cards is by clicking the ‘\+’ button next to the Condition Assessment card\.
+- This will open a new and blank ‘Condition Assessment’ page\. You can scroll down the page and see the data entry fields in this section\.
+	- You can start entering data directly into the fields from this page\.
+- Another way to access the data entry fields and cards is by clicking the ‘\+’ button next to the Condition Assessment card\.
 
 ![](images/146.jpg)
 
@@ -2328,10 +2320,9 @@ If the relationship between the Built Component and Heritage Place does not alre
 
 If you are recording the component before creating the Heritage Place record for it \(not recommended\), you can choose the ‘Create a New Heritage Place…’ option here\. 
 
-- 
-	- To create a new Heritage Place, type ‘create’ or ‘new’ to bring up the “Create a new Heritage Place…” option\.  
-	- Click on it and fill in the Assessment Summary information for this new Heritage Place in the window that appears and click ‘Add’\. 
-	- Click on the edit \(pencil\) icon beside its name in the list to go to that Heritage Place and finish completing the record\.
+- To create a new Heritage Place, type ‘create’ or ‘new’ to bring up the “Create a new Heritage Place…” option\.  
+- Click on it and fill in the Assessment Summary information for this new Heritage Place in the window that appears and click ‘Add’\. 
+- Click on the edit \(pencil\) icon beside its name in the list to go to that Heritage Place and finish completing the record\.
 
 ### Detailed Condition Assessment 
 
@@ -2420,7 +2411,7 @@ In some cases you may create a new DCA record from scratch\. To create a new DCA
 - Choose ‘Detailed Condition Assessment’ and click on ‘Create Resource’\. 
 - Alternatively, you can go directly to a new DCA record by hovering over the Resource Manager icon on the left side, then choosing ‘Detailed Condition Assessment’ from the list that appears\. 
 
- *![Graphical user interface, website](images/173.jpg)
+ ![Graphical user interface, website](images/173.jpg)
 
 ## Assessment Summary
 
@@ -2946,7 +2937,9 @@ You may wish to upload files, such as photographs, or scans of reports and drawi
 	- Click on ‘Download Selected’ to download the image\.
 	- Click on the ‘Loader’ field to choose the appropriate File Renderer based on whether your file is an image or pdf and click ‘Apply to Selected Files’ to change it\.
 
-![](images/191.jpg)To add more files you can:
+![](images/191.jpg)
+
+To add more files you can:
 
 - Click on ‘\+Add New’ in the upper right corner or click on ‘File Upload’ in the Card Tree to go back to the Drag and Drop panel
 - Or click on ‘add files’ in the ‘Manage’ window to select a file from your computer\.
@@ -3848,12 +3841,10 @@ Islamic, Middle
 
 ![](images/227.jpg)
 
-- 
-	- 
-		- That is:
-			- All sites in ‘Jordan’, no matter what date
-			- PLUS any sites in ‘Palestine’ which have a date of ‘Islamic, Early’ 
-			- PLUS all ‘Islamic, Middle’ sites, no matter what country
+- That is:
+	- All sites in ‘Jordan’, no matter what date
+	- PLUS any sites in ‘Palestine’ which have a date of ‘Islamic, Early’ 
+	- PLUS all ‘Islamic, Middle’ sites, no matter what country
 
 To properly conduct this search you must set it up as follows:
 
@@ -3873,7 +3864,7 @@ You can combine searches using the Simple Search Bar and the Advanced Search\.
 	- In this case you can enter ‘Syrian Arab Republic’ in the Simple Search Bar to return all results in Syria\. 
 	- Then in the Advanced Search, search for ‘Destroyed’ and ‘Very Bad’ in the ‘Overall Site Condition’ Search Facet, separated by ‘Or’\.
 
- ![Graphical user interface, application](images/229.jpg)
+![Graphical user interface, application](images/229.jpg)
 
 However, it is important to remember that two particular fields do not work in the Simple Search Bar:
 
