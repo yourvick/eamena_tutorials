@@ -114,7 +114,7 @@ To learn how to create a Detailed Condition Assessment resource, see __Tutorial 
 
 The EAMENA project uses a system of grid squares to divide the region under study into smaller units\. Each Grid Square requires its own record, so that all sites found within that square can be linked to it\. 
 
-In most cases, it is easier and more direct to create a Grid Square resource from within the resource record you are creating\. To learn how to do this from Heritage Place records, see __Tutorial 6, Section 2\.4__\.
+In most cases, it is easier and more direct to create a Grid Square resource from within the resource record you are creating\. To learn how to do this from Heritage Place records, see [__Tutorial 6__](#grid-id)\.
 
 ## Navigating the Database
 
@@ -485,7 +485,7 @@ Click on ‘Lifespan’ in the Card Tree on the left side to enter the dates of 
 Click on ‘Location’ in the Card Tree on the left side to add geographical information about the person or organisation you are recording, for example, the address or country where they are based\. This card is optional\.
 
 - Draw a point, line, or polygon as appropriate by choosing from the ‘Geometric Place Expression: Add a new feature’ dropdown
-	- For more detailed instructions on how to enter geometries, please refer to __Tutorial 5: Heritage Place Geometries__\.
+	- For more detailed instructions on how to enter geometries, please refer to [__Tutorial 5: Heritage Place Geometries__](#tutorial-5-geometries)\.
 - Enter an address in the free\-text box, if it is known and/or applicable\.
 - Select a country from the ‘Country Type’ dropdown menu if it is known and/or applicable\.
 - Click ‘__Add__’\.
@@ -667,7 +667,7 @@ Enter as many Assessment entries as necessary \(e\.g\. one each for field\-based
 
 # TUTORIAL 4: Resource Summary
 
-In this tutorial you will learn how to fill in the Resource Summary page of a Heritage Place record\. The Resource Summary section records details about the name and type of site that is being recorded and its basic characteristics\. This tutorial assumes you have already begun your record and completed the Assessment Summary Card \(see __Tutorial 3: Assessment Summary__\)\. 
+In this tutorial you will learn how to fill in the Resource Summary page of a Heritage Place record\. The Resource Summary section records details about the name and type of site that is being recorded and its basic characteristics\. This tutorial assumes you have already begun your record and completed the Assessment Summary Card \(see [__Tutorial 3: Assessment Summary__](#tutorial-3-assessment-summary)\)\. 
 
 ## Getting Started
 
@@ -905,7 +905,7 @@ In this tutorial you will enter information relating to the geography of the Her
 
 Click on__ __‘Geography’__ __in the Card Tree to go to that Card\.
 
-- You will see the map window in this Card, but it will not be necessary to use it fill in any specific information\. See __Tutorial 5: Geometries__ for more information about the map window\.
+- You will see the map window in this Card, but it will not be necessary to use it fill in any specific information\. See [__Tutorial 5: Geometries__](#tutorial-5-geometries) for more information about the map window\.
 
 ![Graphical user interface, website](images/093.jpg)
 
@@ -1504,25 +1504,25 @@ Assessment Summary
 
 Identical to Heritage Place
 
-Tutorial 3: Assessment Summary
+[__Tutorial 3: Assessment Summary__](#tutorial-3-assessment-summary)
 
 Resource Summary
 
 Minor difference from Heritage Place\. See __Section 2\.1__ below\.
 
-Tutorial 4: Resource Summary
+[__Tutorial 4: Resource Summary__](#tutorial-4-resource-summary)
 
 Geometry
 
 Identical to Heritage Place
 
-Tutorial 5: Geometries
+[__Tutorial 5: Geometries__](#tutorial-5-geometries)
 
 Geography
 
 Minor difference from Heritage Place\. See __Section 2\.2__ below\.
 
-Tutorial 6: Geography’
+[__Tutorial 6__](#tutorial-6-geography)
 
 Environment Assessment
 
@@ -2085,7 +2085,7 @@ If you do decide to add a Detailed Condition Assessment:
 
 - Click on the ‘Detailed Condition Assessment’ field and type ‘create’ or ‘new’ to bring up the ‘Create a new Detailed Condition Assessment…’ option and click on it\. 
 - Click on it and fill in the Assessment Summary information in the window that appears\.
-- Fill out the ‘Investigator Name’, Investigator Role Type’, and ‘Activity Type’, and ‘Activity Date’ fields, following the instructions in __Tutorial 3: Assessment Summary__\. 
+- Fill out the ‘Investigator Name’, Investigator Role Type’, and ‘Activity Type’, and ‘Activity Date’ fields, following the instructions in [__Tutorial 3: Assessment Summary__](#tutorial-3-assessment-summary)\. 
 - Leave the ‘Heritage Place/Site of Assessment’ field blank\.
 - Leave the ‘Built Component Assessed’ field blank\.
 - You can leave the ‘Comments on Relationship to Heritage Place/Built Component’ field empty or you can use this text box to add any information or notes for the Assessment Summary you just made\. 
@@ -2238,7 +2238,7 @@ Once you have filled in the fields above, click ‘__Add__’ to save\.
 This card records details about the geographic location of the Built Component that you are recording\. The Heritage Place that your Built Component will normally also have its geographic location recorded\. If you want and need to record the specific location of the Built Component, normally, this will be recorded using GPS coordinates taken during a field survey\. 
 
 - Click on ‘Geometry’ in the Card Tree to go to that card\. 
-- For more detailed instructions about this card and instructions on how to add a ‘Geometric Place Expression’, please refer to __Tutorial 5: Geometries__, Sections 2\.1 and 2\.2\.
+- For more detailed instructions about this card and instructions on how to add a ‘Geometric Place Expression’, please refer to [__Tutorial 5: Geometries__](#tutorial-5-geometries), Sections 2\.1 and 2\.2\.
 
 ### Geometric Place Expression 
 
@@ -2285,7 +2285,7 @@ The Assessment Summary card records details about the Investigator or Assessor w
 
 ### Investigator Role Type, Assessment Investigator, Assessment Type and Date
 
-The first four fields in this card are the same as for Heritage Place\. Refer to __Tutorial 3: Assessment Summary__ for more detailed instructions on how to fill in these fields\.
+The first four fields in this card are the same as for Heritage Place\. Refer to [__Tutorial 3: Assessment Summary__](#tutorial-3-assessment-summary) for more detailed instructions on how to fill in these fields\.
 
 In Summary: 
 
@@ -2421,7 +2421,7 @@ The Assessment Summary card, records details about the Investigator or Assessor 
 
 ### Investigator and Activity Fields
 
-The first four fields in this card are the same as for Heritage Place\. Refer to __Tutorial 3: Assessment Summary__ for more detailed instructions on how to fill in these fields\.
+The first four fields in this card are the same as for Heritage Place\. Refer to [__Tutorial 3: Assessment Summary__](#tutorial-3-assessment-summary) for more detailed instructions on how to fill in these fields\.
 
 In Summary: 
 
@@ -2481,7 +2481,7 @@ This card records details about the geographic location of the area assessed in 
 
 - If the area assessed is not different from the Geographic location recorded in the Built Component or Heritage Place, you may leave this card blank\.
 - Click on ‘Location’ in the Card Tree to go to that card\.  
-- For more detailed instructions about this card and instructions on how to add a ‘Geometric Place Expression’, please refer to __Tutorial 5: Geometries__, Sections 2\.1 and 2\.2\.
+- For more detailed instructions about this card and instructions on how to add a ‘Geometric Place Expression’, please refer to [__Tutorial 5__](#geometries).
 
 ### Geometric Place Expression 
 
@@ -3546,7 +3546,7 @@ For other resource types, this card is optional\.
 
 - Information Resources that are not linked to one specific geographically defined area or are more general in nature \(e\.g\. a guidebook or an overview of a region/site’s history – as opposed to a survey or excavation report recording the activities of a specific project\), should __*not*__ normally have geometries attached\.
 
-Refer to __Tutorial 5: Geometries__ for detailed instructions on how to add geometries\.
+Refer to [__Tutorial 5: Geometries__](#tutorial-5-geometries) for detailed instructions on how to add geometries\.
 
 - Use the map to draw or upload the geographical area that is referred to in or covered by the Information Resource, for example:
 	- the area covered by a map or satellite image \(this does NOT include those accessed via virtual globes such as Google Earth or Bing\)
