@@ -1,4 +1,4 @@
-# Introduction to the EAMENA Database v4
+# Introduction to the EAMENA Database
 
 ## Introduction to EAMENA Database Version 4
 
@@ -90,7 +90,7 @@ To learn how to create a Geoarchaeology resource, see __Tutorials 10 and 11__\.
 
 A Person/Organization resource is where you record information about any actor, individual or group, who you would like to link to Heritage Place or any other type of resource\. This primarily includes the creator or editor of individual records, but may also include, for example, the individual person or group who made a specific interpretation, or historic or contemporary figures who are somehow linked to a site or resource\.
 
-To learn how to create a Person/Organization resource, see __Tutorial 2\.__
+To learn how to create a Person/Organization resource, see [__Tutorial 2__](#tutorial-2-personorganization-records)\.
 
 #### Built Component
 
@@ -584,7 +584,7 @@ The new Person/Organization you have now created will appear below the ‘Assess
 - Click on the ‘pen’ symbol to edit the ‘Person/Organization’ record you have now created\.  
 - If you want to delete the added Assessor name from this record, click on the bin symbol to the left of the name\.
 - By clicking on the name, you can edit the type of relationship this Person has with the Heritage Place; however, for the ‘Assessment Investigator – Actor’ field this should be left alone\.
-- See __Tutorial 2: Person/Organization Records__ for more information about creating and editing ‘Person/Organization’ records\. 
+- See [__Tutorial 2__](#tutorial-2-personorganization-records) for more information about creating and editing ‘Person/Organization’ records\. 
 
 ![Graphical user interface, application, Teams](images/071.jpg)
 
@@ -2984,7 +2984,7 @@ Information Resources are used to record the __sources__ \(imagery, books, etc\.
 
 There are several different types of Information Resources that the project uses, and this guide will provide basic guidance and several examples\. Each unique data source needs only to be entered once, and then it can related to as many Heritage Resources as needed\.
 
-- Before you create a new Information Resource, please make every effort to ensure that the source you are entering does not already exist in the system \(see __*Tutorial 2: Searching the Database*__\)\.
+- Before you create a new Information Resource, please make every effort to ensure that the source you are entering does not already exist in the system \(see [__Tutorial 1: Searching the Database__](tutorial-1-searching-the-database-basic)\)\.
 - Every Information Resource MUST be linked to at least one Heritage Place, Geoarchaeology, Built Component, or Detailed Condition Assessment resource\. 
 - The primary purpose of Information Resources is to record what specific sources have been used in the creation of records in the EAMENA database, so if it has not been used to contribute to the creation of a record\. 
 	- Exceptions to this rule can, for example, be georeferenced aerial photographs covering larger areas, but even then, it is best to link them to one or more sites\. 
@@ -3733,7 +3733,7 @@ Click on the facet you wish to search by and a box will appear in the Advanced S
 - Click on the field you wish to search by and choose from the dropdown\.
 - The Search results will automatically update\.
 	- Here we have searched by the country ‘Libya’, and at the time of searching this has returned 12,308 results\.
-	- Another example, searching by ‘Assessor/Investigator’ Name was outlined in __Tutorial 1b: Finding your Records__\.
+	- Another example, searching by ‘Assessor/Investigator’ Name was outlined in [__Tutorial 1__](#specific-use-case-finding-your-records-by-searching-for-your-name)\.
 - You can use the smaller dropdowns on the left side of the main dropdowns to control whether to include or exclude a term\. Different dropdowns have different options:
 	- Equals/References: searches for exact matches of this term
 	- Not/Does not Reference: excludes exact matches of this term from the search
