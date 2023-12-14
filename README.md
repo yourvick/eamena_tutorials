@@ -362,7 +362,7 @@ To clear your map search filters, e\.g\. to start a new search, click “Clear s
 
 ![Graphical user interface, application, website](images/046.jpg)
 
-TUTORIAL 1b: Finding Your Records by Searching for your Name
+## Specific Use Case: Finding Your Records by Searching for Your Name
 
 As we have previously mentioned, the EAMENA database v3 has just launched and there are still a few bugs that need to be sorted out\.
 
@@ -370,7 +370,7 @@ One of these, is that it is not possible to find all your records by searching f
 
 However, you just need to follow a few extra steps in the Advanced Search to find your records\.
 
-## Getting Started
+### Getting Started
 
 Go to the Search page\.
 
@@ -381,7 +381,7 @@ Go to the Search page\.
 
 - For more detailed instructions on reaching the Search page, refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\.
 
-## Go to Advanced Search
+### Go to Advanced Search
 
 When you arrive at the Search page, click on ‘Advanced’ to access the Advanced Search page\.
 
