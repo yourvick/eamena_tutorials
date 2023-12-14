@@ -2,7 +2,7 @@
 
 ## Introduction to EAMENA Database Version 4
 
-The EAMENA Database is an open\-access database designed and customised using the Arches Heritage Platform \([www\.archesproject\.org](file:///W:\Desktop\CPF%202020\Week%201%20-%20Database%201\www.archesproject.org)\) to record archaeological sites, features, and landscapes from across the MENA region, as well as to record details of the disturbances, threats, and risks that they face\.
+The EAMENA Database is an open\-access database designed and customised using the Arches Heritage Platform (https://www.archesproject.org) to record archaeological sites, features, and landscapes from across the MENA region, as well as to record details of the disturbances, threats, and risks that they face\.
 
 Since the EAMENA project began in 2015 we have continually updated and improved our database based on the changing needs of our users and also to keep up with new versions and improvements offered by Arches\. This new version of the database moves us to Arches 7\.0, which offers some significant upgrades to the platform\.
 
@@ -10,27 +10,21 @@ In this tutorial, you find information on accessing and logging into the databas
 
 ## Finding the Database
 
-The database is accessible online, using any browser \(though Google Chrome is recommended\), at the following URL:__ __[https://database\.eamena\.org/](https://database.eamena.org/)
+The database is accessible online, using any browser \(though Google Chrome is recommended\), at the following URL: (https://database.eamena.org/)
 
 ## Logging In
 
-Logging in is required to access and edit database records\. If you have not already registered, you can sign up for access here [https://database\.eamena\.org/auth/signup](https://database.eamena.org/auth/signup%20) \. 
+Logging in is required to access and edit database records\. If you have not already registered, you can sign up for access here (https://database.eamena.org/auth/signup) \. 
 
 - Once your registration has been approved, you will be given a username and temporary password\.
 
 Navigate to the Home Page and click on ‘Sign in’ in the upper right corner to enter your login details \(Figures 1–2\): 
 
-![A screenshot of a computer
+![Figure 1](images/001.jpg)
 
-Description automatically generated](images/001.jpg)
+![Figure 2](images/002.jpg)
 
-Figure 1
 
-![Graphical user interface, application
-
-Description automatically generated](images/002.jpg)
-
-Figure 2
 
 ## Your Account
 
@@ -38,9 +32,7 @@ After you have signed in for the first time using your temporary password, we ad
 
 To change your password, click “Welcome, \[your username\]”, in the upper right corner of the home page \(Figure 3\)\.
 
-![A map of a desert
-
-Description automatically generated](images/003.jpg)
+![Figure 3](images/003.jpg)
 
 Figure 3
 
