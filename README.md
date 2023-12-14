@@ -130,7 +130,7 @@ Click on the Arches symbol in the upper left corner of the screen to reveal the 
 
 To access the Search page, click the Search Icon on the left side of the screen, or in the upper right corner\. 
 
-To learn more about searching, please refer to __Tutorial 1: Searching the Database \(Basic\)__\. 
+To learn more about searching, please refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\. 
 
 ![A screenshot of a computer](images/012.jpg)
 
@@ -379,7 +379,7 @@ Go to the Search page\.
 
 ![](images/047.jpg)
 
-- For more detailed instructions on reaching the Search page, refer to __Tutorial 1: Searching the Database__\.
+- For more detailed instructions on reaching the Search page, refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\.
 
 ## Go to Advanced Search
 
@@ -551,7 +551,7 @@ The Assessment Summary part of a Resource records details about the name, role a
 
 ![Graphical user interface](images/068.jpg)
 
-- To edit an existing site, search for your site and click on ‘Edit’ beneath its search result\. For further information on searching and more detailed instructions, please refer to __Tutorial 1: Searching the Database__\.
+- To edit an existing site, search for your site and click on ‘Edit’ beneath its search result\. For further information on searching and more detailed instructions, please refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\.
 
 On the left\-hand side of the screen under ‘New Resource \(Heritage Place\)’ \(or, once you have saved the first information, the EAMENA\-number\) you will see the resource’s ‘Card Tree’\. You can navigate between the different sections of the record by selecting the Cards\.
 
@@ -643,7 +643,7 @@ If you have toggled the ‘Google Earth Assessment’ switch to green \(yes\), y
 
 If you have used an Information Resource \(imagery, publication, etc\.\) specifically for this assessment, add it in the ‘Information Resource’ Card\. 
 
-- Look up the Resource ID number of the Information Resource that you have used \(see __Tutorial 1: Searching the Database__\)\.
+- Look up the Resource ID number of the Information Resource that you have used \(see [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\)\.
 - Type the number in the field and once it appears, click on it\.
 - If your Information Resource does not yet exist in the system, you can:
 	- Add it here by clicking on ‘Create a new Information Resource’\. Please note that it is __very important__ to add all relevant information to the Information Resource record\. Make sure to do this straight away by navigating to the record \(you can do this by clicking on the ‘pen’ icon\)\.
@@ -1445,7 +1445,7 @@ You can use this section to add any other resources that are related to the Heri
 Click in the ‘Related Resources’ field and start typing the Resource ID number \(e\.g\. EAMENA\-0012345, INFORMATION\-0009876, etc\.\) or the name of the Person/Organization resource\. 
 
 - When it appears in the dropdown, click on it to add it to the list\.
-	- If you don’t know the number, open the search in a different browser tab, and look it up \(see __Tutorial 1: Searching the Database__\)\.
+	- If you don’t know the number, open the search in a different browser tab, and look it up \(see [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\)\.
 - Click ‘__Add__’\.
 
 ![Graphical user interface, application](images/120.jpg)
@@ -1623,7 +1623,7 @@ This field is used to record the technique or approach that was used to obtain t
 ![](images/134.jpg)
 
 - Use the ‘Related Information Resource’ field to link to the item from which you have obtained this evidence, for example, an academic paper, a report, or a dataset – i\.e\. any of the items you would normally use as an Information Resource\.
-	- Look up the INFORMATION\-number of the Information Resource that you have used \(see __Tutorial 1: Searching the Database__\)\.
+	- Look up the INFORMATION\-number of the Information Resource that you have used \(see [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\)\.
 	- Type the INFORMATION\-number in the field and once it appears, click on it and it will appear in a line below\.
 	- If your Information Resource does not yet exist in the system, you can:
 		- Add it here by clicking on ‘Create a new Information Resource…’ and filling in the fields in the window that appears\.
@@ -2120,7 +2120,7 @@ To create a new Built Component record, click on the ‘Resource Manager’ butt
 
 To add information to an existing Built Component, search for it in the database and click on ‘Edit’ below its COMPONENT\-number in the search results\.
 
-- Refer to __Tutorial 1: Searching the Database – Basic__, for detailed instructions about searching\.
+- Refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic), for detailed instructions about searching\.
 
 When the new or existing record opens, on the left side of the page you will see the resource’s Card Tree\. You can navigate between different sections of the record by selecting a card \(for example Built Component Observation card or Material card\)\. 
 
@@ -2398,7 +2398,7 @@ To add information to an existing DCA:
 
 - Click on the ‘edit’ \(pencil\) icon beside its CONDITION\-number in any record that it is related to and the DCA record will open in a new tab\.
 - Or search for it in the database and click on ‘Edit’ below its CONDITION\-number in the search results\.
-- Refer to __Tutorial 1: Searching the Database – Basic__, for detailed instructions about searching\.
+- Refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic), for detailed instructions about searching\.
 
 ![Graphical user interface, application, email, Teams](images/171.jpg)
 
@@ -2951,7 +2951,7 @@ For more information about this card, how to search and delete files, and a note
 If you have used an Information Resource \(imagery, publication, etc\.\) to create the Detailed Condition Assessment, you should create a relationship with the ‘Information Resource’ record in this card\.
 
 - Click on ‘Related Information Resources’ in the Card Tree to open that card\.
-- Look up the INFORMATION\-number of the Information Resource that you have used \(see __Tutorial 1: Searching the Database__\)\.
+- Look up the INFORMATION\-number of the Information Resource that you have used \(see [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\)\.
 - Click on the ‘Information Resource’ field and type in the number\. Once it appears, click on it to add it and it will appear in the 
 - If your Information Resource does not yet exist in the system, you can:
 	- Add it here by clicking on ‘Create a new Information Resource’\. Please note that it is __very important__ to add all relevant information to the Information Resource record\. Make sure to do this straight away by navigating to the record \(you can do this by clicking on the ‘pen’ icon\)\.
@@ -3713,7 +3713,7 @@ Click on ‘Print Report’ to print or save a pdf of your record\.
 
 The Advanced Search has two main functions that differ from the Basic Search\. First, it allows you to search within specific fields or entire cards of the database, so that you can be confident your search will produce exactly what you are looking for\. Second, it allows you to build on and combine those searches using ‘And’ and ‘Or’ functions\.
 
-In this tutorial, you will learn how to conduct more complex searches in the EAMENA Database and we will go through some examples\. Please refer to __Tutorial 1: Searching the Database \(Basic\) __and __Tutorial 1b: Finding your Records__ for an introduction to searching and how to get started\.
+In this tutorial, you will learn how to conduct more complex searches in the EAMENA Database and we will go through some examples\. Please refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic) for an introduction to searching and how to get started\.
 
 ## Advanced Search
 
@@ -3874,7 +3874,6 @@ However, it is important to remember that two particular fields do not work in t
 This is because these are not simply search terms but are referring to links to independent records\.
 
 - If you wish to return the results based on a Person \(e\.g\. Assessor/Investigator\) or EAMENA Grid Square, you MUST search for them using the Advanced Search\.
-- See __Tutorial 1b: Finding your Records__\.
 
 ## Time Filter
 
@@ -4048,7 +4047,7 @@ You want to find all sites along a certain stretch of a wadi which have both Far
 - Click on Map Filter and then ‘Filter’ on the right side to open the Map Search options\.
 	- Zoom to the area you wish to Search
 	- Draw a Polygon around the area you want to search\.
-	- See __Tutorial 1: Searching the Database \(Basic\), Section 3__ for more details instructions on how to use the map to search\.
+	- See [__Tutorial 1__](#map-filter) for more details instructions on how to use the map to search\.
 
 ![A picture containing text](images/240.jpg)
 
