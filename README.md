@@ -14,46 +14,35 @@ The database is accessible online, using any browser \(though Google Chrome is r
 
 ## Logging In
 
-Logging in is required to access and edit database records\. If you have not already registered, you can sign up for access here (https://database.eamena.org/auth/signup) \. 
+Logging in is required to access and edit database records\. If you have not already registered, you can sign up for access here (https://database.eamena.org/auth/signup)\. 
 
 - Once your registration has been approved, you will be given a username and temporary password\.
 
-Navigate to the Home Page and click on ‘Sign in’ in the upper right corner to enter your login details \(Figures 1–2\): 
+Navigate to the Home Page and click on ‘Sign in’ in the upper right corner to enter your login details: 
 
-![](images/001.jpg)
-Figure 1
+![](images/001.jpg\)
 
-![](images/002.jpg)
-Figure 2
-
-
+![](images/002.jpg\)
 
 ## Your Account
 
 After you have signed in for the first time using your temporary password, we advise you to change your password\.
 
-To change your password, click “Welcome, \[your username\]”, in the upper right corner of the home page \(Figure 3\)\.
+To change your password, click “Welcome, \[your username\]”, in the upper right corner of the home page\.
 
-![](images/003.jpg)
-Figure 3
+![](images/003.jpg\)
 
-On the Profile Manager page, click Change Password, and follow the instructions to enter a new password for your account \(Figure 4\)\.
+On the Profile Manager page, click Change Password, and follow the instructions to enter a new password for your account\.
 
-![](images/004.jpg)
+![](images/004.jpg\)
 
-Figure 4
+Press ‘Edit’ to add your personal and contact details\.
 
-Press ‘Edit’ to add your personal and contact details \(Figure 5\)\.
+![](images/005.jpg\)
 
-![](images/005.jpg)
+At the bottom of this page, you may also change your notification settings to your preference\.
 
-Figure 5 
-
-At the bottom of this page, you may also change your notification settings to your preference \(Figure 6\)\.
-
-![](images/006.jpg)
-
-Figure 6 
+![](images/006.jpg\)
 
 To log out of the database, click “Log off” in the upper right corner of the database, or from within the database, click where it says “Welcome, \[username\]” and this will log you out immediately\.
 
@@ -61,11 +50,9 @@ To log out of the database, click “Log off” in the upper right corner of the
 
 The EAMENA Database is currently available to use in English or Arabic\.
 
-To change the language, from any page within the database, click the dropdown menu in the upper right corner where it says ‘English \(en\)’ and choose your preferred language \(Figure 7\)\.
+To change the language, from any page within the database, click the dropdown menu in the upper right corner where it says ‘English \(en\)’ and choose your preferred language\.
 
-![Graphical user interface, website](images/007.jpg)
-
-Figure 7
+![Graphical user interface, website](images/007.jpg\)
 
 ## Home Page
 
@@ -73,21 +60,17 @@ From the landing page, you can choose from two main actions: ‘Search the EAMEN
 
 ### Search the EAMENA Database
 
-Click on ‘Search the EAMENA Database’ \(Figure 8\), to go directly to the Search Page\.
+Click on ‘Search the EAMENA Database’, to go directly to the Search Page\.
 
 To learn more about searching, please refer to __Tutorial 1: Searching the Database \(Basic\)__\. 
 
-![Description automatically generated](images/008.jpg)
-
-Figure 8
+![Description automatically generated](images/008.jpg\)
 
 ### Create New Heritage Resources
 
-Click on ‘Create New Heritage Resources’ to go to the Resource Manager page \(Figure 9\)\.
+Click on ‘Create New Heritage Resources’ to go to the Resource Manager page\.
 
-![](images/009.jpg)
-
-Figure 9
+![](images/009.jpg\)
 
 On this page, you can choose to create one of seven different types of resources:
 
@@ -135,35 +118,27 @@ In most cases, it is easier and more direct to create a Grid Square resource fro
 
 ## Navigating the Database
 
-From within the database, it is also possible to navigate to the different parts of the database already described above by using the menus along the left side of the screen or in the upper right side of the screen \(Figure 10\)\.
+From within the database, it is also possible to navigate to the different parts of the database already described above by using the menus along the left side of the screen or in the upper right side of the screen\.
 
-![](images/010.jpg)
+![](images/010.jpg\)
 
-Figure 10
+Click on the Arches symbol in the upper left corner of the screen to reveal the full main database menu\.
 
-Click on the Arches symbol in the upper left corner of the screen to reveal the full main database menu \(Figure 11\)\.
-
-![A screenshot of a computer](images/011.jpg)
-
-Figure 11
+![A screenshot of a computer](images/011.jpg\)
 
 ### Search
 
-To access the Search page, click the Search Icon on the left side of the screen, or in the upper right corner \(Figure 12\)\. 
+To access the Search page, click the Search Icon on the left side of the screen, or in the upper right corner\. 
 
 To learn more about searching, please refer to __Tutorial 1: Searching the Database \(Basic\)__\. 
 
-![A screenshot of a computer](images/012.jpg)
-
-Figure 12
+![A screenshot of a computer](images/012.jpg\)
 
 ### Add New Resource
 
-To access the Resource Menu, click “Add New Resource” \(Figure 13\), or you can choose from one of the seven different types of Resources described in Section 6 to go directly to their pages\.
+To access the Resource Menu, click “Add New Resource”, or you can choose from one of the seven different types of Resources described in Section 6 to go directly to their pages\.
 
-![A screenshot of a computer](images/013.jpg)
-
-Figure 13
+![A screenshot of a computer](images/013.jpg\)
 
 ### Map Layer Manager
 
@@ -175,45 +150,35 @@ The ‘Arches Collector Manager’ is still in development so should not be used
 
 ### Recent Edits
 
-To see a list of your recent activity in the database, click “Recent Edits” \(Figure 14\)\.
+To see a list of your recent activity in the database, click “Recent Edits”\.
 
-![](images/014.jpg)
-
-Figure 14
+![](images/014.jpg\)
 
 ### Profile Manager
 
-To access your account and details \(as already discussed in Section 4\), click “Profile Manager” \(Figure 15\)\. 
+To access your account and details \(as already discussed in Section 4\), click “Profile Manager”\. 
 
-![A screenshot of a computer](images/015.jpg)
-
-Figure 15
+![A screenshot of a computer](images/015.jpg\)
 
 ### Reference Data Manager
 
-To access the Reference Data Manager \(RDM\) click on “Reference Data Manager” \(Figure 16\)\. This page is where we add and edit the terms or ‘concepts’ which appear in the drop\-down menus of the database\. 
+To access the Reference Data Manager \(RDM\) click on “Reference Data Manager”\. This page is where we add and edit the terms or ‘concepts’ which appear in the drop\-down menus of the database\. 
 
 The RDM should only be used by someone who has been designated to manage the database\. If you would like to learn more about it, please speak to a member of the EAMENA team\.
 
-![A screenshot of a computer](images/016.jpg)
-
-Figure 16
+![A screenshot of a computer](images/016.jpg\)
 
 ### Notifications
 
-Click on the bell icon in the upper right corner of the screen to display any notifications, for example when a download has finished \(Figure 17\)\. Click “Dismiss All” to clear these notifications\.
+Click on the bell icon in the upper right corner of the screen to display any notifications, for example when a download has finished\. Click “Dismiss All” to clear these notifications\.
 
-![](images/017.jpg)
-
-Figure 17
+![](images/017.jpg\)
 
 ### Help Section
 
-Click on the question mark to reveal tips on how to use the database and links to Arches documentation \(Figure 18\)\.
+Click on the question mark to reveal tips on how to use the database and links to Arches documentation\.
 
-![](images/018.jpg)
-
-Figure 18
+![](images/018.jpg\)
 
 ## Additional Resources
 
@@ -229,31 +194,27 @@ In this tutorial, you will learn how to conduct basic searches in the EAMENA Dat
 
 There are several ways to access the search page\. 
 
-From the Home page, click on ‘Search the EAMENA Database’ \(Figure 1\), it will take you directly to the Search Page\.
+From the Home page, click on ‘Search the EAMENA Database’, it will take you directly to the Search Page\.
 
-![A close up of a rock](images/019.jpg)
+![A close up of a rock](images/019.jpg\)
 
-Figure 1 
+If you already in another part of the database, you can also access the Search page by clicking the Search Icon on the left side of the screen, or in the upper right corner\.
 
-If you already in another part of the database, you can also access the Search page by clicking the Search Icon on the left side of the screen, or in the upper right corner \(Figure 2\)\.
-
-![Graphical user interface, application](images/020.jpg)
-
-Figure 2
+![Graphical user interface, application](images/020.jpg\)
 
 ## The Search Page
 
-The Search Page has several different sections to help you conduct different types of searches \(Figure 3\)\.
+The Search Page has several different sections to help you conduct different types of searches\.
 
 On the left side of the screen you will see the Search Bar \(see Section 2\.1\) and a list of the Search Results below \(see Section 2\.2\)\. When you first arrive at the page, this will display all the records currently in the database\. 
 
 On the right, you will see a map, which shows the distribution of the Search Results\. You can also use the Map Filter to search for sites by location \(see Section 3\)\.
 
-![Graphical user interface, application](images/021.jpg)Figure 3
+![Graphical user interface, application](images/021.jpg)
 
 ### The Search Bar
 
-The simplest and quickest way to search the database is to begin typing in the search bar\. Suggestions will appear below the bar as you type in either of two categories: ‘Concepts’ and ‘Term Matches’ \(Figure 4\)\.
+The simplest and quickest way to search the database is to begin typing in the search bar\. Suggestions will appear below the bar as you type in either of two categories: ‘Concepts’ and ‘Term Matches’\.
 
 - ‘Concepts’ lists instances where your search term matches a term in a dropdown list\.
 	- The field where the dropdown entry occurs is listed in brackets to the right of the entry\. E\.g\. Libya *\(Modern Country/Territory\)\.*
@@ -263,108 +224,80 @@ Click on the suggested term which best matches what you want to search for to cr
 
 ![Graphical user interface, application](images/022.jpg)
 
-![A picture containing timeline](images/023.jpg)
+![A picture containing timeline](images/023.jpg\)
 
-Figure 4
+You can also search by free\-text by pressing enter once you have typed your search term or clicking on it where it appears underlined in blue, instead of choosing one of the suggestions\. This will return any records which have your term in any field, whether dropdown or free\-text\.
 
-You can also search by free\-text by pressing enter once you have typed your search term or clicking on it where it appears underlined in blue, instead of choosing one of the suggestions\. This will return any records which have your term in any field, whether dropdown or free\-text \(Figure 5\)\.
+![A picture containing timeline](images/024.jpg\)
 
-![A picture containing timeline](images/024.jpg)
+Continue adding terms to filter your results further\.
 
-Figure 5
+![Graphical user interface, application, website](images/025.jpg\)
 
-Continue adding terms to filter your results further \(Figure 6\)\.
+To exclude a search term, add it to the search bar, then click on it once to change it and a ‘\-‘ sign will appear before it\.
 
-![Graphical user interface, application, website](images/025.jpg)
+![A picture containing graphical user interface](images/026.jpg\)
 
-Figure 6
+If you are only interested in one type of record, e\.g\. Heritage Places, you can click on ‘Resource Type’ and choose from the record types to limit your search to that particular type of record\.
 
-To exclude a search term, add it to the search bar, then click on it once to change it and a ‘\-‘ sign will appear before it \(Figure 7\)\.
+![Graphical user interface, text, application](images/027.jpg\)
 
-![A picture containing graphical user interface](images/026.jpg)
-
-Figure 7
-
-If you are only interested in one type of record, e\.g\. Heritage Places, you can click on ‘Resource Type’ and choose from the record types to limit your search to that particular type of record \(Figure 8\)\.
-
-![Graphical user interface, text, application](images/027.jpg)
-
-Figure 8
-
-You may also choose to filter your results by the QA Type \(Figure 9\)\.
+You may also choose to filter your results by the QA Type\.
 
 - ‘Authoritative’ records are records which have been completed or checked by a member of the EAMENA staff\.
 - ‘Provisional’ records are those created by external users which require approval by a member of EAMENA staff\. 
 
 Choose ‘Authoritative’ to include only approved records in your search and exclude those waiting approval\.
 
-![Graphical user interface](images/028.jpg)
-
-Figure 9
+![Graphical user interface](images/028.jpg\)
 
 ### Search Results
 
 The Search Results appear in a list below the Search Bar\.
 
-Click on the Record ID \(e\.g\. EAMENA\-0012345, INFORMATION\-0009876, etc\.\) to view the full Record, which will open in a new browser tab \(Figure 10\)\.
+Click on the Record ID \(e\.g\. EAMENA\-0012345, INFORMATION\-0009876, etc\.\) to view the full Record, which will open in a new browser tab\.
 
-![Graphical user interface, text, application](images/029.jpg)
+![Graphical user interface, text, application](images/029.jpg\)
 
-Figure 10
+Click on ‘Edit’ to open a new browser tab and go directly to the editing page for a record, which will open in a new browser tab\. Refer to the relevant tutorial on how to edit different types of records\.
 
-Click on ‘Edit’ to open a new browser tab and go directly to the editing page for a record, which will open in a new browser tab\. Refer to the relevant tutorial on how to edit different types of records \(Figure 11\)\.
-
-*![Graphical user interface, text, application](images/030.jpg)*
-
-Figure 11
+*![Graphical user interface, text, application](images/030.jpg\)
 
 Click on ‘Details’ beneath the Record ID to show a summary preview of the information in that record in the ‘Details’ tab to the right\.
 
-*![Graphical user interface, text, application](images/031.jpg)*
-
-Figure 12
+*![Graphical user interface, text, application](images/031.jpg\)
 
 Click on ‘Map’ beneath the Record ID to zoom to the location of that record on the map to the right\.
 
-*![Graphical user interface, text, application](images/032.jpg)*
-
-Figure 13
+*![Graphical user interface, text, application](images/032.jpg\)
 
 Click on ‘Related Resources’ to show the other records to which an individual record is related in the ‘Related’ pane to the right\. 
 
-The default appearance will be a visual representation of the relationships between records connected by lines\. The related records will also appear in a list on the right\-hand side of the window \(Figure 14\)\.
+The default appearance will be a visual representation of the relationships between records connected by lines\. The related records will also appear in a list on the right\-hand side of the window\.
 
 Click on ‘load more’ below any entry in the list to reveal further relationships, where they exist\.
 
-![Graphical user interface, chart](images/033.jpg)
-
-Figure 14
+![Graphical user interface, chart](images/033.jpg\)
 
 ## Map Filter
 
 The Map Filter window displays the geographic locations of the Search Results\. You can also use it as a search tool to filter sites by their location\. 
 
-The default map type is satellite imagery\. To switch to a streetmap, click on ‘Basemap’ on the right side of the map and choose ‘satellite’ \(Figure 15\)\.
+The default map type is satellite imagery\. To switch to a streetmap, click on ‘Basemap’ on the right side of the map and choose ‘satellite’\.
 
-![Graphical user interface, application](images/034.jpg)
+![Graphical user interface, application](images/034.jpg\)
 
-Figure 15
-
-Click on ‘Overlays’ on the right side of the window to see a list of the available layers\. You can toggle them on and off by clicking on the switch \(Figure 16\)\. 
+Click on ‘Overlays’ on the right side of the window to see a list of the available layers\. You can toggle them on and off by clicking on the switch\. 
 
 ![Graphical user interface, application](images/035.jpg)
 
-  Figure 16
+Click on ‘Legend’ on the right side of the window to view the map legend\. 
 
-Click on ‘Legend’ on the right side of the window to view the map legend \(Figure 17\)\. 
-
-![Graphical user interface, application](images/036.jpg)
-
-Figure 17
+![Graphical user interface, application](images/036.jpg\)
 
 ### Navigating the Map
 
-You can navigate the map using your mouse and the controls in the upper left corner \(Figure 18\)\. 
+You can navigate the map using your mouse and the controls in the upper left corner\. 
 
 - Click and drag anywhere in the map to move around\. 
 - Click the plus and minus signs to zoom in and out, or double\-click anywhere on the map to zoom in\. 
@@ -374,35 +307,25 @@ You can navigate the map using your mouse and the controls in the upper left cor
 - To return the map so that north is up, click the compass icon once\.
 - Make the map full screen by clicking the expand icon in the upper left\.
 
-![Graphical user interface, application, map](images/037.jpg)
-
-Figure 18
+![Graphical user interface, application, map](images/037.jpg\)
 
 ### Searching Using the Map
 
-If you want to search by an address or geographic location, for example, a city or street address, you can type it into the ‘Find an address’ bar in the upper right corner of the map \(Figure 19\)\.
+If you want to search by an address or geographic location, for example, a city or street address, you can type it into the ‘Find an address’ bar in the upper right corner of the map\.
 
-![Graphical user interface, application, map](images/038.jpg)
+![Graphical user interface, application, map](images/038.jpg\)
 
-Figure 19
+To further refine your search using location, click on ‘Filter’ on the right side of the map, which will open the Map Search options\.
 
-To further refine your search using location, click on ‘Filter’ on the right side of the map, which will open the Map Search options \(Figure 20\)\.
+![Graphical user interface, application, website](images/039.jpg\)
 
-![Graphical user interface, application, website](images/039.jpg)
+In the ‘Select a filter’ dropdown menu, choose one of the four options to search by location\.
 
-Figure 20
+![Graphical user interface, application](images/040.jpg\)
 
-In the ‘Select a filter’ dropdown menu, choose one of the four options to search by location \(Figure 21\)\.
+Choose ‘Search by Map Extent’ to display all search results within the area visible in the map window at the level you have zoomed\.
 
-![Graphical user interface, application](images/040.jpg)
-
-Figure 21
-
-Choose ‘Search by Map Extent’ to display all search results within the area visible in the map window at the level you have zoomed \(Figure 22\)\.
-
-![Graphical user interface, application](images/041.jpg)
-
-Figure 22
+![Graphical user interface, application](images/041.jpg\)
 
 Choose ‘Draw a Marker’ to search by a specific point\. There are two ways to do this:
 
@@ -410,44 +333,34 @@ Method 1:
 
 - Use the navigation tools to find and zoom to the location where you wish to search\. 
 - Click your mouse on the map to add a point\.
-- Change the buffer distance \(in metres or feet\) to search for sites within that distance of your point in any direction \(Figure 23\)\.
+- Change the buffer distance \(in metres or feet\) to search for sites within that distance of your point in any direction\.
 
-![Graphical user interface, application](images/042.jpg)
-
-Figure 23
+![Graphical user interface, application](images/042.jpg\)
 
 Method 2:
 
 - Alternatively, if you know the specific co\-ordinates of a location follow the steps above and place a point on the map in any random place
-- Then, click on ‘Edit GeoJSON’, below\. You now see the GeoJSON code – do not let this put you off, but look for the coordinates and replace these with the correct ones \(Figure 24\)\. 
+- Then, click on ‘Edit GeoJSON’, below\. You now see the GeoJSON code – do not let this put you off, but look for the coordinates and replace these with the correct ones\. 
 	- NB the coordinates are in WGS84 decimal degrees, with X/easting/longitude first, then Y/northing/latitude\. 
 - Finish by clicking on the green ‘Accept GeoJSON’ button at the bottom and you will see the point move in the map to your specific location\.
 - Change the buffer distance \(in metres or feet\) to search for sites within that distance of your point in any direction\.
 
-![Graphical user interface, text, application](images/043.jpg)
-
-Figure 24
+![Graphical user interface, text, application](images/043.jpg\)
 
 Choose ‘Draw a Polyline’ or ‘Draw a Polygon’ to search by line or polygon\. Click on the map with your mouse to draw the outline of your polygon or line\. 
 
-- Double\-click to stop drawing, or stop drawing by closing the polygon on the first point \(vertex\) again \(Figure 25\)\. 
+- Double\-click to stop drawing, or stop drawing by closing the polygon on the first point \(vertex\) again\. 
 - Adjust the buffer distance to include sites within a certain distance around your line or polygon\.
 
-![Graphical user interface, application](images/044.jpg)
+![Graphical user interface, application](images/044.jpg\)
 
-Figure 25
+If you have zoomed in or out of the map results and wish to return to a view where all of the search results are displayed on the map, click “Zoom to all features”\.
 
-If you have zoomed in or out of the map results and wish to return to a view where all of the search results are displayed on the map, click “Zoom to all features” \(Figure 26\)\.
+![Graphical user interface, application, website](images/045.jpg\)
 
-![Graphical user interface, application, website](images/045.jpg)
+To clear your map search filters, e\.g\. to start a new search, click “Clear spatial filter”\.
 
-Figure 26
-
-To clear your map search filters, e\.g\. to start a new search, click “Clear spatial filter” \(Figure 27\)\.
-
-![Graphical user interface, application, website](images/046.jpg)
-
-Figure 27
+![Graphical user interface, application, website](images/046.jpg\)
 
 TUTORIAL 1b: Finding Your Records by Searching for your Name
 
@@ -470,37 +383,27 @@ Go to the Search page\.
 
 ## Go to Advanced Search
 
-When you arrive at the Search page, click on ‘Advanced’ to access the Advanced Search page \(Figure 1\)\.
+When you arrive at the Search page, click on ‘Advanced’ to access the Advanced Search page\.
 
-![A screenshot of a computer](images/048.jpg)
-
-Figure 1
+![A screenshot of a computer](images/048.jpg\)
 
 In the Advanced Search screen you see a list of cards in the database on the right side of the window\.
 
-Scroll down to the ‘Heritage Place’ section and click on Assessment Summary / ملخص التقييم  \(Figure 2\)
+Scroll down to the ‘Heritage Place’ section and click on Assessment Summary / ملخص التقييم 
 
-![Graphical user interface, application](images/049.jpg)
+![Graphical user interface, application](images/049.jpg\)
 
-Figure 2
+Click on the second, right\-hand field that appears under Assessment Investigator / اسم من قام بالفحص
 
-Click on the second, right\-hand field that appears under Assessment Investigator / اسم من قام بالفحص \(Figure 3\)
+![Graphical user interface, application](images/050.jpg\)
 
-![Graphical user interface, application](images/050.jpg)
+Type your name into the field, and when it appears in the dropdown, click on it\.
 
-Figure 3
+![Graphical user interface, application](images/051.jpg\)
 
-Type your name into the field, and when it appears in the dropdown, click on it \(Figure 4\)\.
+Your search results will appear in a list on the left side\.
 
-![Graphical user interface, application](images/051.jpg)
-
-Figure 4
-
-Your search results will appear in a list on the left side \(Figure 5\)\.
-
-![Graphical user interface, application](images/052.jpg)
-
-Figure 5
+![Graphical user interface, application](images/052.jpg\)
 
 You can add further terms in the Simple search bar to narrow your results further, or choose further options in the Advanced Search – Assessment Summary window\.
 
@@ -514,17 +417,13 @@ It is also possible to create a basic ‘Person/Organization’ record directly 
 
 ## Getting Started
 
-To create a new Person/Organization record navigate to the Resource Manager Page and click on ‘Person/Organization’ or select it from the menu on the left side of the screen \(Figure 1\)\.
+To create a new Person/Organization record navigate to the Resource Manager Page and click on ‘Person/Organization’ or select it from the menu on the left side of the screen\.
 
-![](images/053.jpg)
+![](images/053.jpg\)
 
-Figure 1
+This will open a new, blank ‘Person/Organization’ Record\.  The different sections of a record are called ‘Cards’\. To navigate between them, refer to the ‘Card Tree’, on the left side of the screen\.
 
-This will open a new, blank ‘Person/Organization’ Record\.  The different sections of a record are called ‘Cards’\. To navigate between them, refer to the ‘Card Tree’, on the left side of the screen \(Figure 2\)\.
-
-![](images/054.jpg)
-
-Figure 2: A blank Person/Organization record with Card Tree highlighted
+![](images/054.jpg\)
 
 ## Filling in the Record
 
@@ -532,7 +431,7 @@ To fill in your record, work through the individual cards in the Card Tree from 
 
 ### Appellation
 
-Click on ‘Appellation’ to begin your record \(Figure 3\)\.
+Click on ‘Appellation’ to begin your record\.
 
 - In the ‘Actor/Investigator Name’ field, enter the name of the person or organization you wish to make a record for\. 
 	- Use the format ‘First Last’ or ‘Initial\(s\) Last’, e\.g\. John Smith, or A\. Jones\.
@@ -541,44 +440,36 @@ Click on ‘Appellation’ to begin your record \(Figure 3\)\.
 - Your record will automatically be created and saved\.
 - Click ‘Delete this Appellation’ to delete the entry\.
 
-![](images/055.jpg)
+![](images/055.jpg\)
 
-Figure 3
-
-When you have clicked Add, the ‘Actor Role Type’ Card will appear in the Card Tree on the left\. Click on it to add a new role \(Figure 4\)\.
+When you have clicked Add, the ‘Actor Role Type’ Card will appear in the Card Tree on the left\. Click on it to add a new role\.
 
 - Choose an option from the ‘Investigator Role Type’ dropdown Menu
 - Choose an option from the ‘Actor/Investigator Role’ dropdown Menu
 - If known, enter the From and To Dates in the field below describing when the Person or Organization started and ended the role that has been added\.
 - Click ‘__Add__’\. 
 
-![](images/056.jpg)
+![](images/056.jpg\)
 
-Figure 4
-
-To add another Role, for example, if a person has multiple roles or has moved roles, click on the plus sign beside Actor Role Type to begin a new entry \(Figure 5\)\.
+To add another Role, for example, if a person has multiple roles or has moved roles, click on the plus sign beside Actor Role Type to begin a new entry\.
 
 - Add as many Roles as are necessary\.
 
-![](images/057.jpg)
-
-Figure 5
+![](images/057.jpg\)
 
 ### Description
 
 Click on ‘Description’ in the Card Tree on the left side to enter any additional information you feel is important about the Person or Organization you are recording\. This card is optional\.
 
-- Choose the ‘Description Type’ from the dropdown menu \(Figure 6\)\.  
+- Choose the ‘Description Type’ from the dropdown menu\.  
 - In the free\-text box, enter the additional information about the Person or Organization you are recording\.
 - Click ‘__Add__’\.
 
-![](images/058.jpg)
-
-*Figure 6*
+![](images/058.jpg\)
 
 ### Lifespan
 
-Click on ‘Lifespan’ in the Card Tree on the left side to enter the dates of the person’s life or existence of the organisation \(Figure 7\)\. This card is optional\.
+Click on ‘Lifespan’ in the Card Tree on the left side to enter the dates of the person’s life or existence of the organisation\. This card is optional\.
 
 - Under Date of Birth, use the calendar or type the date of the beginning of a person or organisation’s existence, e\.g\. a person’s Date of Birth, or an organisation’s Date of Foundation\.
 - Under Date of Death, enter the date of the person’s death, or an organisation’s end date, if it is known and/or applicable\.
@@ -587,13 +478,11 @@ Click on ‘Lifespan’ in the Card Tree on the left side to enter the dates of 
 - If the Person or Organisation you are adding is a historical figure or organisation for which you do not have exact dates of birth or death, but wish to indicate a broad period in which they lived or existed, choose a term from the ‘Cultural Period’ dropdown menu\.
 - Click ‘__Add__’\.
 
-![](images/059.jpg)
-
-Figure 7
+![](images/059.jpg\)
 
 ### Location
 
-Click on ‘Location’ in the Card Tree on the left side to add geographical information about the person or organisation you are recording, for example, the address or country where they are based \(Figure 8\)\. This card is optional\.
+Click on ‘Location’ in the Card Tree on the left side to add geographical information about the person or organisation you are recording, for example, the address or country where they are based\. This card is optional\.
 
 - Draw a point, line, or polygon as appropriate by choosing from the ‘Geometric Place Expression: Add a new feature’ dropdown
 	- For more detailed instructions on how to enter geometries, please refer to __Tutorial 5: Heritage Place Geometries__\.
@@ -601,50 +490,40 @@ Click on ‘Location’ in the Card Tree on the left side to add geographical in
 - Select a country from the ‘Country Type’ dropdown menu if it is known and/or applicable\.
 - Click ‘__Add__’\.
 
-![](images/060.jpg)
-
-Figure 8
+![](images/060.jpg\)
 
 ### Person/Organization Photo
 
-Click on ‘Person/Organization Photo’ in the Card Tree on the left side to add a photograph or image \(e\.g\. a logo\) of the person or organisation you are recording \(Figure 9\)\. This card is optional\.
+Click on ‘Person/Organization Photo’ in the Card Tree on the left side to add a photograph or image \(e\.g\. a logo\) of the person or organisation you are recording\. This card is optional\.
 
 - To add an image, drag and drop the image into the panel where indicated
 - Alternatively, click Select Photographs to open a window and navigate to the image you wish to upload
 - The database will only accept \.jpg, \.png, and \.tiff files, which are less than 8MB in size\.
 
-![](images/061.jpg)
-
-Figure 9
+![](images/061.jpg\)
 
 ### Related Information Resource
 
-Click on ‘Related Information Resource’ in the Card Tree on the left side to add a relationship between the Person or Organization you have recorded and an Information Resource Record \(Figure 10\)\. If your Person or Organization is not related to any Information Resources, this card is optional
+Click on ‘Related Information Resource’ in the Card Tree on the left side to add a relationship between the Person or Organization you have recorded and an Information Resource Record\. If your Person or Organization is not related to any Information Resources, this card is optional
 
 - Use the dropdown to find the Information Resource you are looking for by scrolling to find it or typing its ID number in the dropdown search bar\.
 - Choose and click on the resource you wish to add and it will appear below\.
 - Click ‘__Add__’\.
 
-![](images/062.jpg)
+![](images/062.jpg\)
 
-Figure 10
+To add more relationships, click on ‘Related Information Resource’ in the Card Tree on the left side again, and repeat the process as many times as necessary\.
 
-To add more relationships, click on ‘Related Information Resource’ in the Card Tree on the left side again, and repeat the process as many times as necessary \(Figure 11\)\.
-
-![](images/063.jpg)
-
-Figure 11
+![](images/063.jpg\)
 
 ### Related Resources
 
-To add other types of relationships, click on ‘Related Resources’ in the Card Tree on the left side \(Figure 12\)\.
+To add other types of relationships, click on ‘Related Resources’ in the Card Tree on the left side\.
 
 - The resources that your record is already related to, including Information Resources added in the last section, will appear in a list\.
 - Use the Search Bar to find any further resources you wish to relate your person or organisation to\.
 
-![](images/064.jpg)
-
-Figure 12
+![](images/064.jpg\)
 
 ### Manage Permissions
 
@@ -656,33 +535,29 @@ The Assessment Summary part of a Resource records details about the name, role a
 
 ## Getting Started
 
-- To create a new site from the Homepage, click on ‘Create New Heritage Resources’ towards the top right of the page\. This will take you to the ‘Resource Manager’ page \(Figure 1\)\.
+- To create a new site from the Homepage, click on ‘Create New Heritage Resources’ towards the top right of the page\. This will take you to the ‘Resource Manager’ page\.
 
-![](images/065.jpg)Figure 1
+![](images/065.jpg\)
 
-- Choose ‘Heritage Place’ for a site, feature, or landscape/seascape \(Figure 2\)\. Click on ‘Create Resource’\.
+- Choose ‘Heritage Place’ for a site, feature, or landscape/seascape\. Click on ‘Create Resource’\.
 
-![](images/066.jpg)Figure 2
+![](images/066.jpg\)
 
 - From within the database, you can also use the menu on the left side of the screen to create a new record\.
-- Click on the Arches symbol in the upper left corner of the screen \(Figure 3\) to reveal the full main database menu \(Figure 4\)\.
+- Click on the Arches symbol in the upper left corner of the screen to reveal the full main database menu\.
 - Choose from the list beneath ‘Add New Resource’ to start a new one\.
 
-![Graphical user interface, website](images/067.jpg)
+![Graphical user interface, website](images/067.jpg\)
 
-Figure 3
-
-![Graphical user interface](images/068.jpg)
-
-Figure 4
+![Graphical user interface](images/068.jpg\)
 
 - To edit an existing site, search for your site and click on ‘Edit’ beneath its search result\. For further information on searching and more detailed instructions, please refer to __Tutorial 1: Searching the Database__\.
 
 On the left\-hand side of the screen under ‘New Resource \(Heritage Place\)’ \(or, once you have saved the first information, the EAMENA\-number\) you will see the resource’s ‘Card Tree’\. You can navigate between the different sections of the record by selecting the Cards\.
 
-- We recommend you begin with the first Card, which is the subject of this tutorial: ‘Assessment Summary’  \(Figure 5\)\.
+- We recommend you begin with the first Card, which is the subject of this tutorial: ‘Assessment Summary’\.
 
-![](images/069.jpg)Figure 5: The Card Tree
+![](images/069.jpg\)
 
 ## Assessment Summary
 
@@ -698,24 +573,20 @@ In the ‘Assessment Investigator – Actor’ field, find and select the name f
 - If the name is not in the list, choose ‘Create a new Person/Organization’\. 
 	- You can type ‘create’ or ‘new’ to bring up the “Create a new Person/Organization…” option\. 
 		- Make sure to double\-check that the name does not already under a different format \(e\.g\. with the last name first or with a different spelling\)\.
-	- In the ‘New Person/Organization’ window which will appear, enter the name in the format Firstname \(or Initial\(s\)\) Surname\. Please use the English alphabet for this field \(Figure 6\)\.
+	- In the ‘New Person/Organization’ window which will appear, enter the name in the format Firstname \(or Initial\(s\)\) Surname\. Please use the English alphabet for this field\.
 		- Add the name in a different language or alphabet, e\.g\. Arabic, where applicable in the ‘Alternate language name’ field\.
 		- Click on ‘__Add__’\. 
 
-![Graphical user interface, text, application, email](images/070.jpg)
+![Graphical user interface, text, application, email](images/070.jpg\)
 
-Figure 6
-
-The new Person/Organization you have now created will appear below the ‘Assessment Investigator – Actor’ field \(Figure 7\)\. 
+The new Person/Organization you have now created will appear below the ‘Assessment Investigator – Actor’ field\. 
 
 - Click on the ‘pen’ symbol to edit the ‘Person/Organization’ record you have now created\.  
 - If you want to delete the added Assessor name from this record, click on the bin symbol to the left of the name\.
 - By clicking on the name, you can edit the type of relationship this Person has with the Heritage Place; however, for the ‘Assessment Investigator – Actor’ field this should be left alone\.
 - See __Tutorial 2: Person/Organization Records__ for more information about creating and editing ‘Person/Organization’ records\. 
 
-![Graphical user interface, application, Teams](images/071.jpg)
-
-Figure 7
+![Graphical user interface, application, Teams](images/071.jpg\)
 
 NB: Only add one Assessor here\. If you choose a different Assessor from the drop\-down, it will automatically overwrite the earlier chosen one\. 
 
@@ -740,30 +611,26 @@ Click on ‘Activity Type’\. Choose from the drop\-down list\.
 
 ### Google Earth Assessment
 
-The Google Earth Assessment switch \(Figure 8\) is a shortcut to indicate that you are basing your assessment on Google Earth imagery without having to add each image separately \(though it is still preferable to also do the latter\)\. 
+The Google Earth Assessment switch is a shortcut to indicate that you are basing your assessment on Google Earth imagery without having to add each image separately \(though it is still preferable to also do the latter\)\. 
 
 - If you have used Google Earth imagery for the assessment you are currently adding, click on the switch to toggle it to green\.
 	- The Activity Type you chose above should contain the phrase ‘Image Interpretation’\.
 	- Make sure the switch is completely green \(to the right\) or blank \(to the left\), do not put it in the middle\.
 
-![Graphical user interface, application](images/072.jpg)
-
-Figure 8: A filled in Assessment Summary group with the ‘Google Earth Assessment’ switch put on \(green\)\.
+![Graphical user interface, application](images/072.jpg\)
 
 Click ‘__Add__’\. Once you click Add, your record will be automatically saved and a unique ‘EAMENA\-ID’ will be automatically assigned and appear at the top of the screen instead of “New Resource”\.
 
-Once you have clicked ‘Add’, in the Heritage Place Card Tree on the left side menu, two additional cards / fields have appeared under the Assessment Investigator that you have just added \(Figure 9\): ‘GE Imagery Acquisition Date’ and ‘Information Resource’
+Once you have clicked ‘Add’, in the Heritage Place Card Tree on the left side menu, two additional cards / fields have appeared under the Assessment Investigator that you have just added: ‘GE Imagery Acquisition Date’ and ‘Information Resource’
 
 - 
 	- These fields will allow you to provide further information about the imagery or other resources used specifically for this assessment\.
 
-![Graphical user interface, application, Teams](images/073.jpg)
-
-Figure 9: After adding the Assessment, two extra field groups appear, ‘GE Imagery Acquisition Date’ and ‘Information Resource’\.
+![Graphical user interface, application, Teams](images/073.jpg\)
 
 ### GE Imagery Acquisition Date
 
-If you have toggled the ‘Google Earth Assessment’ switch to green \(yes\), you should fill in the dates of the imagery you have used for the assessment in this Card \(Figure 10\)\.
+If you have toggled the ‘Google Earth Assessment’ switch to green \(yes\), you should fill in the dates of the imagery you have used for the assessment in this Card\.
 
 - 
 	- Enter the first date by navigating to it in the calendar view; make sure the date is in the yyyy\-mm\-dd format\.
@@ -772,28 +639,24 @@ If you have toggled the ‘Google Earth Assessment’ switch to green \(yes\), y
 	- You can also navigate back to ‘GE Imagery Acquisition Date’ card in the Heritage Place Card Tree and click on the plus sign beside the card name add the next date as above\. 
 	- Repeat until you have added all the relevant dates\. 
 
-![Graphical user interface, application, Teams](images/074.jpg)
-
-Figure 10: ‘GE Imagery Acquisition’ window\. From the menu you can see that one ‘GE Imagery Acquisition Date’ was already added \(2020\-03\-03, or 3 March 2020\)\. The second one is in progress of being added\.
+![Graphical user interface, application, Teams](images/074.jpg\)
 
 ### Information Resource
 
-If you have used an Information Resource \(imagery, publication, etc\.\) specifically for this assessment, add it in the ‘Information Resource’ Card \(Figure 11\)\. 
+If you have used an Information Resource \(imagery, publication, etc\.\) specifically for this assessment, add it in the ‘Information Resource’ Card\. 
 
 - 
 	- Look up the Resource ID number of the Information Resource that you have used \(see __Tutorial 1: Searching the Database__\)\.
 	- Type the number in the field and once it appears, click on it\.
 	- If your Information Resource does not yet exist in the system, you can:
-		- Add it here by clicking on ‘Create a new Information Resource’\. Please note that it is __very important__ to add all relevant information to the Information Resource record\. Make sure to do this straight away by navigating to the record \(you can do this by clicking on the ‘pen’ icon \(Figure 11\)\)\.
+		- Add it here by clicking on ‘Create a new Information Resource’\. Please note that it is __very important__ to add all relevant information to the Information Resource record\. Make sure to do this straight away by navigating to the record \(you can do this by clicking on the ‘pen’ icon\)\.
 		- OR add it first separately \(see __Tutorial 15: Information Resources__\)\.
 	- Add the ‘Information Resource Acquisition Date’, i\.e\. the date the Information Resource was created \(e\.g\. the day a photo was taken\), in yyyy\-mm\-dd format\.
 	- Click on ‘__Add__’\.
 	- Add additional ‘Information Resources’ to each Assessment by clicking the plus sign next to the Information Resource Card name in the Card Tree
 	- If your Information Resource is applicable to the whole Heritage Place and multiple assessments, you should add it through the ‘Related Resources’ card \(see __Tutorial 9: Related Resources __and __Tutorial 15: Information Resources__\)\.
 
-![Graphical user interface, application, Teams](images/075.jpg)
-
-Figure 11: Adding an Information Resource to a specific Assessment\. To navigate to the Information Resource record, click on the ‘pen’ symbol next to the Information Resource number\.
+![Graphical user interface, application, Teams](images/075.jpg\)
 
 ### Adding additional Assessment Summary entries
 
@@ -802,11 +665,9 @@ Enter as many Assessment entries as necessary \(e\.g\. one each for field\-based
 - 
 	- To add a new entry, using the Card Tree, click on the ‘Assessment Summary’ card and repeat the steps above\. 
 	- Alternatively, you can also click on ‘\+Add New’ on the top right corner of the page and repeat the steps above\. 
-	- Each assessment entry will appear under the main Assessment Summary Card in the Card Tree on the left side \(Figure 12\)\.
+	- Each assessment entry will appear under the main Assessment Summary Card in the Card Tree on the left side\.
 
-![Graphical user interface, application, Teams](images/076.jpg)
-
-Figure 12: An Assessment Summary with two assessment entries added\.
+![Graphical user interface, application, Teams](images/076.jpg\)
 
 # TUTORIAL 4: Resource Summary
 
@@ -815,11 +676,9 @@ In this tutorial you will learn how to fill in the Resource Summary page of a He
 ## Getting Started
 
 - To navigate between the different sections \(‘cards’\) of the record, use the Card Tree on the left side of the screen\.
-- Click on __Resource Summary__ to move to that card \(Figure 1\)\.
+- Click on __Resource Summary__ to move to that card\.
 
-![Graphical user interface, application, Teams](images/077.jpg)
-
-Figure 1: Click on the Resource Summary card\.
+![Graphical user interface, application, Teams](images/077.jpg\)
 
 ## Resource Summary
 
@@ -831,7 +690,7 @@ The ‘Name’ section consists of two fields: ‘Resource Name’ and ‘Name T
 
 - In the ‘Resource Name’ field type in the first known name\.
 	- This can be in any language
-- Then click on the ‘Name Type’ field and choose the Type of name you have entered from the dropdown \(Figure 2\)\.
+- Then click on the ‘Name Type’ field and choose the Type of name you have entered from the dropdown\.
 	- ‘Toponyms’ refer to place names, e\.g\. ‘Petra’, or ‘Cyrene’
 		- If you are recording a specific monument within a larger site, make sure to include the site name, e\.g\. ‘Temple of Apollo, Cyrene’\.
 	- ‘Alternative references’ refer to things like identification numbers assigned to a site by a project or survey, e\.g\. ‘Wadi Hasa Survey site 114’ or ‘WHS\-114’
@@ -841,15 +700,13 @@ The ‘Name’ section consists of two fields: ‘Resource Name’ and ‘Name T
 
 If the site has no known names or designations, you may leave this field blank\.
 
-![Graphical user interface, text, application, email](images/078.jpg)
+![Graphical user interface, text, application, email](images/078.jpg\)
 
-Figure 2: The Resource Name field with the example of an ‘Alternative Reference’ from a survey gazetteer\.
-
-Click ‘__Add__’\. The name will appear below the field and under the ‘Name’ card in the Card Tree to the left \(Figure 3\)\.
+Click ‘__Add__’\. The name will appear below the field and under the ‘Name’ card in the Card Tree to the left\.
 
 - Repeat as many times as necessary until all of the known names have been entered\.
 
-![](images/079.jpg)Figure 3: Example of a site name entry\.
+![](images/079.jpg\)
 
 - You can edit your entry by clicking on it in the editing window or in the Card Tree\.
 	-  Change as required and click on ‘Save edit’\. 
@@ -861,14 +718,12 @@ Click ‘__Add__’\. The name will appear below the field and under the ‘Name
 
 In this field, you will enter the 'Heritage Place Type’ of the site that you are entering\. The different place types mostly refer to the scale \(Landscape, Archaeological Site, or Archaeological Feature/Component\), but also to the type of heritage \(Structural Heritage, Urban Heritage\)\.
 
-- Click on the ‘Heritage Place Type’ field and select the required option from the dropdown menu \(Figure 4\)\.
+- Click on the ‘Heritage Place Type’ field and select the required option from the dropdown menu\.
 	- Refer to the Glossary for detailed definitions of different types of classification\. 
 	- When there are multiple correct options, choose the most specific one\. When in doubt, use “Archaeological Site”\.
 - Click ‘__Add__’\. Your entry will appear below and in the Card Tree on the left\.
 
-![Graphical user interface, application](images/080.jpg)
-
-Figure 4: Heritage Place Type field\.
+![Graphical user interface, application](images/080.jpg\)
 
 ### Designation
 
@@ -881,7 +736,7 @@ A Designation should be added when a site is listed on an official list or regis
 	- ‘Designation To Date’ \(date\)\. 
 - Click on ‘Designation’ and choose the correct designation from the list\. 
 	- If a site is known to be on some form of National Register but no further details are known, you should choose the generic ‘National Register’ entry\. 
-- For sites currently on a list enter the date on which it was entered onto the list in the ‘Designation From Date’ field and leave the ‘Designation To Date’ field blank \(Figure 5\)\.
+- For sites currently on a list enter the date on which it was entered onto the list in the ‘Designation From Date’ field and leave the ‘Designation To Date’ field blank\.
 	- If the date is unknown, you may leave this field blank\.
 - For sites previously on a list, but since removed, add the date on which it was entered onto the list in the ‘Designation From Date’ field and the date it was removed in the ‘Designation To Date’ field\.
 	- Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
@@ -890,13 +745,11 @@ A Designation should be added when a site is listed on an official list or regis
 - Click ‘__Add__’\. Your entry will appear below and in the Card Tree on the left\.
 - Repeat as many times as necessary until you have listed all of the official lists or registers 	that the site is on\.
 
-![Graphical user interface, text, application](images/081.jpg)
-
-Figure 5: Adding the UNESCO World Heritage List Designation, assigned at 14 July 2016\. The site is still on the list, so the ‘Designation To Date’ \(end\) date field is left blank\. 
+![Graphical user interface, text, application](images/081.jpg\)
 
 ### Heritage Place Function Assignment
 
-In this field, you will enter the overall function\(s\) of the site and how certain you are that that function is applicable to the site \(Figure 6\)\. 
+In this field, you will enter the overall function\(s\) of the site and how certain you are that that function is applicable to the site\. 
 
 - Click on the ‘Heritage Place Function’ field and choose from the Dropdown list\.
 	- Refer to the Glossary for detailed definitions\.
@@ -913,24 +766,20 @@ A site may have multiple functions, so repeat the steps above as many times as n
 	- However, if you are recording a building with an uncertain interpretation, and it could be a temple OR it could be a house, you may choose ‘Religious’ OR ‘Domestic’, but not both\.
 		- Choose the one you think is more likely to be correct\. If you are really not sure, choose ‘Unknown’\.
 
-![Graphical user interface, text, application, email, Teams](images/082.jpg)
-
-Figure 6: The Heritage Place Function group, filled in as having an “Agricultural/Pastoral” function with a “High” certainty\.
+![Graphical user interface, text, application, email, Teams](images/082.jpg\)
 
 ### Description Assignment
 
 In this field you can add a \(brief\) description about the site, information about its significance, architectural details, etc\.  This field is optional and should only be used if the information you are entering cannot be captured properly in the other fields of the database\. It should not be used to repeat information already contained elsewhere in the record\.
 
-- Click on ‘General Description Type’\. A dropdown list will appear \(Figure 7\)\. Choose the ‘Type’ of description you are going to provide below\. 
+- Click on ‘General Description Type’\. A dropdown list will appear\. Choose the ‘Type’ of description you are going to provide below\. 
 	- Refer to the Glossary for detailed definitions\.
 - Type the description in the free\-text box\.
 	- Do NOT copy\-paste text from other sources, because formatting may be pasted along with the text, causing issues with the database\.
 - Click ‘__Add__’\. Your entry will appear below and in the Card Tree on the left\.
 - Repeat as many times as necessary if you need to enter different types of descriptions or comments\.
 
-![Graphical user interface, application, Teams](images/083.jpg)
-
-Figure 7: Choosing a term from the ‘Resource Descriptions Type’ menu\.
+![Graphical user interface, application, Teams](images/083.jpg\)
 
 # TUTORIAL 5: Geometries
 
@@ -938,24 +787,22 @@ This section records details about the geographic location and extent of the Res
 
 ## Getting Started
 
-Click on ‘Geometries’ in the Card Tree on the left side to go to that Card \(Figure 1\)\.
+Click on ‘Geometries’ in the Card Tree on the left side to go to that Card\.
 
-![Graphical user interface](images/084.jpg)
-
-Figure 1: \(Navigating to\) the geometry card\.
+![Graphical user interface](images/084.jpg\)
 
 ## Geometries
 
 ### General lay out
 
-When you click on the ‘Geometries’ Card, you will see a map\. There is an extra menu to the right side of the screen with four options to edit and configure the map \(Figure 2\)\. 
+When you click on the ‘Geometries’ Card, you will see a map\. There is an extra menu to the right side of the screen with four options to edit and configure the map\. 
 
-- The Card will default to the ‘Edit’ screen where you will enter information into the fields \(see Figure 1\)\.
+- The Card will default to the ‘Edit’ screen where you will enter information into the fields.
 - Click ‘Basemap’ to change the basemap you are seeing as a background\. Currently you can choose between ‘satellite’ and ‘street’, but more may be added later\.
 - Click ‘Overlays’ to turn different layers of data on and off using the toggle\.
 - Click ‘Legend’ to see the map legend\.
 
-![](images/085.jpg)Figure 2: Geometry menu \(red rectangle\), showing the ‘Basemaps’ options\.
+![](images/085.jpg\)
 
 ### Geometric Place Expression
 
@@ -971,20 +818,16 @@ If you used the previous version of the EAMENA database, you are probably used t
 2. Type in the place name of a nearby modern place in the search bar in the upper right corner of the map, and subsequently move around and zoom towards your Heritage Place\.
 3. If you know the coordinates: 
 	1. In the ‘Geometric Place Expression’ field, choose ‘Add Point’ and use your mouse to add a point to the map in any random place\.
-	2. Then, click on ‘Edit GeoJSON’, below the ‘Geometric Place Expression’ box and the added geometry \(Figure 3\)\. 
+	2. Then, click on ‘Edit GeoJSON’, below the ‘Geometric Place Expression’ box and the added geometry\. 
 	3. You now see the GeoJSON code – do not let this put you off\. Look for the coordinates and replace these with the correct ones\. 
-		- NB the coordinates must be entered in WGS84 decimal degrees, with X/easting/longitude first, then Y/northing/latitude \(Figure 4\)\. 
+		- NB the coordinates must be entered in WGS84 decimal degrees, with X/easting/longitude first, then Y/northing/latitude\. 
 		- If your co\-ordinates are not already in WGS84 decimal degrees, use the EAMENA converter spreadsheet to convert your coordinates or use your preferred tools \(there are many online convertors, or you can look it up in Google Earth by changing your preferences, or use QGIS\)\. 
 	4. The point you drew above will automatically move to the correct location\.
 	5. Finish by clicking on the green ‘Update Features’ button\.
 
-![A close up of a map](images/086.jpg)
+![A close up of a map](images/086.jpg\)
 
-Figure 3: Click on GeoJSON editor, after having added a point geometry in a random location\.
-
-![A screenshot of a social media post](images/087.jpg)
-
-Figure 4: Adjusting the coordinates in the ‘Edit GeoJSON’ field\.
+![A screenshot of a social media post](images/087.jpg\)
 
 #### Add a Geometry
 
@@ -1001,32 +844,24 @@ Once you have found your location, click on the __‘__Geometric Place Expressio
 To draw a polygon:
 
 - Find the location of your site using one of the methods in __Section 2\.2\.1__ above\.
-- Click the ‘Geometric Place Expression’ field and select ‘Add polygon’ \(Figure 5\)\.
-- Click on the map with your mouse to draw the outline of your polygon \(Figure 6\)\. 
+- Click the ‘Geometric Place Expression’ field and select ‘Add polygon’\.
+- Click on the map with your mouse to draw the outline of your polygon\. 
 	- Double\-click to stop drawing or by closing the polygon on the first point \(vertex\) again\. 
-	- Click once somewhere on the map outside the polygon to complete it\. It will change colour from orange to blue \(Figure 7\)\.
-- If you want to make changes to your polygon, select ‘Edit’ next to the polygon or click on it \(Figure 8\)\. It will turn orange again to show it is in ‘Edit’ mode\.
+	- Click once somewhere on the map outside the polygon to complete it\. It will change colour from orange to blue\.
+- If you want to make changes to your polygon, select ‘Edit’ next to the polygon or click on it\. It will turn orange again to show it is in ‘Edit’ mode\.
 	- Put your mouse on one of the vertexes\. Click on it once to highlight it and then drag it to where you want\. 
 	- Add a new vertex by clicking on the smaller dots in the middle of the line\. 
 	- Move the whole polygon to a different place by clicking inside it and dragging\.
-- If you want to delete your geometry, click on the ‘bin’ icon next to it \(Figure 8\)\.
+- If you want to delete your geometry, click on the ‘bin’ icon next to it\.
 	- If you used Method 3 above to find the location of your site, after you have drawn your polygon, delete the original Point you drew\.
 
-![Graphical user interface, application](images/088.jpg)
+![Graphical user interface, application](images/088.jpg\)
 
-Figure 5
+![Graphical user interface](images/089.jpg\)
 
-![Graphical user interface](images/089.jpg)
+![A picture containing graphical user interface](images/090.jpg\)
 
-Figure 6: Drawing a polygon
-
-![A picture containing graphical user interface](images/090.jpg)
-
-*Figure 7: Geometry card with one polygon, showing the outline of the archaeological remains\.*
-
-![Graphical user interface, text, application](images/091.jpg)
-
-Figure 8: Editing \(or deleting\) a geometry\. You can also edit the geometry by clicking on it in the map\.
+![Graphical user interface, text, application](images/091.jpg\)
 
 ### Location Certainty
 
@@ -1043,14 +878,12 @@ In this field you will indicate how certain you are that the location that you h
 In this field you will indicate how certain you are that the boundaries of the geometry you have drawn are accurate\.
 
 - Ask yourself how sure you are that you have accurately drawn the boundaries of the geometry\.
-- Click on the field and choose your certainty from the dropdown menu that appears \(Figure 9\)
+- Click on the field and choose your certainty from the dropdown menu that appears
 	- Refer to the Glossary for definitions for each of the terms\.
 	- Note that ‘Definite’ should only be used for sites for which the boundary of the site has been mapped in the field\.
 	- If no polygon has been created, because, for example the exact location or boundaries of the site are completely unknown, choose the term ‘Negligible’\.
 
-![Graphical user interface, application](images/092.jpg)
-
-*Figure 9*
+![Graphical user interface, application](images/092.jpg\)
 
 ### Geometry Type
 
@@ -1074,13 +907,11 @@ In this tutorial you will enter information relating to the geography of the Her
 
 ## Getting Started
 
-Click on__ __‘Geography’__ __in the Card Tree to go to that Card \(Figure 1\)\.
+Click on__ __‘Geography’__ __in the Card Tree to go to that Card\.
 
 - You will see the map window in this Card, but it will not be necessary to use it fill in any specific information\. See __Tutorial 5: Geometries__ for more information about the map window\.
 
-![Graphical user interface, website](images/093.jpg)
-
-*Figure 1: The Geography Card*
+![Graphical user interface, website](images/093.jpg\)
 
 ## Geography
 
@@ -1088,14 +919,12 @@ Click on__ __‘Geography’__ __in the Card Tree to go to that Card \(Figure 1\
 
 In this field you will enter the overall, horizontal shape of the full extent of the site \(as it is known\)\. You may enter only one Shape\.
 
-- Click on the ‘Overall Site Shape Type’ field and choose from the dropdown list \(Figure 2\)\.
+- Click on the ‘Overall Site Shape Type’ field and choose from the dropdown list\.
 	- Refer to the Glossary for detailed definitions of the terms that appear\.
 	- Choose the term closest to the actual shape of the Heritage Place rather than how you ended up drawing it\. 
 		- For example, if you drew a polygon around a circular Heritage Place because it was too difficult to draw a perfect circle, the shape is ‘Circular’ and not ‘Polygonal’\.
 
-![Graphical user interface, application](images/094.jpg)
-
-Figure 2: The dropdown list of the Shape field \(scroll down for more options\)\.
+![Graphical user interface, application](images/094.jpg\)
 
 ### Resource Orientation
 
@@ -1133,20 +962,16 @@ To enter the Grid Square:
 - Choose your Grid Square from the dropdown list\. To find it more quickly, start typing your Grid Square number until you see the correct one\.
 - If your Grid Square is not in the dropdown list you should create a new one:
 	- First, double\-check carefully that you have typed the correct grid number to ensure it does not already exist\. Most EAMENA grid squares have already been entered\.
-	- If you are sure it does not already exist, click on ‘Create a new Grid Square’ \(Figure 3\)\.
-	- Enter the Grid ID in the format ‘ExxNxx\-xx’ \(e\.g\. E35N24\-12\), in the window that appears \(Figure 4\)\.
+	- If you are sure it does not already exist, click on ‘Create a new Grid Square’\.
+	- Enter the Grid ID in the format ‘ExxNxx\-xx’ \(e\.g\. E35N24\-12\), in the window that appears\.
 	- Click ‘__Add__’ to add the new grid square\.
 - In most circumstances you should only add one grid square\.
 	- There may be rare circumstances where your site overlaps two grid squares\. In this case, choose the square in which the majority of your site falls\.
 	- Alternatively, you can choose to add the second Grid Square as a Related Resource\. See __Tutorial 9: Related Resources__ for instructions how to do this\.
 
-![Graphical user interface, application](images/095.jpg)
+![Graphical user interface, application](images/095.jpg\)
 
-Figure 3: If you type a Grid Square number that is not yet in the list, the ‘Create a new Grid Square’ option appears\.
-
-![Graphical user interface, application, Word](images/096.jpg)
-
-Figure 4: The ‘Add new Grid Square’ window\.
+![Graphical user interface, application, Word](images/096.jpg\)
 
 ### Cadastral Reference
 
@@ -1158,11 +983,9 @@ Click ‘__Add__’ to save the information in this card\. It will be appear in 
 
 - All of the information within the ‘Geography’ card should be applicable to the entire Heritage Place being recorded\. Do not add additional ‘Geography’ card entries\.
 
-After you click Add, two more cards will also appear in the card tree below your entry: Administrative Division and Address \(Figure 5\)\.
+After you click Add, two more cards will also appear in the card tree below your entry: Administrative Division and Address\.
 
-![Graphical user interface, text, application, email](images/097.jpg)
-
-Figure 5
+![Graphical user interface, text, application, email](images/097.jpg\)
 
 ### Administrative Division
 
@@ -1196,11 +1019,9 @@ In this tutorial you will enter more detailed information about the Heritage Pla
 
 ## Getting Started
 
-Click on ‘__Archaeological Assessment’__ in the Card Tree on the left to go to that card \(Figure 1\)\.
+Click on ‘__Archaeological Assessment’__ in the Card Tree on the left to go to that card\.
 
-![Graphical user interface, application, Teams](images/098.jpg)
-
-Figure 1
+![Graphical user interface, application, Teams](images/098.jpg\)
 
 ## Archaeological Assessment
 
@@ -1225,7 +1046,7 @@ In this field, you will identify the overall morphology of the site, i\.e\. whet
 
 ### Cultural Period Belief
 
-In this field you will define the cultural period\(s\) that are represented at the site you are recording and how certain you are about each of those periods \(Figure 2\)\.
+In this field you will define the cultural period\(s\) that are represented at the site you are recording and how certain you are about each of those periods\.
 
 - Click on ‘Cultural Period Type’ and choose from the Dropdown list to record the broad time\-period and region for your site\. For example, your site may belong to the ‘Neolithic \(Arabia\)’ or ‘Islamic \(North Africa\)’ period\. 
 	- You can also begin typing in the field to search for the term you want\.
@@ -1239,12 +1060,10 @@ In this field you will define the cultural period\(s\) that are represented at t
 		- You might for example be entering data that someone else has recorded in the field, or you might get your information from someone else’s work \(a report, book, etc\.\)\. If the name refers to the author of a published or unpublished work, make sure to also make an Information Resource for this and relate it to the current Heritage Place record\.
 - Click ‘__Add__’\.
 
-![Graphical user interface, text, application, email](images/099.jpg)
-
-Figure 2: ‘Cultural Period’ field group, indicating that the Heritage Place probably dates to the Levantine/Mesopotamian Neolithic, as based on information by Gary Rollefson \(in this case found in a publication that is entered as an Information Resource and linked to this record\)\.
+![Graphical user interface, text, application, email](images/099.jpg\)
 
 - After you click ‘Add’, your entry will appear in the Card Tree on the left and a new card, ‘Cultural Sub\-period’ will appear below it\.
-- Click on ‘Cultural Sub\-Period’ in the Card Tree \(Figure 3\)\. 
+- Click on ‘Cultural Sub\-Period’ in the Card Tree\. 
 	- In this field you will record the more specific time\-period for your site and region\. For example, ‘Neolithic, Early/Aceramic/Pre\-Pottery A \(Levant/Mesopotamia\)’\.
 - Click on the ‘Cultural Subperiod Type’ field and choose from the Dropdown list\.
 	- You can also begin typing in the field to search for the term you want\.
@@ -1255,16 +1074,12 @@ Figure 2: ‘Cultural Period’ field group, indicating that the Heritage Place 
 	- __Note__: Use ‘Definite’ only when the site material has been analysed and there is no doubt about that time\-period\.
 - Click ‘__Add__’\.
 
-![Graphical user interface, application](images/100.jpg)
-
-Figure 3: Adding a sub\-period to the main Cultural Period of ‘Neolithic \(Levant/Mesopotamia\)’
+![Graphical user interface, application](images/100.jpg\)
 
 - To add another sub\-period WITHIN the same Cultural Period you have already chosen, click on ‘Cultural Sub\-period’ in the Card Tree on the left \(or the ‘\+ Add New’ tab on the top right corner of the page\)\.
-- To add a new Cultural Period, click on ‘Cultural Period Belief’ in the Card Tree and repeat the steps above as many times as necessary to record all of the cultural periods and sub\-periods which are relevant to the site \(Figure 4\)\.
+- To add a new Cultural Period, click on ‘Cultural Period Belief’ in the Card Tree and repeat the steps above as many times as necessary to record all of the cultural periods and sub\-periods which are relevant to the site\.
 
-![Graphical user interface, text, application](images/101.jpg)
-
-Figure 4: Detailed view of the Card Tree, showing two ‘Cultural Period Type’ entries: the first \(Neolithic \(Levant/Mesopotamia\)\) has two sub\-periods entered, while the second \(Bronze Age \(Levant\)\) only has one\.
+![Graphical user interface, text, application](images/101.jpg\)
 
 ### Absolute Chronology
 
@@ -1296,16 +1111,12 @@ In this card, you will record the details about the different features which mak
 		- For example, a clustered group of circular structures, or an isolated wall\.
 		- If you are recording one or more complex feature\(s\) within your Heritage Place, for example a Temple within your site, and you need to add more data such as location, condition assessment, etc\. to it, you can also create a separate Heritage Place record for your feature and link it to your Heritage Place\. See __Section 2\.5\.3 Heritage Place Resource Instance__ below\. 
 - To begin a new Site Feature entry from the main ‘Archaeological Assessment’ card, scroll down to ‘Site Features’ and click ‘__Add__’\. Then click on the ‘Site Features’ line entry which will appear below\.
-- Alternatively, click ‘Site Features’ in the Card Tree on the left \(Figure 5\)\.
-- Either method will open the ‘Site Features’ card \(Figure 6\)\.
+- Alternatively, click ‘Site Features’ in the Card Tree on the left\.
+- Either method will open the ‘Site Features’ card\.
 
-![Graphical user interface, application, Teams](images/102.jpg)
+![Graphical user interface, application, Teams](images/102.jpg\)
 
-Figure 5: Click on ‘Add’ under Site Features, or directly on ‘Site Features’ in the Card Tree on the left
-
-![Graphical user interface, application](images/103.jpg)
-
-Figure 6: First few fields of the ‘Site Features’ card\.
+![Graphical user interface, application](images/103.jpg\)
 
 __NOTE__: It is important to complete all of the sections, described below, for each separate ‘Site Feature’ entry, before moving onto adding a new one\.
 
@@ -1320,11 +1131,9 @@ In the first section, ‘Site Feature Form’, you will describe the physical ch
 	- Refer to the Glossary for detailed definitions of the terms\.
 		- Note: you should only choose ‘Definite’ if the identification of the feature has been confirmed on the ground\.
 - Click ‘__Add__’\.
-	- Your entry will appear in the Card Tree on the left below the ‘Site Feature Form’ Card, with three new cards below it \(Figure 7\)\.
+	- Your entry will appear in the Card Tree on the left below the ‘Site Feature Form’ Card, with three new cards below it\.
 
-![Graphical user interface, text, application, email](images/104.jpg)
-
-Figure 7: Navigating to the Site Feature Shape Type field in the Card Tree
+![Graphical user interface, text, application, email](images/104.jpg\)
 
 ##### Site Feature Shape Type
 
@@ -1365,16 +1174,14 @@ In this card you will list the known interpretation\(s\) of the feature\(s\) you
 	- __Note__: you should only choose ‘Definite’ if the interpretation of the feature has been confirmed on the ground\.
 - Click on the ‘Site Feature Interpretation Number Type’ field and select the appropriate number range from the Dropdown list to describe the number of this kind of feature
 	- __Note__: It is not necessary to count the exact number of features – estimate and choose the correct range\.
-- Repeat the above steps as many times as necessary until you have listed all of the known interpretations of the individual feature you are recording \(Figure 8\)\.
+- Repeat the above steps as many times as necessary until you have listed all of the known interpretations of the individual feature you are recording\.
 	- __Note__: the number of interpretation entries does not necessarily have to match the number of Feature Form entries as multiple Forms may combine to create more or less interpretations\.
 - You should only list multiple interpretations if they are ALL applicable to the feature\(s\) you are recording\. Do not list multiple possible interpretations because you are not sure\.
 	- For example, if your Feature Form is a group of 2 to 5 clustered circular cairns, you could create interpretations as both 2 to 5 Tomb/Grave/Burial AND 1 Cemetery because both interpretations are equally applicable\. 
 		- However, if you are not certain of the interpretation of the cairns, e\.g\. they could be tombs, OR they could be clearance cairns, you should pick the interpretation you think is more likely, but not both\.
 		- If you are really not sure, choose ‘Unknown’\.
 
-![Graphical user interface, application, Teams](images/105.jpg)
-
-Figure 8: ‘Site Feature’ Card showing a ‘Site Feature Form’ of ‘Small Mound/Cairn’ with two ‘Site Feature Interpretations’
+![Graphical user interface, application, Teams](images/105.jpg\)
 
 #### Heritage Place Resource Instance
 
@@ -1387,7 +1194,7 @@ In this field you can record a relationship between the specific ‘Site Feature
 - Type in the EAMENA\-number of the Heritage Place you want to add and click on it to add the relationship\.
 	- If the record you wish to relate it to does not exist yet, you can choose to create a new Heritage Place here\.
 		- To do so click on ‘Create a New Heritage Place’ and fill in the Assessment Summary for this new Heritage Place\. 
-		- Remember to come back and complete the record for the new Heritage Place you have created\. You can access the new Heritage Place directly by clicking on the ‘edit’ \(pencil\) icon beside it \(Figure 9\)\. 
+		- Remember to come back and complete the record for the new Heritage Place you have created\. You can access the new Heritage Place directly by clicking on the ‘edit’ \(pencil\) icon beside it\. 
 - Click ‘__Add__’\.
 	- A default relationship type of “\[This site feature\] *contains or confines* \[the related site\]”, and an inverse relationship of “\[The related site\] *is contained or confined by* \[this site feature\]” will be created for your relationship\.
 		- For example, if your Site Feature is a ‘Sanctuary’, within the settlement recorded by the Heritage Place, you could relate this to another separate Heritage Place record, which is an individual ‘Temple’ within that Sanctuary\.
@@ -1399,9 +1206,7 @@ In this field you can record a relationship between the specific ‘Site Feature
 		- Click on dropdowns to change the relationships if necessary\.
 - Repeat if there are multiple relationships\. 
 
-![Graphical user interface, text, application, email](images/106.jpg)
-
-Figure 8: A relationship entry between a ‘Site Feature’ and another Heritage Place \(EAMENA\-0000005\) with the default relationship types\. This indicates that the individual Site Feature you are recording here, contains the entire Heritage Place recorded in EAMENA\-0000005\.
+![Graphical user interface, text, application, email](images/106.jpg\)
 
 #### Built Component
 
@@ -1433,16 +1238,14 @@ IMPORTANT NOTE:
 
 To start recording the next feature, add a new ‘Site Feature’ entry, as outlined in __Section 2\.5__\.
 
-- Click on the plus sign beside the Site Feature card in the card tree on the left to create a new, blank ‘Site Feature’ card \(Figure 9\)\.
+- Click on the plus sign beside the Site Feature card in the card tree on the left to create a new, blank ‘Site Feature’ card\.
 - Repeat the steps above until you have recorded all of the features present at your Heritage Place\.
 
-![Graphical user interface, text, application, Teams](images/107.jpg)
-
-Figure 9: A record with one completed Site Feature entry, which has a group of Small Mound/Cairns, which have two interpretations\. Below, is a new, blank, Site Feature entry, ready to be filled in\.
+![Graphical user interface, text, application, Teams](images/107.jpg\)
 
 ### Measurements
 
-In these fields you will enter any measurements that related to the Heritage Place as whole \(*not *for each of the individual features\), one by one \(Figure 10\)\.
+In these fields you will enter any measurements that related to the Heritage Place as whole \(*not *for each of the individual features\), one by one\.
 
 - Click on the ‘Measurements’ card in the Card Tree on the left\.
 - Click on the ‘Measurement Number’ field and enter the value number\.
@@ -1454,9 +1257,7 @@ In these fields you will enter any measurements that related to the Heritage Pla
 - Repeat for each relevant measurement\. 
 	- Make sure to click on either ‘Measurements’ in the menu or on ‘\+Add new’ in the upper right first before adding a new measurement, as otherwise you will be editing the previous one instead\.
 
-![Graphical user interface, application](images/108.jpg)
-
-*Figure 10: Length and width of the Heritage Place of 250 m by 100 m\. The latest addition, the Breadth/Width of 100m is shown in the edit window here\.*
+![Graphical user interface, application](images/108.jpg\)
 
 ### Material
 
@@ -1491,11 +1292,9 @@ This Card records details about the environmental setting of the Heritage Resour
 
 ## Getting Started
 
-Click on ‘Environment Assessment’ in the Card Tree to access that Card \(Figure 1\)\.
+Click on ‘Environment Assessment’ in the Card Tree to access that Card\.
 
-![Graphical user interface, application, Teams](images/109.jpg)
-
-Figure 1: The Environment Assessment Card\.
+![Graphical user interface, application, Teams](images/109.jpg\)
 
 ## Environment Assessment
 
@@ -1503,23 +1302,19 @@ Figure 1: The Environment Assessment Card\.
 
 In this field you will record the topography of the area where the site is located\.
 
-- Click on the ‘Topography Type’ field and choose the appropriate topography from the dropdown menu that appears \(Figure 2\)
+- Click on the ‘Topography Type’ field and choose the appropriate topography from the dropdown menu that appears
 	- Refer to the Glossary which provides definitions for each of the terms
 - Click ‘__Add__’\.
 - If you feel that your site exists within more than one topographical setting, you can add more than one term\.
-	- For example, if you have a site on a cliff next to a sea, you can choose ‘Ocean/Sea shore’ and click ‘__Add__’, and then you can also choose ‘Precipice/Edge’ and click ‘__Add__’ \(Figure 3\)\.
+	- For example, if you have a site on a cliff next to a sea, you can choose ‘Ocean/Sea shore’ and click ‘__Add__’, and then you can also choose ‘Precipice/Edge’ and click ‘__Add__’\.
 
-![](images/110.jpg)
+![](images/110.jpg\)
 
-Figure 2
-
-![](images/111.jpg)
-
-Figure 3: Multiple topographic entries recorded
+![](images/111.jpg\)
 
 ### Land Cover
 
-In this field you will record the type of vegetation or other cover that exists in the area where the site is located \(Figure 4\)\.
+In this field you will record the type of vegetation or other cover that exists in the area where the site is located\.
 
 - Click on the ‘Land Cover Type’ field and choose the appropriate term from the dropdown menu that appears\.
 	- Refer to the Glossary which provides definitions for each of the terms
@@ -1528,22 +1323,20 @@ In this field you will record the type of vegetation or other cover that exists 
 - Click ‘__Add__’\.
 - Multiple Land Cover Assessments can be added if they are applicable or if it has changed over time, by repeating the steps above\.
 
-![](images/112.jpg)Figure 4
+![](images/112.jpg\)
 
 ### Geology
 
 In this field you will record the present\-day geology of the area in which the site is located\. 
 
-- Scroll down to the Geology section and Click ‘__Add__' \(Figure 5\)\.
-- __Geology__ will appear \(in blue text\) under ‘Add’__ __\(Figure 6\)\. 
-	- Click it to proceed to the Geology window \(Figure 7\)\.
+- Scroll down to the Geology section and Click ‘__Add__'\.
+- __Geology__ will appear \(in blue text\) under ‘Add’__ __\. 
+	- Click it to proceed to the Geology window\.
 - Alternatively, you can click on ‘Geology’ in the Card Tree on the left to proceed directly to the Geology window\.
 
-![](images/113.jpg)
+![](images/113.jpg\)
 
-Figure 5
-
-![](images/114.jpg)Figure 6
+![](images/114.jpg\)
 
 The Geology Card has two sections:
 
@@ -1556,9 +1349,7 @@ The Geology Card has two sections:
 		- If needed, consult the Glossary for definitions\.
 	- Click ‘__Add__’\.
 
-![](images/115.jpg)
-
-Figure 7: The Geology window\.
+![](images/115.jpg\)
 
 - __Bedrock Geology__: This refers to the bedrock at the location of the site being documented\.  
 	- In the ‘Bedrock Geology Type’ field you will record the bedrock type\. 
@@ -1572,17 +1363,15 @@ Your information will appear in blue text below the ‘Add’ buttons in blue te
 
 If you feel that your site exists within more than one geological setting, you can add more than one term\.
 
-- For example \(Figure 8\), if the surficial sediment at your site includes sand as well as organic\-rich soil, you can choose ‘’Sand’ and click __‘Add’__, and then you can also choose ‘organic/soil/sediment/deposit’ and click ‘__Add’\.__
+- For example, if the surficial sediment at your site includes sand as well as organic\-rich soil, you can choose ‘’Sand’ and click __‘Add’__, and then you can also choose ‘organic/soil/sediment/deposit’ and click ‘__Add’\.__
 
-![](images/116.jpg)
-
-Figure 8: Example of a record with more than one geological setting\.
+![](images/116.jpg\)
 
 ### Marine Environment
 
 In this card you will record basic information on the physical processes operating in the marine environment in which the site is located
 
-- Click on ‘Marine Environment’ in the Card Tree to go directly to that window \(Figure 9\) or click on ‘Environment Assessment’ to go back to the full card and scroll down to that section\. 
+- Click on ‘Marine Environment’ in the Card Tree to go directly to that window or click on ‘Environment Assessment’ to go back to the full card and scroll down to that section\. 
 
 It is advised to complete these fields for sites located under the sea and on the coast\. 
 
@@ -1601,13 +1390,11 @@ There are three fields in the ‘Marine Environment’ card:
 	- If needed, consult the Glossary for definitions\.
 - Click ‘__Add__’\.
 
-Your information will appear in blue text below the ‘Add’ button in blue text \(Figure 10\)\.
+Your information will appear in blue text below the ‘Add’ button in blue text\.
 
-- Click on your entry to edit or delete the information \(Figure 11\)\.
+- Click on your entry to edit or delete the information\.
 
-![](images/117.jpg)
-
-Figure 10: The Marine Environment window, with one entry below
+![](images/117.jpg\)
 
 If necessary, multiple entries can be added by repeating the steps above\. 
 
@@ -1618,7 +1405,7 @@ If necessary, multiple entries can be added by repeating the steps above\.
 
 In this card you will record basic information on the general depth/elevation of the site\. 
 
-- Click on ‘Depth/Elevation’ in the Card Tree to go directly to that window \(Figure 12\) or click on ‘Environment Assessment’ to go back to the full card and scroll down to that section\. 
+- Click on ‘Depth/Elevation’ in the Card Tree to go directly to that window or click on ‘Environment Assessment’ to go back to the full card and scroll down to that section\. 
 
 There are four fields in the ‘Depth/Elevation’ card:
 
@@ -1639,9 +1426,7 @@ Your information will appear in blue text below the ‘Add’ button in blue tex
 
 - Click on your entry to edit or delete the information\.
 
-![](images/118.jpg)
-
-Figure 12: The Depth/Elevation window\.
+![](images/118.jpg\)
 
 # TUTORIAL 9: Related Resources
 
@@ -1649,42 +1434,36 @@ In this tutorial you learn how to add relationships between your Heritage Place 
 
 ## Getting Started
 
-Click on__ ‘__Related Resources’__ __in the card tree to access the Related Resources card \(Figure 1\)\.
+Click on__ ‘__Related Resources’__ __in the card tree to access the Related Resources card\.
 
 - The ‘Related Resources’ is only accessible once the record has been saved and has an EAMENA\-number\.
 
-![Graphical user interface, application](images/119.jpg)
+![Graphical user interface, application](images/119.jpg\)
 
-Figure 1
-
-In the Related Resources card, you will see an overview of the related resources that have already been added to this record in the Assessment Summary, Archaeological Assessment, and/or Condition Assessment\. In the example shown in Figure 1, you can see there are already three related resources\.
+In the Related Resources card, you will see an overview of the related resources that have already been added to this record in the Assessment Summary, Archaeological Assessment, and/or Condition Assessment\. In the example shown, you can see there are already three related resources\.
 
 You can use this section to add any other resources that are related to the Heritage Place, not already recorded in other sections, especially imagery or publications that you have used to create the record, i\.e\. Information Resources, as it is necessary to cite all of your sources\.
 
 ## Adding Related Resources 
 
-Click in the ‘Related Resources’ field and start typing the Resource ID number \(e\.g\. EAMENA\-0012345, INFORMATION\-0009876, etc\.\) or the name of the Person/Organization resource \(Figure 2\)\. 
+Click in the ‘Related Resources’ field and start typing the Resource ID number \(e\.g\. EAMENA\-0012345, INFORMATION\-0009876, etc\.\) or the name of the Person/Organization resource\. 
 
 - When it appears in the dropdown, click on it to add it to the list\.
 	- If you don’t know the number, open the search in a different browser tab, and look it up \(see __Tutorial 1: Searching the Database__\)\.
 - Click ‘__Add__’\.
 
-![Graphical user interface, application](images/120.jpg)
-
-Figure 2
+![Graphical user interface, application](images/120.jpg\)
 
 A default relationship type is automatically assigned based on the type of resource you have linked to\. 
 
-- If you would like to view or change the relationship type, click on the Resource ID number or name in the list \(Figure 3\)\.
+- If you would like to view or change the relationship type, click on the Resource ID number or name in the list\.
 - Each relationship has two fields that should be defined, describing each direction of the relationship\. 
-	- In the example in Figure 3, you can see that the first part indicates that the record EAMENA\-0000002 is the subject of INFORMATION\-0000002, which in this case is a book\.
+	- In the example shown, you can see that the first part indicates that the record EAMENA\-0000002 is the subject of INFORMATION\-0000002, which in this case is a book\.
 	- In the second part, you see that it describes the inverse relationship, that INFORMATION\-0000002 is \(a book\) about the site recorded by EAMENA\-0000002\.
 - Repeat until you have added all the resources that are related to the Heritage Place\.
 	- Click on the ‘pencil’ \(edit\) symbol next to the Related Resource name to go directly to its editing page\.
 
-![Graphical user interface, application](images/121.jpg)
-
-Figure 3
+![Graphical user interface, application](images/121.jpg\)
 
 # TUTORIAL 10: Introduction to the Geoarchaeology Resource Model
 
@@ -1700,30 +1479,22 @@ We recognize that many users of the EAMENA database are not Earth scientists, ge
 
 ## Getting Started
 
-After logging into the database, go to __‘Create New Heritage Resources’ __\(Figure 1\)\. 
+After logging into the database, go to __‘Create New Heritage Resources’\. 
 
-![](images/122.jpg)
-
-Figure 1: Adding a new resource\.
+![](images/122.jpg\)
 
 Access the Geoarchaeology Resource Model by EITHER:
 
-- Going to the left\-hand sidebar and choosing __Add New Resource>Geoarchaeology __\(Figure 2\) OR
-- Clicking on the blue __Geoarchaeology __icon in the main window \(Figure 3\)
+- Going to the left\-hand sidebar and choosing __Add New Resource>Geoarchaeology OR
+- Clicking on the blue __Geoarchaeology __icon in the main window
 
-![](images/123.jpg)
+![](images/123.jpg\)
 
-Figure 2: Adding a new Geoarchaeology resource from the left\-hand sidebar\.
+![](images/124.jpg\)
 
-![](images/124.jpg)
+You will see the same setup as the standard Heritage Place Resource Model with a Card Tree on the left side showing 7 cards which can be filled in\.
 
-Figure 3: Adding a new Geoarchaeology resource from the main window\.
-
-You will see the same setup as the standard Heritage Place Resource Model with a Card Tree on the left side showing 7 cards which can be filled in \(Figure 4\)\.
-
-![Graphical user interface, application](images/125.jpg)
-
-Figure 4: Navigating through a Geoarchaeology record using the Card Tree\.
+![Graphical user interface, application](images/125.jpg\)
 
 A full Geoarchaeological record will have information entered into all of these Cards\. Some of these Cards are identical to those used in the Heritage Place Resource Model, whereas other have slight differences required for documenting a Geoarchaeological feature\. Please refer to the relevant tutorials for instructions on how to fill in these sections\. The key area of difference is the Geoarchaeology Assessment Card where the bulk of the relevant geological or geomorphological data is entered, and has its own separate tutorial\.  
 
@@ -1783,25 +1554,19 @@ Differences to Heritage Place:
 
 - Does not have ‘Heritage Place Type’ field\.
 - Does not have ‘Heritage Place Function’ field\.
-- Has extra mandatory field ‘__Process Indicator/Evidence of’ __\(Figure 5\)
+- Has extra mandatory field ‘__Process Indicator/Evidence of’
 	- This field is used to provide a quick overall explanation of the significance of the documented geoarchaeological evidence\. This is aimed at an archaeological audience and/or heritage managers who are not specialists, or have limited knowledge of geoarchaeology, geology or environmental change\. 
-	- Click on the ‘Process Indicator of/Evidence of Type’ field and choose the most appropriate term from the dropdown \(Figure 6\)\. 
+	- Click on the ‘Process Indicator of/Evidence of Type’ field and choose the most appropriate term from the dropdown\. 
 		- Refer to the Glossary for definitions of these terms\.
-	- Click on the ‘Process Indicator Certainty’ field and choose the most appropriate certainty \(Figure 7\)\.
+	- Click on the ‘Process Indicator Certainty’ field and choose the most appropriate certainty\.
 		- Refer to the Glossary for definitions of these terms\.
 	- Click __‘Add’__
 
-![Graphical user interface, text, application](images/126.jpg)
+![Graphical user interface, text, application](images/126.jpg\)
 
-Figure 5: Extra mandatory field ‘Process Indicator/Evidence of’ 
+![](images/127.jpg\)
 
-![](images/127.jpg)
-
-Figure 6: Select the appropriate Process Indicator of/Evidence of Type’
-
-![Graphical user interface, text, application, email](images/128.jpg)
-
-Figure 7: Select the appropriate certainty\.
+![Graphical user interface, text, application, email](images/128.jpg\)
 
 - Repeat the steps above to add multiple terms where necessary\.
 
@@ -1814,26 +1579,20 @@ Differences to Heritage Place:
 - Does not have ‘Address’ fields\.
 - Does not have ‘Administrative Division’ fields\.
 - Does not have ‘Cadastral Reference’ field\.
-- Has extra mandatory field ‘Maritime Region Type’__ __\(Figure 8\)
+- Has extra mandatory field ‘Maritime Region Type’__
 	- This field is used to document the general location of the documented feature according to the maritime zones defined by the United Nations Conference on the Law of the Sea \(UNCLOS\)\. It is only required for features located offshore or seaward of low water\. 
-	- Click on the ‘Maritime Region Type’ field and__ __choose the most appropriate term from the dropdown \(Figure 9\)\.
+	- Click on the ‘Maritime Region Type’ field and__ __choose the most appropriate term from the dropdown\.
 		- Refer to the Glossary for definitions of the terms\.
-- Has extra mandatory field ‘Overall Location Type’ \(Figure 8\)
+- Has extra mandatory field ‘Overall Location Type’
 	- This field is used to indicate how the mapped extent of the feature being recorded has been defined\. For example, whether the extent is based directly on the observed boundary of the geoarchaeological feature, has been interpolated from scattered evidence or reflects only the extent of the available data rather than the true limits of the feature under consideration\.
-	- Click on the ‘Overall Location Type’__ __field and choose the most appropriate term from the dropdown \(Figure 10\)\. 
+	- Click on the ‘Overall Location Type’__ __field and choose the most appropriate term from the dropdown\. 
 		- Refer to the Glossary for definitions of these terms\. 
 
-![Map](images/129.jpg)
+![Map](images/129.jpg\)
 
-Figure 8: The Geoarchaeology Geography Card, highlighting extra, mandatory fields
+![Graphical user interface, application, email](images/130.jpg\)
 
-![Graphical user interface, application, email](images/130.jpg)
-
-Figure 9: The ‘Maritime Region Type’ field
-
-![Graphical user interface, application](images/131.jpg)
-
-Figure 10: The ‘Overall Location Type’ field
+![Graphical user interface, application](images/131.jpg\)
 
 # TUTORIAL 11: Geoarchaeology Assessment
 
@@ -1841,11 +1600,9 @@ In this tutorial you will enter geological and geomorphological information rela
 
 ## Getting Started
 
-Click on__ __‘Geoarchaeology Assessment’ in the Card Tree on the left to go to that card \(Figure 1\)\.
+Click on__ __‘Geoarchaeology Assessment’ in the Card Tree on the left to go to that card\.
 
-![](images/132.jpg)
-
-Figure 5
+![](images/132.jpg\)
 
 ## Geoarchaeology Assessment
 
@@ -1854,13 +1611,11 @@ Figure 5
 In this field you will enter your overall certainty as to whether the site/feature you are describing contains evidence of a past environment, landscape or environmental change\. 
 
 - Think of it as being like the overall certainty explanation for Heritage Place\. 
-- Click the ‘Overall Geoarchaeological Certainty Value__’__ field and choose from the dropdown list \(Figure 2\)\.
+- Click the ‘Overall Geoarchaeological Certainty Value__’__ field and choose from the dropdown list\.
 	- See the Glossary for definitions of the terms\.
 - Click ‘__Add__’\.
 
-![](images/133.jpg)
-
-Figure 6
+![](images/133.jpg\)
 
 ### Source of Evidence
 
@@ -1869,9 +1624,7 @@ This field is used to record the technique or approach that was used to obtain t
 - Click on the ‘Source of Evidence Type’ field and choose from the dropdown list\. 
 	- If you are unfamiliar with the terms that appear, refer to the Glossary for detailed definitions\.
 
-![](images/134.jpg)
-
-Figure 7
+![](images/134.jpg\)
 
 - Use the ‘Related Information Resource’ field to link to the item from which you have obtained this evidence, for example, an academic paper, a report, or a dataset – i\.e\. any of the items you would normally use as an Information Resource\.
 	- Look up the INFORMATION\-number of the Information Resource that you have used \(see __Tutorial 1: Searching the Database__\)\.
@@ -1883,22 +1636,18 @@ Figure 7
 	- A default relationship type of “\[This Geoarchaeology Assessment\] *is the subject of* \[the related Information Resource\]”, and an inverse relationship of “\[The related Information Resource\] *is about* \[this Geoarchaeology Assessment\]” will be created for your relationship\.
 		- To view or change the type of relationship, click on the bar with the INFORMATION\-number \(the ‘relationship value bar’\)\. However, it should not normally be necessary to change this relationship type in this case\.
 
-![](images/135.jpg)
-
-Figure : Click on the field to search an Information Resource or create a new one\.
+![](images/135.jpg\)
 
 ### General Date
 
 This card is used to record the age of the feature or site being described through general periods rather than numerical ages\. Effectively, it works like the Cultural Periods field used for Heritage Places but using geological periods\.  
 
-- To add a date, click __‘Add__’ \(Figure 5\), then click on the entry which appears in blue text below the ‘Add’ button to go to the ‘General Date’ Card\.
+- To add a date, click __‘Add__’, then click on the entry which appears in blue text below the ‘Add’ button to go to the ‘General Date’ Card\.
 - Alternatively, you can click on ‘General Date’ in the Card Tree on the left to go directly to the card\.
 
-![](images/136.jpg)
+![](images/136.jpg\)
 
-Figure 
-
-- In the new ‘General Date’ Card, there are two sections\. You can fill in either section, or both \(Figure 6\)\.  
+- In the new ‘General Date’ Card, there are two sections\. You can fill in either section, or both\.  
 	- __Quaternary Divisions:__ this uses only the broadest agreed\-upon categories from the International Commission on Stratigraphy \(ICS\) Submission on Quaternary Stratigraphy \(SQS\)\. More information on these can be found on the SQS webpage [http://quaternary\.stratigraphy\.org/major\-divisions/](http://quaternary.stratigraphy.org/major-divisions/)\. We have chosen to use only the broadest categories because as there are many local and regional variants with no agreed correlation\. 
 		- Click on the ‘Quaternary Divisions’ field and choose the appropriate term from the dropdown
 			- Refer to the Glossary for detailed definitions of the terms
@@ -1910,34 +1659,28 @@ Figure
 		- Click on the ‘Marine Isotope Stage Certainty’ field and choose the appropriate level of certainty\.
 		- Click ‘__Add’__\.
 - Your entries will appear in blue below the ‘Add’ button\.
-	- Click on them to edit or delete an entry \(Figure 7\)\.
+	- Click on them to edit or delete an entry\.
 
-![](images/137.jpg)
+![](images/137.jpg\)
 
-Figure : The new ‘General Date’ window
-
-![](images/138.jpg)Figure : A new date was entered in the record\.
+![](images/138.jpg\)
 
 - Some sites span long periods of geological time and can fall within multiple MIS or Quaternary divisions\. Therefore, you can add multiple dates for a given site\. There are different ways to do this depending on how you are recording:
-	- If you are recording multiple ages for a single feature \(e\.g\. a sediment deposit which spans MIS1 and MIS2\) then stay on the ‘General Date’ window and repeat the steps above to add more dates as you did before \(Figure 8\)\. E\.g\.
+	- If you are recording multiple ages for a single feature \(e\.g\. a sediment deposit which spans MIS1 and MIS2\) then stay on the ‘General Date’ window and repeat the steps above to add more dates as you did before\. E\.g\.
 		- MIS1>High Certainty>Add
 		- MIS2>High Certainty>Add
 
-![](images/139.jpg)
-
-Figure : An example of a record with multiple ages for a single feature\.
+![](images/139.jpg\)
 
 - 
 	- If you are recording multiple features with different ages within the same record, then, click ‘Geoarchaeology Assessment’ in the Card Tree to return to the main Geoarchaeology Assessment Card\. 
-		- Scroll down to the ‘General Date’ section and click ‘__Add__’ to create a new entry and repeat the steps above \(Figure 9\)__\.__
+		- Scroll down to the ‘General Date’ section and click ‘__Add__’ to create a new entry and repeat the steps above__\.__
 
-![](images/140.jpg)
-
-Figure 13: A record with different ages as visible in the Card Tree
+![](images/140.jpg\)
 
 ### Geoarchaeological Timespace
 
-This field is optional\. It is used to record a numerical age for the site being described, if absolute dates are available\. This can be used together with the General Age describe above to refine the chronology of a site\. For example, a site may fall within MIS1, but also have radiocarbon dates which place it between 6000\-7000 cal BP\. To add a numerical age \(Figure 10\):
+This field is optional\. It is used to record a numerical age for the site being described, if absolute dates are available\. This can be used together with the General Age describe above to refine the chronology of a site\. For example, a site may fall within MIS1, but also have radiocarbon dates which place it between 6000\-7000 cal BP\. To add a numerical age:
 
 - Scroll to the ‘Geoarchaeological Timespace’ section in the main ‘Geoarchaeology Assessment’ window or click on it in the Card Tree on the left to go directly to its card\.
 - Enter the oldest date for the site in the relevant ‘Date From__’ __field as a number, e\.g\. 1745\.
@@ -1956,9 +1699,7 @@ This field is optional\. It is used to record a numerical age for the site being
 - Click ‘__Add__’\.
 - To enter multiple ages, from the main ‘Geoarchaeology Assessment’ window click ‘Add’ to add another entry, or click the plus sign beside ‘Geoarchaeological Timespace’ in the Card Tree, and repeat the steps above\.
 
-![](images/141.jpg)
-
-Figure 
+![](images/141.jpg\)
 
 ### Geoarchaeology Feature Assessment
 
@@ -1985,7 +1726,7 @@ __NOTE__: It is important to complete all of the sections, described below, for 
 
 #### Feature Sediment Belief
 
-In this card you will record the sediment characteristics \(Figure 11\)\. Choose appropriate terms from the dropdown menus\. 
+In this card you will record the sediment characteristics\. Choose appropriate terms from the dropdown menus\. 
 
 - Click on the ‘Feature Sediment Type’ field and choose from the dropdown to describe the type of sediment
 - Click on the ‘Feature Sediment Transition’ field and choose from the dropdown to__ __describe the nature of the boundary between the sediment layer being documented and the next one to be documented, if a stratigraphic sequence is being recorded\.__  __
@@ -1995,13 +1736,11 @@ In this card you will record the sediment characteristics \(Figure 11\)\. Choose
 	- Your entry will appear as a line of blue text below the ‘Add’ button\. If you wish to edit or delete the information, click the blue text\. 
 - Repeat the steps above to add multiple entries if they are applicable to the Geoarchaeology Feature you are recording\.
 
-![](images/142.jpg)
-
-Figure 15
+![](images/142.jpg\)
 
 #### Feature Landform Belief
 
-The fields in this card are used to record landform characteristics \(Figure 12\)\. 
+The fields in this card are used to record landform characteristics\. 
 
 - Click on the ‘Feature Landform Type’ field and choose from the dropdown to record the type of landform in terms of its morphology
 - Click on the ‘Feature Landform Number Type’ field to enter__ __the approximate number of the previously entered landforms\. 
@@ -2012,13 +1751,11 @@ The fields in this card are used to record landform characteristics \(Figure 12\
 	- Your entry will appear as a line of blue text below the ‘Add’ button\. If you wish to edit or delete the information, click the blue text\. 
 - Repeat the steps above to add multiple entries if they are applicable to the Geoarchaeology Feature you are recording\.
 
-![](images/143.jpg)
-
-Figure 
+![](images/143.jpg\)
 
 #### Feature Interpretation Belief
 
-The fields in this card record the interpretation of the above sediment and landform evidence \(Figure 13\)\. 
+The fields in this card record the interpretation of the above sediment and landform evidence\. 
 
 - Click on the ‘Feature Interpretation Type’ field and choose the appropriate interpretation for the above sediment/landform evidence in terms of a former landscape feature 
 - Click on the ‘Feature Interpretation Type Certainty’ field and choose the appropriate__ __certainty value of the information entered in preceding fields\. 
@@ -2027,9 +1764,7 @@ The fields in this card record the interpretation of the above sediment and land
 	- Your entry will appear as a line of blue text below the ‘Add’ button\. If you wish to edit or delete the information, click the blue text\. 
 - Repeat the steps above to add multiple entries if they are applicable to the Geoarchaeology Feature you are recording\.
 
-![](images/144.jpg)
-
-Figure 17
+![](images/144.jpg\)
 
 For each of the fields in the last three sections of the ‘Geoarchaeology Feature Assessment’ card, it is possible to add multiple entries for the specific Geoarchaeology Feature that you are recording\. This allows you to record for example:
 
@@ -2040,7 +1775,7 @@ __NOTE__: if recording sediment sequences, the Resource Model does not record st
 
 #### Related Geoarchaeology/Palaeolandscape
 
-This card is used to link the feature being described to another \(related\) geoarchaeological feature in the database \(Figure 14\)\. If there are no related geoarchaeological features, you may leave this card blank\.
+This card is used to link the feature being described to another \(related\) geoarchaeological feature in the database\. If there are no related geoarchaeological features, you may leave this card blank\.
 
 - Type in the GEOARCH\-number of the Geoarchaeology Record you want to add and click on it to add the relationship\.
 	- If the record you wish to relate it to does not exist yet, you can choose to create a new Geoarchaeology Record here\.
@@ -2051,9 +1786,7 @@ This card is used to link the feature being described to another \(related\) geo
 		- To view or change the type of relationship, click on the bar with the GEOARCH\-number \(the ‘relationship value bar’\)\. 
 - Repeat if there are multiple relationships for the specific Geoarchaeology Feature you are recording\. 
 
-![](images/145.jpg)
-
-Figure 
+![](images/145.jpg\)
 
 #### Add additional Geoarchaeology Features
 
@@ -2093,20 +1826,16 @@ Click on the ‘Condition Assessment’__ __card in the Card Tree on the left si
 		- 
 			- This will open a new and blank ‘Condition Assessment’ page\. You can scroll down the page and see the data entry fields in this section\.
 				- You can start entering data directly into the fields from this page\.
-			- Another way to access the data entry fields and cards is by clicking the ‘\+’ button next to the Condition Assessment card \(Figure 1\)\.
+			- Another way to access the data entry fields and cards is by clicking the ‘\+’ button next to the Condition Assessment card\.
 
-![](images/146.jpg)
+![](images/146.jpg\)
 
-Figure 1\.
+- This will expand all the data entry cards for this section\. Choosing and clicking on each card, will open the relevant page with the specific fields for that card\. 
+	- For example, clicking on ‘Overall Site Condition’ will open the page with the ‘Overall Site Condition’ field\.
 
-- This will expand all the data entry cards for this section \(Figure 2\)\. Choosing and clicking on each card, will open the relevant page with the specific fields for that card\. 
-	- For example, clicking on ‘Overall Site Condition’ will open the page with the ‘Overall Site Condition’ field \(Figure 3\)\.
+![](images/147.jpg\)
 
-![](images/147.jpg)
-
-Figure 2
-
-![](images/148.jpg)  Figure 3
+![](images/148.jpg)
 
 ## Condition Assessment
 
@@ -2119,14 +1848,12 @@ Click on the ‘\+’ button next to the Condition Assessment card in the Card T
 The ‘Overall Site Condition’ specifies the current state of the Heritage Place being recorded, also taking into account whether a site is experiencing any active deterioration\. Ask yourself, ‘what does the most up to date imagery and other sources of information tell you about the stability and overall state of the site’?
 
 - Click on ‘Overall Site Condition’ in the Card Tree on the left side to go to that card\.
-- Click on the ‘Overall Site Condition’ field and choose the appropriate term from the Dropdown list \(Figure 4\)
+- Click on the ‘Overall Site Condition’ field and choose the appropriate term from the Dropdown list
 	- Refer to the Glossary for detailed definitions of the terms\.
 	- __Note__: You should only record one ‘Overall Site Condition’, summarizing the condition of the whole site\. If part of the site is in very bad condition and part in good condition, you might, for example, choose ‘Poor’ for the site overall\.
 - Click ‘__Add__’\.
 
 ![](images/149.jpg)
-
-  Figure 4
 
 ### Extent of Damage
 
@@ -2162,12 +1889,10 @@ In this field you will record the broader category of the disturbance cause\. As
 	- Refer to the Glossary for detailed definitions of the terms\.
 	- If the ‘Disturbance Cause’ is *No Visible/Known*, leave this field blank\. 
 - Click ‘__Add__’\.
-	- After you click ‘Add’, your entry will appear below in blue text, and in the Card Tree on the left side, below the Disturbances Card \(Figure 5\)\.
-	- In addition, the ‘Cause’ card will appear in the Card Tree below your ‘Category’ \(Figure 5\)\. 
+	- After you click ‘Add’, your entry will appear below in blue text, and in the Card Tree on the left side, below the Disturbances Card\.
+	- In addition, the ‘Cause’ card will appear in the Card Tree below your ‘Category’\. 
 
 ![](images/150.jpg)
-
-  Figure 5\.
 
 #### Cause 
 
@@ -2182,14 +1907,12 @@ To start a new ‘Cause’ card, click ‘Cause’ in the Card Tree on the left\
 
 ##### Cause 
 
-- Click on the ‘Cause’ field and choose an option from the Dropdown list \(Figure 6\)\.
+- Click on the ‘Cause’ field and choose an option from the Dropdown list\.
 	- Refer to the Glossary for detailed definitions of the terms\.
 	- ‘Unknown’ should be selected when you cannot identify a specific Disturbance Cause, but you can identify the disturbance effects \(see below\)\.
 	- ‘No Visible/Known’ should be selected when there are NO identifiable or known disturbances\. 
 
 ![Graphical user interface, application, Teams](images/151.jpg)
-
-  Figure 6
 
 ##### Cause Certainty
 
@@ -2220,22 +1943,18 @@ In this field you will record the name of the person/organisation or group or pr
 - If someone other than you made the assessment, you should add the name of the person and/or project or organisation\. You might for example be entering data that someone else has recorded in the field, or you might get your information from someone else’s work \(a report, book, etc\.\) and enter the author\. 
 	- If your information is from another source, remember to create and Information Resource record and relate it to the Heritage Place\.
 - Click on ‘Disturbance Cause Assignment Assessor Name’ and type the name\. 
-	- If you are adding a name of an individual, use the format ‘Firstname \[or Initial\(s\)\] Lastname \(Figure 7\), e\.g\. Simon Jones, or S\.R\. Jones\.
+	- If you are adding a name of an individual, use the format ‘Firstname \[or Initial\(s\)\] Lastname, e\.g\. Simon Jones, or S\.R\. Jones\.
 
-![](images/152.jpg)
-
-Figure 7\.
+![](images/152.jpg\)
 
 ##### Add
 
 Once you have finished entering all of the ‘Disturbance Cause’ data, click ‘__Add__’\.
 
 - After you click ‘Add’, your entry will appear in the Card Tree on the left side, below Cause Card\.
-- In addition, the ‘Effect’ card will appear in the Card Tree below your ‘Category’ \(Figure 8\)\. 
+- In addition, the ‘Effect’ card will appear in the Card Tree below your ‘Category’\. 
 
-#### ![](images/153.jpg)
-
-Figure 8
+#### ![](images/153.jpg\)
 
 #### Effect
 
@@ -2243,11 +1962,9 @@ Disturbance Effects are the visible effects or impacts of the Disturbance Causes
 
 It is possible to know the Disturbance Effect but not the Disturbance Cause\. For example, when you observe erosion \(Effect is “Erosion”\) or structural damage \(Effect is “Collapse/Structural Damage”\), but you do not know what caused it\. In these cases, Disturbance Cause should be entered as ‘Unknown’\.
 
-- Click on ‘Effect’ in the Card Tree to go to that card \(Figure 9\)\. 
+- Click on ‘Effect’ in the Card Tree to go to that card\. 
 
-![Graphical user interface, application, Teams](images/154.jpg)
-
-Figure 9
+![Graphical user interface, application, Teams](images/154.jpg\)
 
 ##### Effect Type
 
@@ -2265,12 +1982,10 @@ Figure 9
 ##### Add
 
 - Once you have finished entering your data above, click ‘__Add__’\.
-- Repeat as many times as necessary by clicking on “\+ Add New” tab on the top right corner of the window to add multiple Effects for the same Disturbance Cause \(Figure 10\)\. 
+- Repeat as many times as necessary by clicking on “\+ Add New” tab on the top right corner of the window to add multiple Effects for the same Disturbance Cause\. 
 - You can also click on ‘Effect’ in the Card Tree to create a new entry\.
 
-![Graphical user interface, application, Teams](images/155.jpg)
-
-Figure 10
+![Graphical user interface, application, Teams](images/155.jpg\)
 
 #### Add further Disturbance Category and Disturbance Cause Entries
 
@@ -2282,11 +1997,9 @@ To add other ‘Disturbance Category’, click on ‘Disturbance’ in the Card 
 
 - Repeat the steps above starting with __Section 2\.3\.1__ and filling in all of the Category, Cause, and Effect information\.
 
-Repeat these steps as many times as necessary to record all of the Disturbances affecting the Heritage Place you are recording \(Figure 11\)
+Repeat these steps as many times as necessary to record all of the Disturbances affecting the Heritage Place you are recording
 
-![Timeline](images/156.jpg)
-
-Figure 11: Card Tree showing two Disturbance entries\. The first entry is for the ‘Agricultural/Pastoral’ Category, which has two Causes recorded, each with their Effects, that belong to that category\. The second entry is for ‘Looting/Illegal Activities’, with a single Cause and its Effect\.
+![Timeline](images/156.jpg\)
 
 ### Threats
 
@@ -2327,11 +2040,9 @@ In this field you will record the name of the person or group or project who has
 - If someone other than you made the assessment, you should add the name of the person and/or project or organisation\. You might for example be entering data that someone else has recorded in the field, or you might get your information from someone else’s work \(a report, book, etc\.\) and enter the author\. 
 	- If your information is from another source, remember to create and Information Resource record and relate it to the Heritage Place\.
 - Click on ‘Threat Inference Making Assessor Name’ and type the name\. 
-	- If you are adding a name of an individual, use the format ‘Firstname \[or Initial\(s\)\] Lastname \(Figure 12\), e\.g\. Simon Jones, or S\.R\. Jones\.
+	- If you are adding a name of an individual, use the format ‘Firstname \[or Initial\(s\)\] Lastname, e\.g\. Simon Jones, or S\.R\. Jones\.
 
-![](images/157.jpg)
-
-Figure 12
+![](images/157.jpg\)
 
 #### Add
 
@@ -2404,42 +2115,34 @@ In this tutorial you will learn how to create a new Built Component record or ed
 - Method 2: You can create a new Built Component record for the Gate and then relate that record to the Heritage Place which records the Castle from the Assessment Summary Card\. See Section 6\.2 below for instructions on how to do this\.
 	- You should only use this method, however, when the Heritage Place in question records ONLY the feature, i\.e\. the Castle in this example\. as opposed to where the Castle is being recorded as just one ‘Site Feature’ of another record, which records for example an entire settlement\. 
 
-## <a id="_Toc54180776"></a>Getting Started
+## Getting Started
 
 To create a new Built Component record, click on the ‘Resource Manager’ button on the left side of the screen to go to the Resource Manager page\.
 
-- Then click on ‘Create Resource’ under ‘Built Component’ \(Figure 1\)\.
-- Alternatively, you can go directly to a new Built Component record by hovering over the Resource Manager icon on the left side, then choosing ‘Built Component’ from the list that appears \(Figure 2\)\. 
+- Then click on ‘Create Resource’ under ‘Built Component’\.
+- Alternatively, you can go directly to a new Built Component record by hovering over the Resource Manager icon on the left side, then choosing ‘Built Component’ from the list that appears\. 
 
-![](images/158.jpg)
+![](images/158.jpg\)
 
-Figure 1: Adding a new Built Component from the Resource Manager page\.
-
-![Graphical user interface, website](images/159.jpg)
-
-Figure 2: Adding a new Built Component from the left side menu
+![Graphical user interface, website](images/159.jpg\)
 
 To add information to an existing Built Component, search for it in the database and click on ‘Edit’ below its COMPONENT\-number in the search results\.
 
 - Refer to __Tutorial 1: Searching the Database – Basic__, for detailed instructions about searching\.
 
-When the new or existing record opens, on the left side of the page you will see the resource’s Card Tree\. You can navigate between different sections of the record by selecting a card \(for example Built Component Observation card or Material card\) \(Figure 3\)\. 
+When the new or existing record opens, on the left side of the page you will see the resource’s Card Tree\. You can navigate between different sections of the record by selecting a card \(for example Built Component Observation card or Material card\)\. 
 
-![Graphical user interface, application](images/160.jpg)
+![Graphical user interface, application](images/160.jpg\)
 
-Figure 3: A new Built Component record with Card Tree on the left
-
-## <a id="_Toc54180777"></a>Built Component Observation 
+## Built Component Observation 
 
 In this card you will enter information about the type and orientation of the Built Component\(s\) you are recording\. Images and descriptive texts also could be added using this card\.  
 
-- Click on ‘Built Component Observation’ in the Card Tree to go to that card \(Figure 4\)
+- Click on ‘Built Component Observation’ in the Card Tree to go to that card
 
-![Graphical user interface, text, application, email](images/161.jpg)
+![Graphical user interface, text, application, email](images/161.jpg\)
 
-Figure 4: The Built Component Observation Card
-
-### <a id="_Toc54180778"></a>Built Component Type
+### Built Component Type
 
 In this field you will enter the type of Built Component that you are recording\. For example, structural components such as floor and roof, openings such as door and windows, etc\. can be recorded here\. 
 
@@ -2447,14 +2150,14 @@ In this field you will enter the type of Built Component that you are recording\
 - Refer to the Glossary for detailed definitions of different types of components\. 
 	- You can record some parts of the building’s components together if the purpose is to assess them together, for example all exterior \(or interior\) components of a structure together \(as opposed to individually\)\. 
 
-### <a id="_Toc54180779"></a>Built Component Orientation 
+### Built Component Orientation 
 
 This field is used to record the geographical orientation of the Built Component that is being recorded and assessed\. For example, for a Built Component Type recorded as a ‘Wall’, if it is the north wall of the structure, you would select ‘North’\. 
 
 - Click on the ‘Built Component Orientation’ field and choose from the dropdown list\. 
 	- Note that not all components have orientations\. For example, if you are recording a whole ceiling, choose Not Applicable\.
 
-### <a id="_Toc54180780"></a>Built Component Comments 
+### Built Component Comments 
 
 In this field you can add any comments about the Built Component, e\.g\. about its significance, architectural details, etc\.  if you cannot capture that information in the other fields of the record\.
 
@@ -2462,31 +2165,27 @@ In this field you can add any comments about the Built Component, e\.g\. about
 	- Note, do not use copy\-paste from other documents or the internet, because this can affect the database\.
 - If you have no other comments, leave this field blank\.
 
-### <a id="_Toc54180781"></a>Built Component Image 
+### Built Component Image 
 
 You can use this field to upload images to the Built Component record, or any other relevant documents \(written reports, videos, etc\.\)\. 
 
-- Drag and drop the document onto this panel to upload it or click ‘Select Files” and navigate to the file you would like to upload from your computer\. Choose the file and it will be uploaded and appear in a list below \(Figure 5\)\.
+- Drag and drop the document onto this panel to upload it or click ‘Select Files” and navigate to the file you would like to upload from your computer\. Choose the file and it will be uploaded and appear in a list below\.
 - Click on the X beside the file name to delete the selected file or click on ‘delete all files’ to delete all uploaded files\.
 - Click on ‘add more files’ to navigate to your folders on the computer and choose another document to upload for the built component\.  
 	- Note that your document is not saved on the database until you click the ‘Add” button\. 
 	- You may upload as many documents as you need; however, the maximum size of any single file is 200MB\. 
 
-![Graphical user interface, application, Teams](images/162.jpg)
-
-Figure 5
+![Graphical user interface, application, Teams](images/162.jpg\)
 
 ### Add 
 
 Once you have finished entering your data for this card, click ‘__Add’__ at the bottom of the page to save\.  
 
-- If you are adding a new Built Component, once you have clicked on Add, your record will be automatically saved and a unique COMPONENT\-number will be automatically assigned to your record\. This number will appear on top left corner of the page in place of ‘New Resource’ \(Figure 6\) 
+- If you are adding a new Built Component, once you have clicked on Add, your record will be automatically saved and a unique COMPONENT\-number will be automatically assigned to your record\. This number will appear on top left corner of the page in place of ‘New Resource’ 
 
-![](images/163.jpg)
+![](images/163.jpg\)
 
-Figure 6
-
-## <a id="_Toc54180782"></a>Measurements
+## Measurements
 
 In this card you will enter the measurements of the Built Component\. This card is used when the measurements are known, usually from a site visit\. Each known dimension, e\.g\. length, area, etc\. should be entered separately\. If you do not have any measurements, you can leave this card blank\.
 
@@ -2497,21 +2196,19 @@ In this card you will enter the measurements of the Built Component\. This card 
 - Click on the ‘Dimension Type” field and choose the correct measurement type \(length, area, etc\.\) from the drop\-down list\.
 - Click on the ‘Measurement Source Type’ field and choose the correct source of the measurement\.
 - Click ‘__Add__’\. 
-	- The measurement entry will appear in the Card Tree below the 'Measurements’ Card \(Figure 7\)\.
+	- The measurement entry will appear in the Card Tree below the 'Measurements’ Card\.
 - Repeat the steps above for each known measurement\.
 	- Click on either ‘\+Add new’ on top right corner of the page or click on the ‘Measurements’ in the Card Tree to add a new measurement\.
 
-![](images/164.jpg)
+![](images/164.jpg\)
 
-*Figure 7: The Measurements section with one entry for the length and one entry for the breadth/width of a site*
-
-## <a id="_Toc54180783"></a>Material
+## Material
 
 In this card you will enter information about the materials and building construction techniques used in Built Component\. 
 
 - Click on ‘Material’ in the Card Tree to go to that card\.  
 
-### <a id="_Toc54180784"></a>Material Class 
+### Material Class 
 
 In this field you will record the raw material used in the construction of the Built Component\.  
 
@@ -2520,14 +2217,14 @@ In this field you will record the raw material used in the construction of the B
 	- For example, of the component is made of backed bricks, you should choose Clay for the raw material\. 
 	- Choose ‘Mixed’ if more than one raw material were used for the Material Type that you are recording\. 
 
-### <a id="_Toc54180785"></a>Material Type
+### Material Type
 
 In this field you record the man\-made material of the Class that you have selected in the previous field\. For example, if you have selected ‘Clay’ in the previous field, here you can record ‘Baked Brick’ as the man\-made material used in the construction of the component\. 
 
 - Click on the ‘Material Type’ field and choose from the drop\-down list\.
 	- Refer to the Glossary for detailed definitions of the terms that appear\.
 
-### <a id="_Toc54180786"></a>Construction Technique 
+### Construction Technique 
 
 In this field you will select the Construction Technique used in the construction of the Built Component\. For example, in the Baked Brick example, the technique could be Brick\-laid\. 
 
@@ -2540,20 +2237,18 @@ Once you have filled in the fields above, click ‘__Add__’ to save\.
 
 - You can add as many construction materials and techniques as needed\. 
 - Click on ‘\+Add New’ on the top right corner of the blue banner or the ‘Material’ card in the Card Tree and repeat the steps above\. 
-- Each recorded material will appear as an entry in the Card Tree below the ‘Material’ card \(Figure 8\)
+- Each recorded material will appear as an entry in the Card Tree below the ‘Material’ card
 
-![Graphical user interface, application, Teams](images/165.jpg)
+![Graphical user interface, application, Teams](images/165.jpg\)
 
-Figure 8
-
-## <a id="_Toc54180788"></a>Geometry 
+## Geometry 
 
 This card records details about the geographic location of the Built Component that you are recording\. The Heritage Place that your Built Component will normally also have its geographic location recorded\. If you want and need to record the specific location of the Built Component, normally, this will be recorded using GPS coordinates taken during a field survey\. 
 
 - Click on ‘Geometry’ in the Card Tree to go to that card\. 
 - For more detailed instructions about this card and instructions on how to add a ‘Geometric Place Expression’, please refer to __Tutorial 5: Geometries__, Sections 2\.1 and 2\.2\.
 
-### <a id="_Toc54180789"></a>Geometric Place Expression 
+### Geometric Place Expression 
 
 In this field you will enter the location of the Built Component into the database\. 
 
@@ -2566,7 +2261,7 @@ If you know the coordinates of the Built Component:
 
 - In the ‘Geometric Place Expression’ field, choose ‘Add Point’ and use your mouse to add a point to the map in any random place\.
 - Then, click on ‘Edit GeoJSON’, below the ‘Geometric Place Expression’ box and the added geometry\. 
-- You now see the GeoJSON code – do not let this put you off\. Look for the coordinates and replace these with the correct ones \(Figure 9\)\. 
+- You now see the GeoJSON code – do not let this put you off\. Look for the coordinates and replace these with the correct ones\. 
 	- NB the coordinates must be entered in WGS84 decimal degrees, with X/easting/longitude first, then Y/northing/latitude\. 
 	- If your co\-ordinates are not already in WGS84 decimal degrees, use the EAMENA converter spreadsheet to convert your coordinates or use your preferred tools \(there are many online convertors, or you can look it up in Google Earth by changing your preferences, or use QGIS\)\. 
 - The point you drew above will automatically move to the correct location\.
@@ -2574,11 +2269,9 @@ If you know the coordinates of the Built Component:
 
 ![](images/166.jpg)
 
- Figure 9\.* Adjusting the coordinates in the ‘Edit GeoJSON’ field\.*
-
  
 
-### <a id="_Toc54180790"></a>Location Certainty 
+### Location Certainty 
 
 In this field you will indicate how certain you are that the location that you have entered for the site is accurate\.  
 
@@ -2592,7 +2285,7 @@ Click ‘__Add__ at the bottom of the page to save the geometry\.
 
 - The entry will appear in the Card Tree below the 'Geometry’ Card\.
 
-## <a id="_Toc54180791"></a>Assessment Summary
+## Assessment Summary
 
 The Assessment Summary card records details about the Investigator or Assessor who made the record\. This is also where the Relationships between the Built Component and its Heritage Place/Feature and related Detailed Condition Assessment activities can be defined \(or created if not already in the database\)\.   
 
@@ -2613,7 +2306,7 @@ In Summary:
 - Click on the ‘Assessment Activity Type’ field and enter or choose the date on which the assessment is being/was done\.
 	- Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(2016\-07\-14 for 14 July 2016\)\. 
 
-### <a id="_Toc54180796"></a>Heritage Place 
+### Heritage Place 
 
 If the relationship has already been created through Heritage Place Resource Model, you should leave this field blank\. This is the preferred method\.
 
@@ -2640,23 +2333,19 @@ If you are recording the component before creating the Heritage Place record for
 	- Click on it and fill in the Assessment Summary information for this new Heritage Place in the window that appears and click ‘Add’\. 
 	- Click on the edit \(pencil\) icon beside its name in the list to go to that Heritage Place and finish completing the record\.
 
-### <a id="_Toc54180797"></a>Detailed Condition Assessment 
+### Detailed Condition Assessment 
 
 One of the main reasons you might create a Built Component record is so that you can complete a Detailed Condition Assessment \(DCA\) for it\.
 
 - Use this field to create and relate a new Detailed Condition Assessment record to your Built Component, then refer to __Tutorial 14: Detailed Condition Assessment __to learn more about completing the DCA\.
 
-Click on the ‘Detailed Condition Assessment’ field and type ‘create’ or ‘new’ to bring up the ‘Create a new Detailed Condition Assessment…’ option and click on it \(Figure 10\)\. 
+Click on the ‘Detailed Condition Assessment’ field and type ‘create’ or ‘new’ to bring up the ‘Create a new Detailed Condition Assessment…’ option and click on it\. 
 
-- Click on it and fill in the Assessment Summary information in the window that appears \(Figure 11\)\.  
+- Click on it and fill in the Assessment Summary information in the window that appears\.  
 
-![Graphical user interface, text, application](images/167.jpg)
+![Graphical user interface, text, application](images/167.jpg\)
 
-Figure 10
-
-![Graphical user interface, application](images/168.jpg)
-
-Figure 11
+![Graphical user interface, application](images/168.jpg\)
 
 Fill out the ‘Investigator Name’, Investigator Role Type’, and ‘Activity Type’, and ‘Activity Date’ fields, following the instructions in Section 6\.1 above\. 
 
@@ -2664,13 +2353,11 @@ Fill out the ‘Investigator Name’, Investigator Role Type’, and ‘Activity
 - Leave the ‘Built Component Assessed’ field blank\.
 - You can leave the ‘Comments on Relationship to Heritage Place/Built Component’ field empty or you can use this text box to add any information or notes for the Assessment Summary you just made\. 
 - Click ‘__Add__’\.
-	- A unique CONDITION\-number will be assigned to the record you just made and it will appear in the light blue table below this field \(Figure 12\)\. 
+	- A unique CONDITION\-number will be assigned to the record you just made and it will appear in the light blue table below this field\. 
 		- Make sure to then complete the rest of the DCA record\. Click on the ‘edit’ \(pencil\) icon to access the new DCA and follow the steps detailed in __Tutorial 14: Detailed Condition Assessment\.__  
 		- You can also use this number to search for and edit the DCA later, but we recommend doing it as soon as possible after its creation\. 
 
-![Graphical user interface, application, Teams](images/169.jpg)
-
-Figure 12
+![Graphical user interface, application, Teams](images/169.jpg\)
 
 ### Add and Save
 
@@ -2679,19 +2366,17 @@ Click ‘__Add__’ at the end of the page\.
 - The entry will appear in the Card Tree below the 'Assessment Summary’ Card\.
 - Click on ‘\+ Add New’ or on ‘Assessment Summary’ in the Card Tree to add further assessment summaries if and when necessary\.
 
-## <a id="_Toc54180799"></a>Related Resources
+## Related Resources
 
-Click on ‘Related Resources’ in the Card Tree to view a list of the relationships that already exist between your Built Component and other records, whether made previously, or in the ‘Assessment Summary’ card above \(Figure 13\)\. 
+Click on ‘Related Resources’ in the Card Tree to view a list of the relationships that already exist between your Built Component and other records, whether made previously, or in the ‘Assessment Summary’ card above\. 
 
 - Note that this card is only available once the record has been saved\.
 
-![Graphical user interface, application](images/170.jpg)
-
-Figure 13
+![Graphical user interface, application](images/170.jpg\)
 
 As mentioned in Section 6\.2 above, check here to make sure that all of the necessary relationships have been added to the Built Component record\.
 
-- In the example shown in Figure 13, you can see there is one Person/Organization, one Heritage Place and one DCA\.
+- In the example shown, you can see there is one Person/Organization, one Heritage Place and one DCA\.
 
 If there are any relations missing, you can add them here using the ‘Search for Resources’ dropdown\. In particular, this might include Information Resources, such as imagery or publications, that you used to create the record\. 
 
@@ -2712,7 +2397,7 @@ In this tutorial you will learn how to create a new DCA record or edit an existi
 - Method 2: You can create a new DCA record and then relate that record to the Heritage Place or Built Component from the Assessment Summary Card\. See __Section 2__ below for instructions on how to do this\.
 	- You should only use this method for Heritage Places when the Heritage Place in question records ONLY the one feature that the DCA is for; not if it is for just one ‘Site Feature’ within a larger site\. For example, if you have a Temple within a Settlement site and you have recorded them as a Heritage Place, you can only use this method if you have a separate record \(i\.e\. Heritage Place\) for the Temple\. 
 
-## <a id="_Toc55138447"></a>Getting Started
+## Getting Started
 
 You should always create a Heritage Place or Built Component record that you want to make the Detailed Condition Assessment for, BEFORE, creating the DCA record\. 
 
@@ -2720,36 +2405,30 @@ You should always create a Heritage Place or Built Component record that you wan
 
 To add information to an existing DCA:
 
-- Click on the ‘edit’ \(pencil\) icon beside its CONDITION\-number in any record that it is related to \(Figure 1\) and the DCA record will open in a new tab\.
+- Click on the ‘edit’ \(pencil\) icon beside its CONDITION\-number in any record that it is related to and the DCA record will open in a new tab\.
 - Or search for it in the database and click on ‘Edit’ below its CONDITION\-number in the search results\.
 - Refer to __Tutorial 1: Searching the Database – Basic__, for detailed instructions about searching\.
 
-![Graphical user interface, application, email, Teams](images/171.jpg)
+![Graphical user interface, application, email, Teams](images/171.jpg\)
 
-Figure 1: Click the pencil icon to edit an existing DCA record
+When the new or existing record opens, on the left side of the page you will see the resource’s Card Tree\. You can navigate between different sections of the record by clicking on the individual cards, for example Assessment Summary or Damage Assessment\.
 
-When the new or existing record opens, on the left side of the page you will see the resource’s Card Tree\. You can navigate between different sections of the record by clicking on the individual cards, for example Assessment Summary or Damage Assessment \(Figure 2\)\.
-
-![A picture containing table](images/172.jpg)
-
-Figure 2: Card Tree for DCA record
+![A picture containing table](images/172.jpg\)
 
 In some cases you may create a new DCA record from scratch\. To create a new DCA record, click on the ‘Resource Manager’ button on the left side of the screen to go to the Resource Manager page\.
 
-- Choose ‘Detailed Condition Assessment’ and click on ‘Create Resource’ \(Figure 3\)\. 
+- Choose ‘Detailed Condition Assessment’ and click on ‘Create Resource’\. 
 - Alternatively, you can go directly to a new DCA record by hovering over the Resource Manager icon on the left side, then choosing ‘Detailed Condition Assessment’ from the list that appears\. 
 
- *![Graphical user interface, website](images/173.jpg)*
+ *![Graphical user interface, website](images/173.jpg\)
 
-Figure 3: Click on ‘Create Resource’ in the Resource Manager Page or on ‘Detailed Condition Assessment’ in the left side menu\.
-
-## <a id="_Toc55138448"></a>Assessment Summary
+## Assessment Summary
 
 The Assessment Summary card, records details about the Investigator or Assessor who made the record\. This is also where the Relationships between the Detailed Condition Assessment \(DCA\) and the relevant Heritage Place/Feature and/or Built Components can be made\.  
 
 - Click on ‘Assessment Summary’ in the Card Tree to go to that card\.
 
-### <a id="_Toc55138449"></a>Investigator and Activity Fields
+### Investigator and Activity Fields
 
 The first four fields in this card are the same as for Heritage Place\. Refer to __Tutorial 3: Assessment Summary__ for more detailed instructions on how to fill in these fields\.
 
@@ -2764,19 +2443,17 @@ In Summary:
 - Click on the ‘Assessment Activity Type’ field and enter or choose the date on which the assessment is being/was done\.
 	- Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(2016\-07\-14 for 14 July 2016\)\. 
 
-### <a id="_Toc55138450"></a>Heritage Place/Site of Assessment
+### Heritage Place/Site of Assessment
 
 If the relationship has already been created through the Heritage Place, which is the preferred method, you should leave this field blank\. 
 
 - You can check to see if your relationship already exists, by clicking on ‘Related Resources’ in the Card Tree \(see Section 11 below\) and checking that the EAMENA\-number of the Heritage Place is already in the list\.
 
-If the relationship does not already exist, click on ‘Heritage Place/Site of Assessment’ field and select the EAMENA\-number of the Heritage Place you are adding the DCA to \(Figure 4\)\. 
+If the relationship does not already exist, click on ‘Heritage Place/Site of Assessment’ field and select the EAMENA\-number of the Heritage Place you are adding the DCA to\. 
 
-![](images/174.jpg)
+![](images/174.jpg\)
 
-Figure 4
-
-### <a id="_Toc55138451"></a>Built Component Assessed
+### Built Component Assessed
 
 If the relationship has already been created through the Built Component, which is the preferred method, you should leave this field blank\. 
 
@@ -2784,21 +2461,21 @@ If the relationship has already been created through the Built Component, which 
 
 If the relationship does not already exist, click on ‘Built Component Assessed’ field and select the COMPONENT\-number of the Built Component you are adding the DCA to\. 
 
-### <a id="_Toc55138452"></a>Comments on Relationship to Heritage Place/Built Component
+### Comments on Relationship to Heritage Place/Built Component
 
 Click in the ‘Comments on relationship to Heritage Place/Built Component’ free\-text box to add any comments necessary to explain the relationship between the DCA and Heritage Place or Built Component it is related to, if that information is not clear from the rest of the record\.
 
 - Do not copy and paste text from other documents or the web as this can create an error in the database\.
 - You may leave this field blank if you have no comments\.
 
-### <a id="_Toc55138453"></a>Add and Save
+### Add and Save
 
 Click ‘__Add__’ at the end of the page\. 
 
 - The entry will appear in the Card Tree below the 'Assessment Summary’ Card\.
 - Click on ‘\+ Add New’ or on ‘Assessment Summary’ in the Card Tree to add further assessment summaries if and when necessary\.
 
-## <a id="_Toc55138454"></a>Measurements
+## Measurements
 
 This card records information about measurements that have been taken as part of the Detailed Condition Assessment which are specifically relevant to the condition of the heritage or component being assessed\.
 
@@ -2807,7 +2484,7 @@ Click on ‘Measurements’ in the Card Tree to go to that card and fill in the 
 - Refer to __Tutorial 7: Archaeological Assessment, Section 2\.6__ for more detailed instructions how to fill in this card
 - Click ‘__Add__’\.
 
-## <a id="_Toc55138455"></a>Location 
+## Location 
 
 This card records details about the geographic location of the area assessed in the Detailed Condition Assessment, only if it is different from the location already recorded in the Heritage Place or Built Component record that it is related to\. If this information is needed, normally, this should be recorded using GPS coordinates taken during a field assessment to record location of damage\. 
 
@@ -2815,22 +2492,20 @@ This card records details about the geographic location of the area assessed in 
 - Click on ‘Location’ in the Card Tree to go to that card\.  
 - For more detailed instructions about this card and instructions on how to add a ‘Geometric Place Expression’, please refer to __Tutorial 5: Geometries__, Sections 2\.1 and 2\.2\.
 
-### <a id="_Toc55138456"></a>Geometric Place Expression 
+### Geometric Place Expression 
 
 To add the coordinates:
 
 - In the ‘Geometric Place Expression’ field, choose ‘Add Point’ and use your mouse to add a point to the map in any random place\.
 - Then, click on ‘Edit GeoJSON’, below the ‘Geometric Place Expression’ box and the added geometry\. 
-- You now see the GeoJSON code – do not let this put you off\. Look for the coordinates and replace these with the correct ones \(Figure 5\)\. 
+- You now see the GeoJSON code – do not let this put you off\. Look for the coordinates and replace these with the correct ones\. 
 	- NB the coordinates must be entered in WGS84 decimal degrees, with X/easting/longitude first, then Y/northing/latitude\. 
 - The point you drew above will automatically move to the correct location\.
 - Finish by clicking on the green ‘Update Features’ button\.
 
-![](images/175.jpg)
+![](images/175.jpg\)
 
-Figure 5
-
-### <a id="_Toc55138457"></a>Location Certainty 
+### Location Certainty 
 
 In this field you will indicate how certain you are that the location that you have entered for the DCA is accurate\.  
 
@@ -2838,26 +2513,26 @@ In this field you will indicate how certain you are that the location that you h
 - Refer to the Glossary for definitions for each of the terms\. 
 	- Only choose Definite if the location was recorded, e\.g\. by GPS, in the field \(which should normally be the case for Detailed Condition Assessment\)\.
 
-### <a id="_Toc55138458"></a>Resource Orientation Type
+### Resource Orientation Type
 
 This field is used to record the geographical orientation of the part of the Heritage Place or Built Component that requires a Detailed Condition Assessment\. This field is optional and may be left blank if it is not relevant\. 
 
 - Click on the ‘Resource Orientation Type’ field and choose from the dropdown list\.
 
-### <a id="_Toc55138459"></a>Add and Save
+### Add and Save
 
 Click ‘__Add__’ at the end of the page\. 
 
 - The entry will appear in the Card Tree below the ‘Location’ Card\.
 - If multiple Locations needs to be added in order to record location of damage to different parts of the assessed area, click on ‘\+ Add New’ or on ‘Location’ in the Card Tree and repeat the above steps to add further geometries\.
 
-## <a id="_Toc55138460"></a>Modification and Construction
+## Modification and Construction
 
 In this card you will record information about Modification and Construction activities which have taken place at the site as part of conservation, restoration, or reconstruction efforts\.
 
 - Click on ‘Modification and Construction’ in the Card Tree to go to that card\. 
 
-### <a id="_Toc55138461"></a>Modification 
+### Modification 
 
 In the ‘Modification’ fields, you will add information about any previous conservation, restoration, reconstruction work to the heritage\.
 
@@ -2870,15 +2545,13 @@ In the ‘Modification’ fields, you will add information about any previous co
 	- If the date is unknown, leave this field blank\.
 - Click ‘__Add__’\. 
 	- Your entry will appear below the ‘Add’ button and below ‘Modification’ in the Card Tree\.
-- Repeat the steps above to add further entries \(Figure 6\)\.
+- Repeat the steps above to add further entries\.
 
-![Graphical user interface, application, Teams](images/176.jpg)
+![Graphical user interface, application, Teams](images/176.jpg\)
 
-*Figure 6: A DCA with one Modification entry already saved and a second being entered\.*
+### Construction Technique Type
 
-### <a id="_Toc55138462"></a>Construction Technique Type
-
-In the ‘Construction Technique Type’ fields, you will enter information about the techniques and materials used in any recorded modification, conservation and restoration activities which have taken place \(Figure 7\)\.
+In the ‘Construction Technique Type’ fields, you will enter information about the techniques and materials used in any recorded modification, conservation and restoration activities which have taken place\.
 
 - Click on the ‘Material Class’ field and choose the raw material used in the construction activity from the dropdown list\.
 	- Refer to the Glossary for detailed definitions of the terms that appear\.
@@ -2892,21 +2565,19 @@ In the ‘Construction Technique Type’ fields, you will enter information abou
 	- Your entry will appear below the ‘Add’ button and below ‘Construction Technique Type’ in the Card Tree\.
 - Repeat the steps above to add further entries\.
 
-![Graphical user interface, application, Teams](images/177.jpg)
+![Graphical user interface, application, Teams](images/177.jpg\)
 
-*Figure 7: The Materials and Construction Technique Type fields*
-
-## <a id="_Toc55138463"></a>Damage Assessment 
+## Damage Assessment 
 
 In this card you will record information about disturbances and damage that are affecting the heritage\.
 
-Click on ‘Damage Assessment’ in the Card Tree to go directly to a blank card to begin your data entry, or click on ‘\+’ beside it to expand the nested cards \(Figure 8\): Disturbance, Recommendation Plan, and Damage Assessor\.
+Click on ‘Damage Assessment’ in the Card Tree to go directly to a blank card to begin your data entry, or click on ‘\+’ beside it to expand the nested cards: Disturbance, Recommendation Plan, and Damage Assessor\.
 
 - You can begin your data entry from the main ‘Damage Assessment’ window or by clicking on each card individually\.
 
-![](images/178.jpg)Figure 8: Card Tree showing Damage Assessment cards and a new, blank, Damage Assessment entry
+![](images/178.jpg\)
 
-### <a id="_Toc55138464"></a>Disturbance 
+### Disturbance 
 
 Disturbances are defined as current detectable events that have affected the site by human or natural forces and activities\. You can identify disturbances by looking for changes to a site or feature based on comparing information from field visits with previous imagery, photographs, reports, etc\.  
 
@@ -2914,7 +2585,7 @@ Begin filling in the ‘Disturbance’ fields in the main Damage Assessment wind
 
 __Note__: You need to complete all sections described below for each identified Disturbance with its associated effects, BEFORE adding a new Disturbance\. 
 
-#### <a id="_Toc55138465"></a>Disturbance Cause Category Type
+#### Disturbance Cause Category Type
 
 In this field you will record the broader category of the disturbance cause\. Ask yourself if you can identify the broad reason why a particular disturbance has occurred\.
 
@@ -2924,7 +2595,7 @@ In this field you will record the broader category of the disturbance cause\. As
 	- If the ‘Disturbance Cause’ \(below\) is ‘No Visible/Known’, you should enter ‘Not Applicable’ in this field\. 
 - If you do not know the Category of the disturbance, you should choose ‘Unknown’\.
 
-#### <a id="_Toc55138466"></a>Disturbance Cause Type 
+#### Disturbance Cause Type 
 
 Disturbance causes are the specific factors or phenomena causing deterioration and impacting heritage\. For example, ‘Water Action’ at a site might cause ‘Erosion’\. 
 
@@ -2935,14 +2606,14 @@ Identifying and recording causes of disturbances will help to identify recommend
 	- ‘Unknown’ should be selected when you cannot identify a specific Disturbance Cause, but you can identify the disturbance effects \(see below\)\. 
 	- ‘No Visible/Known’ should be selected when there are NO identifiable or known disturbances\. 
 
-#### <a id="_Toc55138467"></a>Disturbance Cause Certainty 
+#### Disturbance Cause Certainty 
 
 - Click on the ‘Disturbance Cause Certainty’ field and choose from the Dropdown list\. 
 - Ask yourself ‘how certain am I that the identified cause is the reason for the disturbance and its observed effect on the Heritage Place?’
 	- Refer to the Glossary for detailed definitions of the terms\.
 	- Note: When selecting ‘No/Visible Known’ or ‘Unknown’ for the Disturbance Cause you should always record the Cause Certainty as ‘Not Applicable*’*\.
 
-#### <a id="_Toc55138468"></a>Disturbance Date
+#### Disturbance Date
 
 In in this section you will define when the disturbance you have recorded above occurred \(if known\)\. Choose the appropriate date field \(Date On, Before, or Date From/To\) based on the definitions below\. 
 
@@ -2956,19 +2627,17 @@ In in this section you will define when the disturbance you have recorded above 
 	- Note that the date format in Google Earth is mm\-dd\-yyyy \(month\-day\-year, American version\)\. Take care to enter the date correctly, and preferably use the calendar view to navigate to the correct date\.
 	- If a date is entered incorrectly, the database will ignore the incorrectly entered date and revert back to today’s date\. 
 
-#### <a id="_Toc55138469"></a>Add and Save
+#### Add and Save
 
 Click ‘__Add__’\.
 
-The entry will appear in the Card Tree below the ‘Disturbance’ Card \(Figure 9\)\.
+The entry will appear in the Card Tree below the ‘Disturbance’ Card\.
 
 - The ‘Damage Observation’ card will also appear below your entry\.
 
-![Graphical user interface, application, Teams](images/179.jpg)
+![Graphical user interface, application, Teams](images/179.jpg\)
 
-Figure 9: A saved Disturbance entry
-
-#### <a id="_Toc55138470"></a>Damage Observation
+#### Damage Observation
 
 In this Card you will record the effects, severity, extent, and trend of the disturbance that you have just recorded above\.
 
@@ -3018,25 +2687,23 @@ In monitoring condition of sites and structures, it is important to know whether
 
 Click ‘__Add__’ to save your information\.
 
-The entry will appear in the Card Tree below the ‘Damage Observation’ Card \(Figure 10\)\.
+The entry will appear in the Card Tree below the ‘Damage Observation’ Card\.
 
-- Click ‘Damage Observation’ in the Card Tree or ‘\+Add New’ in the top right corner of the screen to add further Damage Observation entries for the Disturbance you are recording and repeat the steps above \(Figure 10\)\.
+- Click ‘Damage Observation’ in the Card Tree or ‘\+Add New’ in the top right corner of the screen to add further Damage Observation entries for the Disturbance you are recording and repeat the steps above\.
 
-![Graphical user interface, application, Teams](images/180.jpg)
+![Graphical user interface, application, Teams](images/180.jpg\)
 
-Figure 10: A Disturbance Cause entry with two Damage Observation entries\.
-
-####  <a id="_Toc55138471"></a>Add Other Disturbances 
+####  Add Other Disturbances 
 
 Once you have completed all of the fields above, you can add further Disturbance entries\.
 
-- To start a new Disturbance entry, click on ‘Disturbance’ in the Card Tree on the left side to open a new, blank Disturbance page, or the ‘\+’ sign beside it to immediately view the nested cards \(Figure 11\)\.
-- You can also start a new Disturbance entry from an existing recorded Disturbance card, and by click ‘\+Add New’ in the upper right corner \(Figure 11\)\.
+- To start a new Disturbance entry, click on ‘Disturbance’ in the Card Tree on the left side to open a new, blank Disturbance page, or the ‘\+’ sign beside it to immediately view the nested cards\.
+- You can also start a new Disturbance entry from an existing recorded Disturbance card, and by click ‘\+Add New’ in the upper right corner\.
 - Repeat the steps above starting with Section 6\.1\.
 
-![](images/181.jpg)Figure 11: A Damage Assessment with two Disturbance entries; also showing in red boxes where to click to add new Disturbances
+![](images/181.jpg\)
 
-### <a id="_Toc55138472"></a>Recommendation Plan
+### Recommendation Plan
 
 In this card you will record the recommended actions that can be taken to better preserve the heritage and resolve or mitigate the Disturbance\(s\) and Damage recorded above and the priority with which that activity should be undertaken\. 
 
@@ -3051,13 +2718,11 @@ Click on ‘Recommendation Plan’ in the Card Tree to go to that card\.
 - Click ‘__Add’__
 	- Your entry will appear in the Card Tree below ‘Recommendation Plan’\.
 	- You can add as many Recommendation Plans as are appropriate and necessary 
-	- Click on ‘\+ Add New’ in the top right corner or on ‘Recommendation Plan’ in the Card Tree to start a new entry \(Figure 12\)\.
+	- Click on ‘\+ Add New’ in the top right corner or on ‘Recommendation Plan’ in the Card Tree to start a new entry\.
 
-![Graphical user interface, application, Teams](images/182.jpg)
+![Graphical user interface, application, Teams](images/182.jpg\)
 
-*Figure 12*
-
-### <a id="_Toc55138473"></a>Damage Assessor 
+### Damage Assessor 
 
 In this field you will record the name of the person/organisation or group or project who has made the assessment, whether it was you or a person or group other than yourself\.  
 
@@ -3066,27 +2731,23 @@ Click on ‘Damage Assessment’ to return to the main Damage Assessment window 
 - Alternatively, you can click on ‘Damage Assessor’ in the Card Tree to go to that card\.
 - Click on the ‘Damage Assessment Assessor’ field and type the name\. 
 	- If someone other than you made the assessment / observation, you should add the name of the person and/or project or organisation\. You might for example be entering data that someone else has recorded in the field\.  
-	- If you are adding a name of a person, use the format Firstname \(or Initial\(s\)\) Lastname \(Figure 13\)\. 
+	- If you are adding a name of a person, use the format Firstname \(or Initial\(s\)\) Lastname\. 
 - Click ‘__Add__’\.
-	- The entry will appear in the Card Tree under ‘Damage Assessor’ \(Figure 13\)\.
+	- The entry will appear in the Card Tree under ‘Damage Assessor’\.
 - To add additional Damage Assessors, you must return to the main Damage Assessment window
 	- Scroll down to the ‘Damage Assessor’ section and repeat the steps above\.
 
-![Graphical user interface, application, Teams](images/183.jpg)
+![Graphical user interface, application, Teams](images/183.jpg\)
 
-Figure 13
-
-## <a id="_Toc55138474"></a>Threat and Risk Assessment 
+## Threat and Risk Assessment 
 
 In this card you will record information about potential threats and future risks to the heritage being recorded\. Risks are the \(negative\) result of threats and can be defined as the probability that a certain kind of damage or disturbance could happen in the future\. 
 
-Click on ‘Threat and Risk Assessment’ in the Card Tree to go directly to a blank card to begin your data entry, or click on ‘\+’ beside it to expand the nested cards \(Figure 14\): Threat Event, Recommendation and Priority, and Threat and Risk Assessor\.
+Click on ‘Threat and Risk Assessment’ in the Card Tree to go directly to a blank card to begin your data entry, or click on ‘\+’ beside it to expand the nested cards: Threat Event, Recommendation and Priority, and Threat and Risk Assessor\.
 
-![Graphical user interface, application, Teams](images/184.jpg)
+![Graphical user interface, application, Teams](images/184.jpg\)
 
-Figure 14: Card Tree showing Threat and Risk Assessment cards and a new, blank, Threat and Risk Assessment window\.
-
-### <a id="_Toc55138475"></a>Threat Event 
+### Threat Event 
 
 Threats can be defined as phenomena, whether natural forces or human activities, that could damage heritage sites or features in the future\. Threats \(or sometimes called hazards\) are potential sources of harm that may or may not be significant to the heritage\. Whether a threat has a significant negative impact on a heritage recourse, will depend on other factors such as Exposure and Vulnerability of the heritage \(as defined below\)\.  If some areas of the site are vulnerable and exposed to an identified threat, only then, that threat would have a significant negative effect on that area of the site\. 
 
@@ -3096,14 +2757,14 @@ Click on ‘Threat Event’ in the Card Tree on the left side to go to that card
 
 __Note__: You need to complete all sections described below for each identified Threat before adding a new entry\.
 
-#### <a id="_Toc55138476"></a>Threat Type
+#### Threat Type
 
 In this field you will record the probable cause of potential damage, i\.e\. the type of threat, that presents a risk to the heritage being recorded\.
 
 - Click on the ‘Threat Type’ field and choose the appropriate option from the Dropdown list\.
 	- Refer to the Glossary for detailed definitions of the terms\.
 
-#### <a id="_Toc55138477"></a>Probability 
+#### Probability 
 
 In this field you will record the probability that the threat identified above will occur in the future, or in the case of continuous and gradual threats how likely it is that it will result in damage in the near future\.
 
@@ -3112,21 +2773,21 @@ In this field you will record the probability that the threat identified above w
 - Click on the ‘Probability’ field and choose an appropriate option from the Dropdown list\.
 	- Refer to the Glossary for detailed definitions of the terms\.
 
-#### <a id="_Toc55138478"></a>Percentage of Site Affected 
+#### Percentage of Site Affected 
 
 In this field you will record an estimate of how much of the assessed area would be affected by the threat recorded above\. 
 
 - Click on the ‘Percentage of Site Affected’ field and choose from the Dropdown list\.
 	- Refer to the Glossary for detailed definitions of the terms\.
 
-#### <a id="_Toc55138479"></a>Severity 
+#### Severity 
 
 This field records the magnitude and severity of the possible negative effect which can lead to loss or decrease of the value of heritage\. Ask yourself ‘How badly would this threat affect the physical elements and value of the heritage being recorded?’\. 
 
 - Click on ‘Severity’ field and choose an option from the Dropdown list\.
 	- Refer to the Glossary for detailed definitions of the terms\.
 
-#### <a id="_Toc55138480"></a>Vulnerability 
+#### Vulnerability 
 
 In this field you will identify the ways in which the heritage being recorded is vulnerable to the threat that you are recording because this will affect the level of risk that such a threat presents\. 
 
@@ -3138,28 +2799,26 @@ In this field you will identify the ways in which the heritage being recorded is
 	- Refer to the Glossary for detailed definitions of the terms\.
 	- You can only choose one ‘Vulnerability’ for each Threat Event that you record, so choose the greatest vulnerability\.
 
-#### <a id="_Toc55138481"></a>Exposure 
+#### Exposure 
 
 In this field you can record specifically what part of the heritage being recorded may be exposed and affected by the identified threat, if it is not the entire site or feature\. 
 
 - For example, if a site has structures made from different materials, areas of the site where mud brick is used, are exposed to the threat of flood\. 
 - Click on the ‘Exposure’ free\-text field and enter details about the exposure, if known\.
 
-#### <a id="_Toc55138482"></a>Add
+#### Add
 
 Click ‘__Add__’\.
 
-The entry will appear in the Card Tree below the ‘Threat Event’ Card \(Figure 15\)\.
+The entry will appear in the Card Tree below the ‘Threat Event’ Card\.
 
-- The ‘Potential Impact Type’, ‘Secondary Threat Type’, and ‘Risk Level Belief’ cards will also appear below your entry \(Figure 15\)\.
+- The ‘Potential Impact Type’, ‘Secondary Threat Type’, and ‘Risk Level Belief’ cards will also appear below your entry\.
 
-![Graphical user interface, application](images/185.jpg)
+![Graphical user interface, application](images/185.jpg\)
 
-Figure 15
+- You can also access these cards by clicking on ‘Add New’ that will appear on top of the page\.
 
-- You can also access these cards by clicking on ‘Add New’ that will appear on top of the page \(Figure 16\)\.
-
-![](images/186.jpg)Figure 16 
+![](images/186.jpg\)
 
 ##### Risk Level Belief
 
@@ -3175,13 +2834,13 @@ This field records the level of risk this threat presents, based on the factors 
 In some scenarios, certain threats, if they occur, may lead to or trigger additional, secondary threats\. For example, following a flood, electrical equipment could malfunction and cause a fire\. 
 
 - Click on ‘Secondary Threat Type’ in the Card Tree to go to that card\.
-- Click on ‘Secondary Threat Type’ field and choose an option from the Dropdown list \(Figure 17\)\.  
+- Click on ‘Secondary Threat Type’ field and choose an option from the Dropdown list\.  
 	- Refer to the Glossary for detailed definitions of the terms\.
 - Click ‘__Add__’\. 
-	- Add further entries by clicking on ‘\+ Add New’ in the upper right or on ‘Secondary Threat Type’ in the Card Tree and repeating the steps above \(Figure 17\)\.
+	- Add further entries by clicking on ‘\+ Add New’ in the upper right or on ‘Secondary Threat Type’ in the Card Tree and repeating the steps above\.
 	- Add as many as necessary which are relevant to the threat you are recording\.
 
-![](images/187.jpg)Figure 17: Adding Secondary Threat\(s\) to a Threat Type
+![](images/187.jpg\)
 
 ##### Potential Impact Type
 
@@ -3194,17 +2853,17 @@ In this field you will record information about any potential effects that the t
 	- Add further entries by clicking on ‘\+ Add New’ in the upper right or on ‘Potential Impact Type’ in the Card Tree and repeating the steps above\.
 	- Add as many as necessary\.
 
-####  <a id="_Toc55138483"></a>Add Other Threat Events  
+####  Add Other Threat Events  
 
 Once you have completed all of the fields above, you can add further Threat entries\.
 
-- To start a new Threat entry, click on ‘Threat Event’ in the Card Tree on the left side to open a new, blank Threat Event page, or the ‘\+’ sign beside it to immediately view the nested cards \(Figure 18\)\.
+- To start a new Threat entry, click on ‘Threat Event’ in the Card Tree on the left side to open a new, blank Threat Event page, or the ‘\+’ sign beside it to immediately view the nested cards\.
 - You can also start a new Threat entry from an existing card, by click ‘\+Add New’ in the upper right corner\.
 - Repeat the steps above starting with Section 7\.1\.
 
-![](images/188.jpg)Figure 18: A DCA with one completed Threat Event entry and one blank one ready to be filled in by clicking on Threat Event or \+Add New\.
+![](images/188.jpg\)
 
-### <a id="_Toc55138484"></a>Recommendation and Priority 
+### Recommendation and Priority 
 
 In this card you will record the recommended mitigation strategies and actions that can be taken to better preserve the heritage and mitigate the Threat\(s\) and/or the Potential Impact\(s\) recorded above and the priority with which that activity should be undertaken\. 
 
@@ -3221,7 +2880,7 @@ Click on ‘Recommendation and Priority’ in the Card Tree to go to that card\.
 	- You can add as many Recommendation and Priority entries as are appropriate and necessary 
 	- Click on ‘\+ Add New’ in the top right corner or on ‘Recommendation Plan’ in the Card Tree to start a new entry\.
 
-### <a id="_Toc55138485"></a>Threat and Risk Assessor 
+### Threat and Risk Assessor 
 
 In this field you will record the name of the person/organisation or group or project who has made the assessment, whether it was you or a person or group other than yourself\.  
 
@@ -3230,22 +2889,20 @@ Click on ‘Threat and Risk Assessor’ in the Card Tree to go to that card\.
 - Alternatively, you can click on ‘Threat and Risk Assessment’ to return to the main Threat and Risk Assessment window and scroll down to the ‘Threat and Risk Assessor’ section\.
 - Click on the ‘Threat and Risk Assessor’ field and type the name\. 
 	- If someone other than you made the assessment / observation, you should add the name of the person and/or project or organisation\. You might for example be entering data that someone else has recorded in the field\.  
-	- If you are adding a name of a person, use the format Firstname \(or Initial\(s\)\) Lastname \(Figure 19\)\. 
+	- If you are adding a name of a person, use the format Firstname \(or Initial\(s\)\) Lastname\. 
 - Click ‘__Add__’\.
 	- The entry will appear in the Card Tree under ‘Threat and Risk Assessor’\.
-	- To add additional Threat and Risk Assessors, click on ‘\+Add New’ in the upper right corner or click on ‘Threat and Risk Assessor’ in the Card Tree and repeat the steps above \(Figure 19\)\.
+	- To add additional Threat and Risk Assessors, click on ‘\+Add New’ in the upper right corner or click on ‘Threat and Risk Assessor’ in the Card Tree and repeat the steps above\.
 
-![](images/189.jpg)
+![](images/189.jpg\)
 
-Figure 19
-
-## <a id="_Toc55138486"></a>Overall Condition Assessment 
+## Overall Condition Assessment 
 
 In this card you will record details about the Overall Condition of the heritage being recorded based on the information you have recorded in the previous sections\.
 
 - Click on ‘Overall Condition Assessment’ in the Card Tree to go to that card\. 
 
-### <a id="_Toc55138487"></a>Overall Condition 
+### Overall Condition 
 
 Make an assessment of the overall condition of the heritage that you are recording the Detailed Condition Assessment for based on the information entered in the Damage Assessment and Threat and Risk Assessment sections above\.
 
@@ -3254,7 +2911,7 @@ Make an assessment of the overall condition of the heritage that you are recordi
 	- Only one overall condition type can be chosen for each DCA record\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55138488"></a>Condition Remarks 
+### Condition Remarks 
 
 In this section you can add further information about the condition of the archaeological and/or heritage element you are assessing which is not already recorded in other parts of the record\.
 
@@ -3265,7 +2922,7 @@ The aim is to help other people to understand important \(and missing elements\)
 - Click ‘__Add__’\.
 	- Repeat the steps above to add further comments where necessary\.
 
-### <a id="_Toc55138489"></a>Date of Next Assessment 
+### Date of Next Assessment 
 
 In this card you should enter the timeframe in which the condition of the heritage should be monitored and re\-assessed\.
 
@@ -3273,32 +2930,30 @@ In this card you should enter the timeframe in which the condition of the herita
 	- Refer to the Glossary for detailed definitions of the terms
 	- Only one ‘Recommended Date of Next Assessment’ should be added\.
 
-## <a id="_Toc55138490"></a>File Upload 
+## File Upload 
 
 You may wish to upload files, such as photographs, or scans of reports and drawings which are related to your Detailed Condition Assessment\. 
 
 - Click on ‘File Upload’ in the Card Tree\.
-- Drag and drop the document onto the panel to upload it or click ‘Select Files” and navigate to the file you would like to upload from your computer\. Choose the file and it will be uploaded and appear in the Card Tree below ‘File Upload’ \(Figure 20\)\.
+- Drag and drop the document onto the panel to upload it or click ‘Select Files” and navigate to the file you would like to upload from your computer\. Choose the file and it will be uploaded and appear in the Card Tree below ‘File Upload’\.
 
-![](images/190.jpg)Figure 20
+![](images/190.jpg\)
 
 - Your image will appear on the window\.
-- Click on ‘Manage’ in the top right corner of the page to access the file options \(Figure 20\)\.
-	- Click on your file in the list to select it \(Figure 21\)\.
+- Click on ‘Manage’ in the top right corner of the page to access the file options\.
+	- Click on your file in the list to select it\.
 	- Click on ‘Delete Selected’ to delete your image\.
 	- Click on ‘Download Selected’ to download the image\.
 	- Click on the ‘Loader’ field to choose the appropriate File Renderer based on whether your file is an image or pdf and click ‘Apply to Selected Files’ to change it\.
 
-Figure 21
-
 ![](images/191.jpg)To add more files you can:
 
 - Click on ‘\+Add New’ in the upper right corner or click on ‘File Upload’ in the Card Tree to go back to the Drag and Drop panel
-- Or click on ‘add files’ in the ‘Manage’ window to select a file from your computer \(Figure 21\)\.
+- Or click on ‘add files’ in the ‘Manage’ window to select a file from your computer\.
 
 For more information about this card, how to search and delete files, and a note on photographs copyright, please refer to __Tutorial 15: Information Resource__, __Section 10__\.
 
-## <a id="_Toc55138491"></a>Related Information Resources 
+## Related Information Resources 
 
 If you have used an Information Resource \(imagery, publication, etc\.\) to create the Detailed Condition Assessment, you should create a relationship with the ‘Information Resource’ record in this card\.
 
@@ -3314,25 +2969,21 @@ If you have used an Information Resource \(imagery, publication, etc\.\) to crea
 - Click ‘__Add__’\.
 - Click on ‘\+Add New’ in the upper right or on ‘Related Information Resources’ in the Card Tree and repeat the steps above to add further Information Resources\.
 
-## <a id="_Toc55138492"></a>Related Resources 
+## Related Resources 
 
-Click on ‘Related Resources’ in the Card Tree to view a list of the relationships that already exist between your DCA and other records, whether made previously, or in other fields above \(Figure 22\)\.
+Click on ‘Related Resources’ in the Card Tree to view a list of the relationships that already exist between your DCA and other records, whether made previously, or in other fields above\.
 
 - Note that this card is only available once the record has been saved\.
 
-![Graphical user interface, application](images/192.jpg)
-
-Figure 22
+![Graphical user interface, application](images/192.jpg\)
 
 Check here to make sure that all of the necessary relationships have been added to the Detailed Condition Assessment record\.
 
-- In the example shown in Figure 22, you can see there is one Person/Organization, one Heritage Place and one Information Resource\.
+- In the example shown, you can see there is one Person/Organization, one Heritage Place and one Information Resource\.
 
 If there are any relations missing, you can add them here using the ‘Search for Resources’ dropdown\. 
 
 - For detailed instructions on how to add Related Resources using this card, refer to __Tutorial 9: Related Resources__\. 
-
-<a id="_Hlk516788461"></a>
 
 # TUTORIAL 15: Information Resources
 
@@ -3345,36 +2996,30 @@ There are several different types of Information Resources that the project uses
 - The primary purpose of Information Resources is to record what specific sources have been used in the creation of records in the EAMENA database, so if it has not been used to contribute to the creation of a record\. 
 	- Exceptions to this rule can, for example, be georeferenced aerial photographs covering larger areas, but even then, it is best to link them to one or more sites\. 
 
-## <a id="_Toc55806344"></a>Getting Started
+## Getting Started
 
 There are two ways to create a new Information Resource:
 
 Method 1: Create a new record from the Resource Manager page, and then relate it to your Heritage Resource \(or other type of record\)\.
 
-- To create a new Information Resource from the Homepage, click on ‘Create New Heritage Resources’ towards the top right of the page\. This will take you to the ‘Resource Manager’ page \(Figure 1\)\.
-- In the Resource Manager, go to ‘Information Resource’ and click on ‘Create Resource’ \(Figure 2\)\.
+- To create a new Information Resource from the Homepage, click on ‘Create New Heritage Resources’ towards the top right of the page\. This will take you to the ‘Resource Manager’ page\.
+- In the Resource Manager, go to ‘Information Resource’ and click on ‘Create Resource’\.
 
-![A picture containing outdoor, sitting, sign, large](images/193.jpg)
+![A picture containing outdoor, sitting, sign, large](images/193.jpg\)
 
-Figure 1
-
-![Graphical user interface](images/194.jpg)
-
-Figure 2
+![Graphical user interface](images/194.jpg\)
 
 Method 2: Create a new record from within another type of record, such as Heritage Place, Geoarchaeology, Built Component, or Detailed Condition Assessment\. See the relevant tutorials for those records for further details\.
 
 - After creating a new Information Resource in a Heritage Place or other resource, always make sure to navigate to the Information Resource and complete the record by following the rest of the instructions below\.
 
-On the left\-hand side of the screen under ‘New Resource \(Information Resource\)’ \(or, once you have saved the first information, the INFORMATION\-number\) you will see the resource’s ‘Card Tree’ \(Figure 3\)\. 
+On the left\-hand side of the screen under ‘New Resource \(Information Resource\)’ \(or, once you have saved the first information, the INFORMATION\-number\) you will see the resource’s ‘Card Tree’\. 
 
 - You can navigate between the different sections of the record by selecting the Cards\.
 
-![Graphical user interface, application, Word](images/195.jpg)
+![Graphical user interface, application, Word](images/195.jpg\)
 
-Figure 3: The Card Tree
-
-## <a id="_Toc55296818"></a><a id="_Toc55806345"></a>Resource Type 
+## Resource Type 
 
 In this card, you will record the basic information about the type of Information Resource that you are entering\. The type of Information Resource defines which other cards you will have to fill in\.
 
@@ -3382,13 +3027,13 @@ This Tab MUST be completed for EVERY Information Resource\.
 
 Click on ‘Resource Type’ in the Card Tree on the left side of the screen\.
 
-### <a id="_Ref331774746"></a><a id="_Toc55806346"></a>Resource Type
+### Resource Type
 
 This field records the type of resource from which the data you are using has come\. e\.g\. a published book, a map, a satellite image, etc\.
 
 - This field MUST be filled in\.
 - Only ONE entry should be added\.
-- Click on the ‘Resource Type’ field and choose from the dropdown list \(Figure 4\)\.
+- Click on the ‘Resource Type’ field and choose from the dropdown list\.
 	- The dropdown list is divided into 4 sections to reflect the four most common categories of resources used:
 		- Bibliography
 		- Imagery
@@ -3399,11 +3044,9 @@ This field records the type of resource from which the data you are using has co
 
 IMPORTANT: Remember the category of the ‘Resource Type’ you have entered\. You will then fill in the information for the ‘Card’ of the same name\.
 
-![Graphical user interface, application](images/196.jpg)
+![Graphical user interface, application](images/196.jpg\)
 
-Figure 4
-
-### <a id="_Toc55806347"></a>Format Type / Information Carrier
+### Format Type / Information Carrier
 
 In this field you will record the format of the resource that you used/consulted – e\.g\. digital, hard\-copy, etc\. 
 
@@ -3411,13 +3054,11 @@ In this field you will record the format of the resource that you used/consulted
 - Click on the ‘Format Type’ field and choose from the dropdown
 - Click ‘__Add__’\.
 - Repeat if relevant\.
-	- It is possible to add multiple Formats, for example if you are adding exactly the same book that you have used in both its physical and digital form \(Figure 5\)\.
+	- It is possible to add multiple Formats, for example if you are adding exactly the same book that you have used in both its physical and digital form\.
 
-![Graphical user interface, application, Teams](images/197.jpg)
+![Graphical user interface, application, Teams](images/197.jpg\)
 
-Figure 5
-
-## <a id="_Toc55806348"></a>Choose which Card to fill in
+## Choose which Card to fill in
 
 For your next step, you will determine which Card you need to fill in: Bibliography, Imagery, Cartography, or Shared Data, based on what type of Resource you are recording\.
 
@@ -3428,22 +3069,20 @@ Only one of these four cards should be filled in per record\. Leave the others b
 - For Cartography Resource Types such as maps or plan drawings, go to Section 6\.
 - For Shared Data Resource Types, go to Section 7\.
 
-## <a id="_Bibliography"></a><a id="_Toc55296819"></a><a id="_Toc55806349"></a>Bibliography 
+## Bibliography 
 
-<a id="_Hlk516759313"></a>Use this card for sources such as books, articles, reports, databases, websites, ancient texts, etc\. For previously studied sites, publications can give useful information about an archaeological site, for example on dating, which you may want to enter into the database\. It is important to acknowledge the source of your information, by recording the Information Resource used and linking it to the Heritage Place or other type of database record\.
+Use this card for sources such as books, articles, reports, databases, websites, ancient texts, etc\. For previously studied sites, publications can give useful information about an archaeological site, for example on dating, which you may want to enter into the database\. It is important to acknowledge the source of your information, by recording the Information Resource used and linking it to the Heritage Place or other type of database record\.
 
 - You should only complete this card if the Resource Type you chose in Section 2\.1 came from the BIBLIOGRAPHY category\. If not, leave this card BLANK\.
 
-Click on ‘Bibliography’ in the Card Tree to go directly to that card \(Figure 6\)\.
+Click on ‘Bibliography’ in the Card Tree to go directly to that card\.
 
 - You can do your data entry directly in this window for all fields or click on the ‘\+’ beside ‘Bibliography’ in the Card Tree to expand the nested fields\.
 - You can click on each field the fill them in one by one\.
 
-![Graphical user interface, application, Teams](images/198.jpg)
+![Graphical user interface, application, Teams](images/198.jpg\)
 
-Figure 6
-
-### <a id="_Author(s)_–_required"></a><a id="_Toc55806350"></a>Author\(s\) 
+### Author\(s\) 
 
 Enter the name of the Author\(s\)\. This field is mandatory\.
 
@@ -3462,7 +3101,7 @@ Enter the name of the Author\(s\)\. This field is mandatory\.
 - If the resource has multiple authors, repeat the steps above for each individual author\.
 	- Make sure you have clicked ‘__Add__’ after each entry before starting a new one, or you will only edit your existing entry instead of adding a new one\.
 
-### <a id="_Toc55806351"></a>Publication Date
+### Publication Date
 
 Enter the date of publication of the resource\. If it is unknown, leave the field blank\.
 
@@ -3470,14 +3109,14 @@ Enter the date of publication of the resource\. If it is unknown, leave the fiel
 - Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
 - If only the year is known, enter the year and choose 1 January for the date\. Similarly, if only the year and month is known, enter the date as the 1st of the appropriate month, for example 2020\-05\-01 for May 2020\.
 
-### <a id="_Toc55806352"></a>Publication Title
+### Publication Title
 
 Enter the title of the publication\. This field is mandatory\.
 
 - Click on the ‘Title’ free\-text field and type in the title of the resource exactly as it appears\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806353"></a>Editor\(s\)
+### Editor\(s\)
 
 Enter the names of the editor of a volume, where applicable, if it is different from the author of the resource\. If there are no editors, leave this field blank\.
 
@@ -3488,14 +3127,14 @@ Click in the ‘Editor Appellation’ field and type in the name of the editor u
 - Click ‘__Add__’\.
 - Repeat if there are additional editors\.
 
-### <a id="_Toc55806354"></a>Source
+### Source
 
 Enter the source of the resource, such as the journal name for articles, or the series of books\. If this is not applicable, leave this field blank\.
 
 - Click on the ‘Source Appellation’ field and type in the name of the source\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806355"></a>Place\(s\) of publication
+### Place\(s\) of publication
 
 Enter the full, unabbreviated name of the city and/or country where the Information Resource was published or from where it originates\. If this is unknown or not applicable, leave this field blank\.
 
@@ -3503,7 +3142,7 @@ Enter the full, unabbreviated name of the city and/or country where the Informat
 - Click ‘__Add__’\.
 - Repeat if there are additional places\.
 
-### <a id="_Toc55806356"></a>Publisher
+### Publisher
 
 Enter the full, unabbreviated name of the publisher of the resource\. If this is unknown or not applicable, leave this field blank\.
 
@@ -3511,7 +3150,7 @@ Enter the full, unabbreviated name of the publisher of the resource\. If this is
 - Click ‘__Add__’\.
 - Repeat if there are additional publishers\.
 
-### <a id="_Toc55806357"></a>Volume
+### Volume
 
 Enter the volume number and/or name for periodicals or multi\-volume publications where applicable\. If this is not applicable, leave this field blank\.
 
@@ -3522,7 +3161,7 @@ Enter the volume number and/or name for periodicals or multi\-volume publication
 		- Conform to the format on the title page of the book, copying the full volume name\. e\.g\. Volume Two: Gazetteer and Pottery\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806358"></a>Issue
+### Issue
 
 Enter the issue number and/or name for periodicals, or the edition number for publications in later editions, where applicable\. If this field is not applicable, leave this field blank\.
 
@@ -3530,7 +3169,7 @@ Enter the issue number and/or name for periodicals, or the edition number for pu
 	- For periodicals such as journals, ALWAYS use Arabic Numerals rather than Roman Numerals\. 
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806359"></a>Page\(s\)
+### Page\(s\)
 
 Enter the full, unabbreviated page range for the Information Resource, where applicable\. If this is unknown or not applicable, leave this field blank\.
 
@@ -3546,7 +3185,7 @@ Note: this field is not to record the page number\(s\) from which the informatio
 		- e\.g\. 152\-156, 180\-190
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806360"></a>Figure\(s\)
+### Figure\(s\)
 
 Enter the full, unabbreviated figure number or letter\. If this information is not applicable, leave this field blank\.
 
@@ -3555,11 +3194,9 @@ Note: This field should only be used if the figure in question stands alone as i
 - Click on the ‘Figure Number\(s\)’ field and enter the figure number or letter\.
 - Click ‘__Add__’\.
 
-![A screenshot of a cell phone](images/199.jpg)
+![A screenshot of a cell phone](images/199.jpg\)
 
-Figure 7: A completed record view example of an entry for a book\. 
-
-## <a id="_Imagery_–_General"></a><a id="_Toc55296820"></a><a id="_Toc55806361"></a>Imagery
+## Imagery
 
 Use this card for sources of information that capture images of physical landscapes, structures, objects, etc\. such as satellite imagery, all types of photographs, and drawings/reconstructions \(but NOT including site plans, or section/elevation drawings which come under Cartography\)\.
 
@@ -3569,18 +3206,16 @@ In some cases, it may be necessary/more useful to record full collections of ima
 
 - This should only be done when the collection forms a coherent whole for which the necessary referencing information entered into the Information Resource record can be applied equally to each image, i\.e\. the creator, date, camera, etc\. are all the same for every image in the group\.
 
-<a id="_5A_General_Imagery"></a>Depending on the type of image being recorded, especially satellite images as opposed to traditional photographs, the type of information recorded in each field may be slightly different\. Where necessary, the dropdown lists have been separated into different categories – satellite imagery and photography to make things clearer\.
+Depending on the type of image being recorded, especially satellite images as opposed to traditional photographs, the type of information recorded in each field may be slightly different\. Where necessary, the dropdown lists have been separated into different categories – satellite imagery and photography to make things clearer\.
 
-Click on ‘Imagery’ in the Card Tree to go directly to that card \(Figure 8\)\.
+Click on ‘Imagery’ in the Card Tree to go directly to that card\.
 
 - You can do your data entry directly in this window for all fields or click on the ‘\+’ beside ‘Imagery’ in the Card Tree to expand the nested fields\.
 - You can click on each field the fill them in one by one\.
 
-![Graphical user interface, application, Teams](images/200.jpg)
+![Graphical user interface, application, Teams](images/200.jpg\)
 
-Figure 8: The Imagery card
-
-### <a id="_Toc55806362"></a>Checking if the imagery has already been entered in the database
+### Checking if the imagery has already been entered in the database
 
 This is important for all information resources, but especially relevant for Google Earth imagery\. Because Google Earth imagery covers a large amount of ground and is used all the time in the EAMENA methodology, there is a high chance the imagery has already been entered in the database\. It is therefore even more important to check if the imagery is not already in the database\.
 
@@ -3592,7 +3227,7 @@ To do this:
 
 See Tutorial 1: Searching the Database \(Basic\) and Tutorial 17: Searching the Database \(Advanced\) for more details on how to conduct searches\.
 
-### <a id="_Toc55806363"></a>Catalogue ID
+### Catalogue ID
 
 Enter the original source identifier for the image, e\.g\. the file name, the catalogue number, etc\. If this information is unknown, leave this field blank\.
 
@@ -3601,7 +3236,7 @@ If you have multiple photographs, for example from your own collection, it is wo
 - Click on the ‘Catalogue ID’ field and enter the identifier\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806364"></a>Source
+### Source
 
 Choose the source company/institution/collection from which the imagery was purchased/sourced and with whom the copyright for the imagery may rest\. E\.g\. Harris/Mapmart, or Google Earth\. If this is unknown, choose ‘Unknown’\.
 
@@ -3613,7 +3248,7 @@ An image may have more than one source, if necessary: e\.g\. a single photograph
 
 If the source for your image does not appear in the dropdown, contact a member of the EAMENA staff about whether it can be added to the list\.
 
-### <a id="_Toc55806365"></a>Creator\(s\)/Owner\(s\)
+### Creator\(s\)/Owner\(s\)
 
 Enter the name of the Creator\(s\) and/or Owner\(s\) of the image\. If this information is unknown, this field may be left blank, but make sure to adhere to copyright regulation by adding this field whenever it is known\.
 
@@ -3623,13 +3258,13 @@ Enter the name of the Creator\(s\) and/or Owner\(s\) of the image\. If this info
 	- Follow the instructions for ‘Author\(s\)’ in Section 4\.1 above\.
 - Repeat as many times as necessary\.
 
-### <a id="_Toc55806366"></a>Image Details 
+### Image Details 
 
 The following five fields are linked together\. This field is mandatory\. If the information is unknown, then choose ‘Unknown’\.
 
 - For imagery viewed online or using Google Earth, the information in these fields will almost always be ‘Unknown’, but it is important to still enter this information\.
 
-#### <a id="_Toc55806367"></a>Imagery Platform Type
+#### Imagery Platform Type
 
 Enter the platform or vehicle from which the image was taken or that operated the camera/sensor\.
 
@@ -3641,7 +3276,7 @@ Enter the platform or vehicle from which the image was taken or that operated th
 	- For Google Earth:
 		- Choose ‘Unknown’\.
 
-#### <a id="_Toc55806368"></a>Imagery Sensor Type
+#### Imagery Sensor Type
 
 Enter the specific name/model of the camera or sensor used to capture the image\.
 
@@ -3653,7 +3288,7 @@ Enter the specific name/model of the camera or sensor used to capture the image\
 	- For Google Earth:
 		- Choose “Unknown”\.
 
-#### <a id="_Toc55806369"></a>Imagery Bands Type
+#### Imagery Bands Type
 
 Enter the type of image that is captured, in terms of the bands/colours that are visible in the image\. 
 
@@ -3665,7 +3300,7 @@ Enter the type of image that is captured, in terms of the bands/colours that are
 	- For Google Earth:
 		- Choose ‘Unknown’\.
 
-#### <a id="_Toc55806370"></a>Imagery Camera Sensor Type
+#### Imagery Camera Sensor Type
 
 Enter the type/category of camera or sensor, in terms of how the image is collected/how the camera/sensor operates\. E\.g\. “Camera – Digital”\.
 
@@ -3677,7 +3312,7 @@ Enter the type/category of camera or sensor, in terms of how the image is collec
 	- For Google Earth:
 		- Choose ‘Unknown’\.
 
-#### <a id="_Toc55806371"></a>Imagery Camera Sensor Resolution Type
+#### Imagery Camera Sensor Resolution Type
 
 Enter the resolution of the image at the time of its acquisition\.
 
@@ -3687,21 +3322,17 @@ Enter the resolution of the image at the time of its acquisition\.
 	- For Google Earth:
 		- Choose ‘Unknown’\.
 
-![Graphical user interface, application](images/201.jpg)
+![Graphical user interface, application](images/201.jpg\)
 
-Figure 9: Image detail fields filled in for a ground photograph\.
+![Graphical user interface, application](images/202.jpg\)
 
-![Graphical user interface, application](images/202.jpg)
-
-Figure 10: Image detail fields filled in for Google Earth imagery\.
-
-#### <a id="_Toc55806372"></a>Add
+#### Add
 
 Click ‘__Add__’ to save the information entered above\.
 
 - You may only add one Image Details entry for each Information Resource\.
 
-### <a id="_Toc55806373"></a>Imagery Sample Resolution Type: Post\-Processing Resolution 
+### Imagery Sample Resolution Type: Post\-Processing Resolution 
 
 Enter the resolution of the image that has been consulted, IF it has undergone any post\-processing techniques that may have changed the original resolution of the image\. 
 
@@ -3710,7 +3341,7 @@ This field may NOT be left blank\. If the image has not undergone any post\-proc
 - Click on the ‘Post\-Processing Resolution’ field and select an option from the dropdown list
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806374"></a>Processing Type
+### Processing Type
 
 Enter the type of Processing that the image has undergone\.
 
@@ -3720,7 +3351,7 @@ This field may NOT be left blank\. If the image has no undergone any post\-proce
 - Click ‘__Add__’\.
 - Repeat if the image has undergone multiple types of processing\.
 
-### <a id="_Toc55806375"></a>Date of Acquisition
+### Date of Acquisition
 
 Enter the date on which the image was captured/created\.
 
@@ -3730,46 +3361,36 @@ Enter the date on which the image was captured/created\.
 
 This field may be left blank if unknown, but it is a very important field when doing imagery analysis, so always try to fill it in, even if the date is approximate only\.
 
-### <a id="_Toc55806376"></a>Date of File
+### Date of File
 
-Enter the latest date on which the version of the image being consulted was created/modified through post\-processing methods, if known\. If an original image is being consulted and its date is recorded in the ‘Date of Acquisition’ field above, this field may be left blank \(Figure 11\)\.
+Enter the latest date on which the version of the image being consulted was created/modified through post\-processing methods, if known\. If an original image is being consulted and its date is recorded in the ‘Date of Acquisition’ field above, this field may be left blank\.
 
 - Click on the ‘File Date’ field and enter or choose the date when the resource was published\.
 - Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
 - If only the year is known, enter the year and choose 1 January for the date\. Similarly, if only the year and month is known, enter the date as the 1st of the appropriate month, for example 2020\-05\-01 for May 2020\.
 
-![Graphical user interface, text, application](images/203.jpg)
+![Graphical user interface, text, application](images/203.jpg\)
 
-Figure 11: This image was captured on the 1st of October 2020 and the file was changed \(e\.g\. processed\) on the 23rd of October 2020\.
-
-### <a id="_Toc55806377"></a>Copyright Type 
+### Copyright Type 
 
 Enter the type of copyright that applies to the image\. This field may NOT be left blank\.
 
 - Click on the ‘Right Type’ field and select an option from the dropdown list
 - Click ‘__Add__’\.
 
-![Graphical user interface](images/204.jpg)
+![Graphical user interface](images/204.jpg\)
 
-Figure 12: A completed record view example of an entry for a ground photograph\. 
+![A picture containing table](images/205.jpg\)
 
-![A picture containing table](images/205.jpg)
+![A picture containing table](images/206.jpg\)
 
-Figure 13: A completed record view example of an entry for a satellite image for which you have access to the original image \(i\.e\. not an online viewer like Google Earth\)\.
-
-![A picture containing table](images/206.jpg)
-
-Figure 14: A completed record view entry for Google Earth imagery\.
-
-<a id="_5B_Google_Earth"></a>
-
-## <a id="_Cartography"></a><a id="_Toc55296821"></a><a id="_Toc55806378"></a>Cartography
+## Cartography
 
 Use this card to record Information Resources that are visual/symbolic representations of geographical space, such as maps, plans, or elevation or section drawings\.
 
 - You should only complete this Card if your RESOURCE TYPE came from the CARTOGRAPHY category\. If not, leave this Card BLANK\.
 
-### <a id="_Toc55806379"></a>Map Source
+### Map Source
 
 Enter the source company/institution/collection from which the map was purchased/sourced and with whom the copyright for said map may rest\.
 
@@ -3780,7 +3401,7 @@ Enter the source company/institution/collection from which the map was purchased
 
 If the source for your map does not appear in the dropdown, contact a member of the EAMENA staff about whether it can be added to the list\.
 
-### <a id="_Toc55806380"></a>Creator
+### Creator
 
 Enter the name of the Creator\(s\) and/or Owner\(s\) of the image\. If this information is unknown, this field may be left blank, but make sure to adhere to copyright regulation by adding this field whenever it is known\.
 
@@ -3790,7 +3411,7 @@ Enter the name of the Creator\(s\) and/or Owner\(s\) of the image\. If this info
 	- Follow the instructions for ‘Author\(s\)’ in Section 4\.1 above\.
 - Repeat as many times as necessary\.
 
-### <a id="_Toc55806381"></a>Series
+### Series
 
 Enter the title of the series to which the map belongs\. This field MUST be filled in\.
 
@@ -3799,7 +3420,7 @@ Enter the title of the series to which the map belongs\. This field MUST be fill
 
 If the map series you are recording does not appear in the dropdown, contact a member of the EAMENA staff about whether it can be added to the list\.
 
-### <a id="_Toc55806382"></a>Place of publication
+### Place of publication
 
 Enter the full, unabbreviated name of the city and/or country where the Information Resource was published or from where it originates\. If this is unknown or not applicable, leave this field blank\.
 
@@ -3807,7 +3428,7 @@ Enter the full, unabbreviated name of the city and/or country where the Informat
 - Click ‘__Add__’\.
 - Repeat if there are additional places\.
 
-### <a id="_Toc55806383"></a>Projection type
+### Projection type
 
 Enter the projection system used in the map\. This field MUST be filled in\. 
 
@@ -3816,35 +3437,35 @@ Enter the projection system used in the map\. This field MUST be filled in\.
 
 If the projection type you are recording does not appear in the dropdown, contact a member of the EAMENA staff about whether it can be added to the list\.
 
-### <a id="_Toc55806384"></a>Scale 
+### Scale 
 
 Enter the scale of the map\. This field MUST be filled in\. Choose ‘Unknown’, ‘Other’ or ‘Not to Scale’ if that is the case\.
 
 - Click on the ‘Scale’ field and choose from the dropdown\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806385"></a>Sheet Number / ‘Tile Square Details’
+### Sheet Number / ‘Tile Square Details’
 
 Enter the sheet number for the map, where applicable\. If this field is unknown or not applicable, leave this field blank\.
 
 - Click on the ‘Sheet Number’ field and enter the sheet number\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806386"></a>Sheet Name / ‘Tile Square Appellation’
+### Sheet Name / ‘Tile Square Appellation’
 
 Enter the sheet name for the map, where applicable\. If this field is unknown or not applicable, leave this field blank\.
 
 - Click on the ‘Sheet Name’ field and enter the sheet name\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806387"></a>Edition
+### Edition
 
 Enter the edition of the map, where applicable\. If this field is unknown or not applicable, leave this field blank\.
 
 - Click on the ‘Edition’ field and enter the edition\.
 - Click ‘__Add__’\.
 
-### <a id="_Toc55806388"></a>Date of Creation
+### Date of Creation
 
 Enter the date of the map\. If the date is unknown, leave this field blank\.
 
@@ -3852,17 +3473,15 @@ Enter the date of the map\. If the date is unknown, leave this field blank\.
 - Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
 - If only the year is known, enter the year and choose 1 January for the date\. Similarly, if only the year and month is known, enter the date as the 1st of the appropriate month, for example 2020\-05\-01 for May 2020\.
 
-![Graphical user interface, application, email](images/207.jpg)
+![Graphical user interface, application, email](images/207.jpg\)
 
-Figure 15: A completed record view entry for a map\. 
-
-## <a id="_Shared_Data"></a><a id="_Toc55296822"></a><a id="_Toc55806389"></a>Shared Data
+## Shared Data
 
 Use this this card to records the details of data that has been officially shared with EAMENA from individuals or projects\. These data will normally be unpublished; if the data are published, these should be recorded under Bibliography\.
 
 - You should only complete this Card if your RESOURCE TYPE came from the SHARED DATA category\. If not, leave this Card BLANK\.
 
-### <a id="_Toc55806390"></a>Shared Data Source
+### Shared Data Source
 
 Enter the name of the person, people, or institution with whom the sharing agreement was made/who created the data and have provided access and permission to use the data\. If more than one is entered, each should be entered individually\. You MUST fill in this field\. 
 
@@ -3872,7 +3491,7 @@ Enter the name of the person, people, or institution with whom the sharing agree
 - Click ‘__Add__’\.
 - Repeat if necessary\.
 
-### <a id="_Toc55806391"></a>Shared Data Source Project
+### Shared Data Source Project
 
 Enter the full name of the project\(s\) from which the data were shared\. If more than one project, each should be entered individually\.
 
@@ -3882,7 +3501,7 @@ If this field is not applicable, e\.g\. the data belongs to an individual resear
 - Click ‘__Add__’\.
 - Repeat if necessary\.
 
-### <a id="_Toc55806392"></a>Shared Data Source Affiliation/Copyright
+### Shared Data Source Affiliation/Copyright
 
 Enter the full name of the project/individual’s institutional affiliation relevant at the time of the data creation/transfer written out in full\. i\.e\. The University of Oxford; Centre National de la Recherche Scientifique\.
 
@@ -3892,7 +3511,7 @@ If this field is not applicable, e\.g\. the data belongs to an independent resea
 - Click ‘__Add__’\.
 - Repeat if necessary\.
 
-### <a id="_Toc55806393"></a>Shared Data Source Date
+### Shared Data Source Date
 
 Enter the Date of the sharing agreement\. If this information is unknown, leave this field blank\.
 
@@ -3900,11 +3519,9 @@ Enter the Date of the sharing agreement\. If this information is unknown, leave 
 - Dates can be entered by clicking on the date on the calendar pop\-up that appears or by typing the date in yyyy\-mm\-dd format \(e\.g\. 2016\-07\-14 for 14 July 2016\)\. 
 - If only the year is known, enter the year and choose 1 January for the date\. Similarly, if only the year and month is known, enter the date as the 1st of the appropriate month, for example 2020\-05\-01 for May 2020\.
 
-![Graphical user interface, application, Teams](images/208.jpg)
+![Graphical user interface, application, Teams](images/208.jpg\)
 
-Figure 16: An example of a shared dataset Information Resource card\.
-
-## <a id="_Toc55296823"></a><a id="_Toc55806394"></a>URLs
+## URLs
 
 Fill in this card if your Information Resource was accessed online or has a website that is directly relevant to or offers further information to the Information Resource\. You can fill in this card in addition to any of the previous ones\.
 
@@ -3922,11 +3539,9 @@ Click on URLs in the Card Tree to go to that card\.
 
 Note: This will not create a hyperlink directly to the website\(s\) in question\.
 
-![Graphical user interface, application](images/209.jpg)
+![Graphical user interface, application](images/209.jpg\)
 
-Figure 17: An example of the URL card\.
-
-## <a id="_Toc55296824"></a><a id="_Toc55806395"></a>Location
+## Location
 
 Fill in this card to add a location to your Information Resource\.
 
@@ -3947,7 +3562,7 @@ Refer to __Tutorial 5: Geometries__ for detailed instructions on how to add geom
 - For geographically inexact sources, e\.g\. oblique aerial photographs, or where it is otherwise not possible to draw an accurate polygon, you may place a pin to mark the approximate geographic location or centre of the Information Resource\.
 - For aerial photographs especially the camera might have recorded the location of the photographer, and it can be more suitable to enter this location\. In this case, make sure to make a note of this in the ‘Additional Information’ card \(see Section 11 below\)\.
 
-## <a id="_Toc55296825"></a><a id="_Toc55806396"></a>File Upload
+## File Upload
 
 This card is OPTIONAL\. 
 
@@ -3956,16 +3571,14 @@ In some instances, it may be desirable to upload a copy of the Information Resou
 To add a file:
 
 - Click on ‘File Upload’ in the Card Tree\.
-- Drag and drop the document onto the panel where indicated to upload it or click ‘Select Files” and navigate to the file you would like to upload from your computer\. Choose the file and it will be uploaded and appear in a list below \(Figure 18\)\.
+- Drag and drop the document onto the panel where indicated to upload it or click ‘Select Files” and navigate to the file you would like to upload from your computer\. Choose the file and it will be uploaded and appear in a list below\.
 - Click ‘__Add__’
 - Click on the X beside the file name to delete the selected file or click on ‘delete all files’ to delete all uploaded files\.
 - Click on ‘add more files’ to navigate to your folders on the computer and choose another document to upload for the built component\.  
 	- You may upload as many documents as you need\. 
 	- The maximum size of any single file is 200MB; however, please make sure that your file is smaller, __*ideally less than 1 MB*__, and not larger than 3–4 MB, in order to not fill up the database server and keep the database working well\.
 
-![Graphical user interface, application](images/210.jpg)
-
-Figure 18
+![Graphical user interface, application](images/210.jpg\)
 
 IMPORTANT NOTE REGARDING COPYRIGHT:
 
@@ -3975,7 +3588,7 @@ Any images or files that are found to violate copyright will be DELETED immediat
 
 Furthermore, please be aware that if you upload any personal or otherwise unpublished files \(e\.g\. personal photographs, survey notes\) these may be downloaded and used by anyone who has access to the database\. EAMENA are not responsible if files are downloaded and used in ways not approved or anticipated by the uploader\. If this is not acceptable, or if there is any doubt as to the copyright or ownership of an image or file, DO NOT upload it\. Please contact a member of the EAMENA team if you have any questions or are unsure whether a file should or should not be uploaded\.
 
-## <a id="_Toc55296826"></a><a id="_Toc55806397"></a>Additional Information
+## Additional Information
 
 This card is OPTIONAL\.
 
@@ -3983,11 +3596,11 @@ This card consists of a Free\-text box in which you can enter Additional Informa
 
 Any information being entered MUST BE TYPED directly into the text box\. You must NEVER copy and paste information from any other source\. Websites and programs such as Microsoft Word contain code that is embedded into all text which can interfere with the functionality of the database\.
 
-## <a id="_Resources_Relationships"></a><a id="_Toc55296827"></a><a id="_Toc55806398"></a>Related Resources
+## Related Resources
 
 Use this card to search for and link other resources to your record\. 
 
-- <a id="_Hlk516757461"></a>Every Information Resource MUST be linked to at least one Heritage Place, Built Component, Geoarchaeology, or Detailed Condition Assessment resource\. 
+- Every Information Resource MUST be linked to at least one Heritage Place, Built Component, Geoarchaeology, or Detailed Condition Assessment resource\. 
 - The primary purpose of Information Resources is to record what specific sources have been used in the creation of records in the EAMENA database, so if it has not been used to contribute to one of these it should normally not be entered\. 
 - You can make MULTIPLE relationships\.
 
@@ -3997,16 +3610,14 @@ Information Resources should be related to any and all of the resources in the d
 
 Relationships can be made through EITHER the Information Resource record OR the other record\. For instructions on how to add a relationship to an Information Resource from, e\.g\. a Heritage Place, Built Component, etc\. record, please see the tutorials on those types of resources\.
 
-### <a id="_Toc55806399"></a>Adding Related Resources
+### Adding Related Resources
 
 Click on ‘Related Resources’ in the Card Tree to go to that card\.
 
-- Any relationships which already exist between your Information Resource and other records should already appear here, including Person/Organisation records you added in, e\.g\. the ‘Author’ field in previous sections \(Figure 19\)\.
+- Any relationships which already exist between your Information Resource and other records should already appear here, including Person/Organisation records you added in, e\.g\. the ‘Author’ field in previous sections\.
 - Make sure to double\-check that these relationships have been added correctly\.
 
-![Graphical user interface, application, Teams](images/211.jpg)
-
-Figure 19: This information resource is already related to the Person/Organization record for ‘Philip Kenrick’ because he was added as the ‘Author’ of the book that this record is for in Section 4\.1 above\.
+![Graphical user interface, application, Teams](images/211.jpg\)
 
 To add further relationships:
 
@@ -4020,25 +3631,19 @@ To add further relationships:
 - Click on the ‘delete’ \(bin\) symbol to delete the relationship\.
 - Repeat for as many resources as the Information Resource is related to\.
 
-<a id="_Additional_Information"></a>
-
 # TUTORIAL 16: Managing Your Records
 
 In this tutorial you learn how to manage your records, including how to copy, delete or print them\. 
 
 ## Getting Started
 
-From within any record in the EAMENA database, click on the ‘Manage’ menu in the upper left corner \(Figure 1\)\.
+From within any record in the EAMENA database, click on the ‘Manage’ menu in the upper left corner\.
 
-![Graphical user interface](images/212.jpg)
+![Graphical user interface](images/212.jpg\)
 
-Figure 1
+This will reveal the ‘Manage’ menu, which has five options for managing your record\.
 
-This will reveal the ‘Manage’ menu, which has five options for managing your record \(Figure 2\)\.
-
-![Graphical user interface, application](images/213.jpg)
-
-Figure 2
+![Graphical user interface, application](images/213.jpg\)
 
 ## Copy Resource
 
@@ -4046,13 +3651,11 @@ NOTE: Currently under development\. DO NOT use this function until you are told 
 
 When this function is ready, you will be able to click on ‘Copy Resource’ to make an exact duplicate of your record\. This is very useful for when you are entering data for a number of sites which have identical or similar attributes, e\.g\. a series of individual cairns\.
 
-Once you click on ‘Copy Resource’ you will get a notification saying ‘Resource Successfully Copied’ \(Figure 3\)\.
+Once you click on ‘Copy Resource’ you will get a notification saying ‘Resource Successfully Copied’\.
 
 - Click ‘Ok’\.
 
-![Graphical user interface](images/214.jpg)
-
-Figure 3
+![Graphical user interface](images/214.jpg\)
 
 As of now, the database does not currently take you to or open a page with your copied resource \(this is currently in development\)\.
 
@@ -4067,24 +3670,20 @@ As of now, the database does not currently take you to or open a page with your 
 Click ‘Delete Resource’ to delete your record entirely\.
 
 - Make sure that you are completely sure you want to delete your resource because it is not possible to undo this action\.
-- You will receive a warning message \(Figure 4\)\.
+- You will receive a warning message\.
 - Click ‘Ok’ to delete your resource\.
 
-![Graphical user interface, application](images/215.jpg)
-
-Figure 4
+![Graphical user interface, application](images/215.jpg\)
 
 ## Review Edit History
 
 Click on ‘Review Edit History’ to see when a record was created\. 
 
-- Only new records created since the launch EAMENA v3 will have a Resource Record Created date \(Figure 5\)\. 
+- Only new records created since the launch EAMENA v3 will have a Resource Record Created date\. 
 	- Records that have been migrated from older versions of the database will not show this information\.
 - Currently only EAMENA staff can see the full list of edits and changes made to the records\. We are currently developing a way for other users to see a list of edits made to records\.
 
-![](images/216.jpg)
-
-Figure 5
+![](images/216.jpg\)
 
 ## Jump to Report
 
@@ -4093,26 +3692,22 @@ Click on ‘Jump to Report’ to open and view the resource report page for your
 - At the top of the page is a satellite image showing the location for your site and any geometries recorded for it\.
 	- Use the options on the right side of the window to change the basemap, switch the overlays on and off, and see the legend\.
 - This page shows a full report of your record with all the fields of the resource\. 
-- You can choose to hide any blank fields by toggling the ‘Hide Null Values’ switch in the upper right corner \(Figure 6\)\.
+- You can choose to hide any blank fields by toggling the ‘Hide Null Values’ switch in the upper right corner\.
 
-![Graphical user interface, application, PowerPoint](images/217.jpg)
-
-Figure 6: Resource Report page, with ‘Hide Null Values’ switch indicated in red
+![Graphical user interface, application, PowerPoint](images/217.jpg\)
 
 From the Resource Report page you can also choose to edit or print your record\.
 
 - Click on the ‘pencil’ icon in the upper right corner to go directly to the editing page for the record\.
-- Click on the ‘printer’ icon in the upper right corner to open a print dialogue window to print a copy of your resource or save it as a pdf \(Figure 6\)\.
+- Click on the ‘printer’ icon in the upper right corner to open a print dialogue window to print a copy of your resource or save it as a pdf\.
 
 NOTE: Under the Geography section, you will currently see a message saying ‘These data are provisional and pending review” and a number of Map fields\. 
 
-__Please ignore these fields__ and don’t add any information here\. This is a *bug *which we are working on fixing and this section will be removed from the report \(Figure 7\)\. 
+__Please ignore these fields__ and don’t add any information here\. This is a *bug *which we are working on fixing and this section will be removed from the report\. 
 
 You can click the ‘Hide Null Fields’ switch described above to hide these fields\.
 
-![](images/218.jpg)
-
-Figure 7: Please ignore the sections highlighted in red\.
+![](images/218.jpg\)
 
 ## Print Report
 
@@ -4129,73 +3724,59 @@ In this tutorial, you will learn how to conduct more complex searches in the EAM
 
 ## Advanced Search
 
-From the search page, click on ‘Advanced Search’ to open the advanced search functions \(Figure 1\)\.
+From the search page, click on ‘Advanced Search’ to open the advanced search functions\.
 
-![A screenshot of a computer](images/219.jpg)
+![A screenshot of a computer](images/219.jpg\)
 
-Figure 1
-
-You will see the ‘Advanced Search’ window and a list of ‘Search facets’ will appear on the right side of the screen \(Figure 2\)\. 
+You will see the ‘Advanced Search’ window and a list of ‘Search facets’ will appear on the right side of the screen\. 
 
 - The search facets represent and are organised by Resource Type, Card, and Field\.
 - You can scroll down or use the Search Bar at the top to find the field or card that you wish to search on\.
 
-![Graphical user interface, application](images/220.jpg)
-
-Figure 2
+![Graphical user interface, application](images/220.jpg\)
 
 Click on the facet you wish to search by and a box will appear in the Advanced Search window with the same fields that you would find in that card when you are creating a record\.
 
 - Click on the field you wish to search by and choose from the dropdown\.
 - The Search results will automatically update\.
-	- In Figure 3, we have searched by the country ‘Libya’, and at the time of searching this has returned 12,308 results\.
+	- Here we have searched by the country ‘Libya’, and at the time of searching this has returned 12,308 results\.
 	- Another example, searching by ‘Assessor/Investigator’ Name was outlined in __Tutorial 1b: Finding your Records__\.
-- You can use the smaller dropdowns on the left side of the main dropdowns to control whether to include or exclude a term \(Figure 3\)\. Different dropdowns have different options:
+- You can use the smaller dropdowns on the left side of the main dropdowns to control whether to include or exclude a term\. Different dropdowns have different options:
 	- Equals/References: searches for exact matches of this term
 	- Not/Does not Reference: excludes exact matches of this term from the search
 	- Like: in free\-text fields this will search for terms that match your term and ones that are similar \(e\.g\. alternate spellings\)
 	- Not Like: in free\-text fields this will exclude terms that match your term and ones that are similar
 
-![Graphical user interface, application](images/221.jpg)
-
-Figure 3
+![Graphical user interface, application](images/221.jpg\)
 
 You can define further search parameters within the same card, to filter your results further\.
 
-- In the example in Figure 4, we have further filtered our ‘Libya’ results by the Grid Square E14N32\-32 and can see that the Search Results have been reduced to 42\. This is the equivalent of an ‘AND’ query\.
+- In the example shown, we have further filtered our ‘Libya’ results by the Grid Square E14N32\-32 and can see that the Search Results have been reduced to 42\. This is the equivalent of an ‘AND’ query\.
 
-![Graphical user interface, application, Teams](images/222.jpg)
-
-Figure 4
+![Graphical user interface, application, Teams](images/222.jpg\)
 
 If you want to add a search term which does not appear in the same Card, find the Card or field in the Search Facet list on the right, and click on it\. This will add an additional search facet box below your first one\.
 
-- In Figure 5, we searched for sites in Libya, which have an interpretation of ‘Cemetery’, returning 349 results\.
+- Here we searched for sites in Libya, which have an interpretation of ‘Cemetery’, returning 349 results\.
 
-![Graphical user interface, application](images/223.jpg)
-
-Figure 5: Second Search Facet from a different Card
+![Graphical user interface, application](images/223.jpg\)
 
 You can continue to add Search Facets to filter your results further\.
 
 - When you add a new Search Facet, it will default to the ‘And’ option in orange at the top of the box\.
 - This means that your search results will only return records where BOTH terms have been found\.
-	- So in the last example in Figure 5, this means sites that are in Libya AND have been interpreted as Cemeteries\.
-- If, in the last example, we were to click on ‘Or’, this will change the relationship between the search terms, and will return a list of sites that are in Libya OR sites that have been interpreted as Cemeteries \(Figure 6\)\.
+	- So in the last example, this means sites that are in Libya AND have been interpreted as Cemeteries\.
+- If, in the last example, we were to click on ‘Or’, this will change the relationship between the search terms, and will return a list of sites that are in Libya OR sites that have been interpreted as Cemeteries\.
 	- In this case, we can see that the number of search results has increased to 13,157 because it is counting ALL sites in Libya, no matter what their interpretation, and ALL sites interpreted as Cemeteries, no matter what country they are in\.
 - Click on the ‘Remove’ button in the lower right corner of the Search Facet box to remove it\.
 
-![Graphical user interface, application](images/224.jpg)
-
-Figure 6
+![Graphical user interface, application](images/224.jpg\)
 
 The ‘Or’ function, is particularly useful when you want to search for multiple terms in the same field\.
 
-- For example, if you want a list of all the records in the database from either Libya OR Tunisia, you can add the same Search Facet box multiple times \(Figure 7\)\.
+- For example, if you want a list of all the records in the database from either Libya OR Tunisia, you can add the same Search Facet box multiple times\.
 
-![Graphical user interface, application](images/225.jpg)
-
-Figure 7
+![Graphical user interface, application](images/225.jpg\)
 
 You can add multiple Search Facets and combine the ‘And’ and ‘Or’ functions to produce complex search results\.
 
@@ -4290,11 +3871,9 @@ You can combine searches using the Simple Search Bar and the Advanced Search\.
 - Then use the Advanced Search to filter your results further using the ‘Or’ function if necessary\.
 - For example, you might wish to find any sites in Syria which have a Condition of ‘Destroyed’ OR ‘Very Bad’\.
 	- In this case you can enter ‘Syrian Arab Republic’ in the Simple Search Bar to return all results in Syria\. 
-	- Then in the Advanced Search, search for ‘Destroyed’ and ‘Very Bad’ in the ‘Overall Site Condition’ Search Facet, separated by ‘Or’ \(Figure 8\)\.
+	- Then in the Advanced Search, search for ‘Destroyed’ and ‘Very Bad’ in the ‘Overall Site Condition’ Search Facet, separated by ‘Or’\.
 
- ![Graphical user interface, application](images/229.jpg)
-
-Figure 8
+ ![Graphical user interface, application](images/229.jpg\)
 
 However, it is important to remember that two particular fields do not work in the Simple Search Bar:
 
@@ -4310,53 +3889,43 @@ This is because these are not simply search terms but are referring to links to 
 
 It is also possible to search the database by filtering based on different date fields\.
 
-- Click on the ‘calendar’ icon in the upper right corner to open the ‘Time Filter’ search options \(Figure 9\)\.
+- Click on the ‘calendar’ icon in the upper right corner to open the ‘Time Filter’ search options\.
 
-![Graphical user interface, application](images/230.jpg)
-
-Figure 9
+![Graphical user interface, application](images/230.jpg\)
 
 In the first part of the ‘Time Filter’ window that appears, you can search by Date Interval\.
 
-Find the type of date that you wish to search for in the ‘Type’ dropdown menu \(Figure 10\)\. 
+Find the type of date that you wish to search for in the ‘Type’ dropdown menu\. 
 
 - Whenever possible you should specify what type of date you are looking for because otherwise the search will default to any type of date in any field in the entire database, many of which may not be applicable to your search\.
 - A common choice will be ‘Assessment Summary Activity Date’, that is, the date you made the record\.
 
-![Chart, sunburst chart](images/231.jpg)
+![Chart, sunburst chart](images/231.jpg\)
 
-Figure 10
+Specify the date range you wish to search within by choosing one of the options from the ‘Within’ dropdown menu or choose ‘Custom date range’ and enter the dates in the From and To fields below\.
 
-Specify the date range you wish to search within by choosing one of the options from the ‘Within’ dropdown menu or choose ‘Custom date range’ and enter the dates in the From and To fields below \(Figure 11\)\.
-
-![Chart, sunburst chart](images/232.jpg)
-
-Figure 11
+![Chart, sunburst chart](images/232.jpg\)
 
 The Time Wheel gives a visual representation of the proportion of different dates present in database records and is an alternative method to set date ranges\.
 
 - Different sections of the wheel represent different periods of time that groups of database records fall into, narrowing down periods into smaller units as it moves outwards from the centre\.
 - Hovering over the individual sections will give you details about the period it covers\.
 - Double\-clicking on a section will ‘zoom in’ to that period\. Double\-click the centre of the wheel to zoom out again\.
-- In Figure 12, you can see that the smallest orange block represents dates between AD 1000 and 2000\.
+- Here you can see that the smallest orange block represents dates between AD 1000 and 2000\.
 
-![Chart, sunburst chart](images/233.jpg)
-
-Figure 12
+![Chart, sunburst chart](images/233.jpg\)
 
 Click on a section once to set that period as your filter – you will see that it fills in the From and To dates as a Custom date range in the ‘Date Interval’ section above\.
 
-- In Figure 13 below, clicking on the outer\-most orange block produces a search for any records which record a date in any field for the period between AD 1900 and 2000\.
+- Clicking on the outer\-most orange block produces a search for any records which record a date in any field for the period between AD 1900 and 2000\.
 - On the left we see that this returns 40,982 results\.
 - To narrow this further by searching only where those dates occur within a specific field, you can choose a ‘Date Interval Type’ as described above\.
 
-![Graphical user interface, application](images/234.jpg)
-
-Figure 13
+![Graphical user interface, application](images/234.jpg\)
 
 To reset or turn off the Date Filter, click ‘Clear’ in the upper right corner, or delete the ‘Time Filter’ entry in the Simple Search Bar on the left\.
 
-You can click on the ‘calendar’ icon again \(Figure 8\) to hide the ‘Date Interval’ window so that you can see the Advanced Search Facets again and combine Time searches with other types of searches\.
+You can click on the ‘calendar’ icon again to hide the ‘Date Interval’ window so that you can see the Advanced Search Facets again and combine Time searches with other types of searches\.
 
 - This will not clear your search parameters until you click ‘Clear’ in the upper right corner or remove the ‘Time Filter’ entry from the Search Bar on the left\.
 
@@ -4364,11 +3933,9 @@ For example, if you want to search for all records you have made or contributed 
 
 - Search for your name in the ‘Assessment Summary’ Search Facet\.
 - Open the ‘Date Interval’ window and choose ‘Assessment Summary / Activity Date’ from the type
-- Choose ‘This year’ from the ‘Within’ field or enter the dates in the From and To fields \(Figure 14\)\.
+- Choose ‘This year’ from the ‘Within’ field or enter the dates in the From and To fields\.
 
-![Graphical user interface, application](images/235.jpg)
-
-Figure 14: Search results for all records created or assessed by ‘Nichole Sheldrick’ in the year 2020\.
+![Graphical user interface, application](images/235.jpg\)
 
 For an additional example of a search using the Date Interval to find Information Resources of the imagery type acquired at a specific date, see __Tutorial 15: Information Resources, Section 5\.1__\.
 
@@ -4381,15 +3948,13 @@ In this section we will go through some additional example searches to demonstra
 You want to find all the sites where both ‘Tomb/Grave/Burial’ AND ‘Altar’ appear\.
 
 - In this case, you can use the Simple Search Bar or the Advanced Search
-- Method 1 \(Figure 15\)
+- Method 1
 	- Type ‘Tomb/Grave/Burial’ into the simple search bar and choose the matching Concept
 	- Type ‘Altar’ into the simple search bar and choose the matching Concept\.
 
-![Graphical user interface, application](images/236.jpg)
+![Graphical user interface, application](images/236.jpg\)
 
-Figure 15
-
-- Method 2 \(Figure 16\)
+- Method 2
 	- Click on Advanced Search
 	- Scroll down and click on the ‘Heritage Place – Site Feature Interpretation’ Search Facet and to add it to the Advanced Search\.
 		- Choose ‘Tomb/Grave/Burial’ from the ‘Site Feature Interpretation Type’ Dropdown
@@ -4397,15 +3962,13 @@ Figure 15
 		- Choose ‘Altar’ from the ‘Site Feature Interpretation Type’ Dropdown
 	- Make sure the ‘And’ option is picked \(this is the default\)\.
 
-![Graphical user interface, application](images/237.jpg)
-
-Figure 16
+![Graphical user interface, application](images/237.jpg\)
 
 ### Example 2: Simple ‘Or’ Search
 
 You want to find all the records in Morocco OR Algeria\.
 
-To conduct an ‘Or’ search, you MUST use the Advanced Search \(Figure 17\)\.
+To conduct an ‘Or’ search, you MUST use the Advanced Search\.
 
 - Click on Advanced Search
 - Scroll down and click on the ‘Heritage Place – Geography’ Search Facet and to add it to the Advanced Search\.
@@ -4414,13 +3977,11 @@ To conduct an ‘Or’ search, you MUST use the Advanced Search \(Figure 17\)\.
 	- Choose ‘Algeria’ from the ‘Country’ Dropdown
 	- Click on ‘Or’ to switch to that function\.
 
-![Graphical user interface, application](images/238.jpg)
-
-Figure 17
+![Graphical user interface, application](images/238.jpg\)
 
 ### Example 3: Combining Advanced and Date Search
 
-You want to find records that you made or did assessments for in Libya between January and June 2020 \(Figure 18\)\.
+You want to find records that you made or did assessments for in Libya between January and June 2020\.
 
 - Click on Advanced Search
 - Scroll down and click on the ‘Heritage Place – Geography’ Search Facet and to add it to the Advanced Search\.
@@ -4434,9 +3995,7 @@ You want to find records that you made or did assessments for in Libya between J
 	- Enter 2020\-01\-01 into the ‘From’ field
 	- Enter 2020\-06\-30 into the ‘To’ field
 
-![Graphical user interface](images/239.jpg)
-
-Figure 18
+![Graphical user interface](images/239.jpg\)
 
 ### Example 4: Combining ‘And’ and ‘Or’
 
@@ -4497,15 +4056,13 @@ You want to find all sites along a certain stretch of a wadi which have both Far
 
 - Click on Map Filter and then ‘Filter’ on the right side to open the Map Search options\.
 	- Zoom to the area you wish to Search
-	- Draw a Polygon around the area you want to search \(Figure 19\)\.
+	- Draw a Polygon around the area you want to search\.
 	- See __Tutorial 1: Searching the Database \(Basic\), Section 3__ for more details instructions on how to use the map to search\.
 
-![A picture containing text](images/240.jpg)
-
-Figure 19: Defining the Search Area by drawing a polygon\. There are 114 sites recorded in this area\.
+![A picture containing text](images/240.jpg\)
 
 - Click on Advanced Search
-- Click on and add the Search Facets in the order below \(Figure 20\)\.
+- Click on and add the Search Facets in the order below\.
 
 Heritage Place – Site Feature Interpretation > Site Feature Interpretation Type > __Farm Building__
 
@@ -4529,9 +4086,7 @@ AND
 
 Heritage Place – Overall Site Condition > __Fair__
 
-![Graphical user interface](images/241.jpg)
-
-Figure 20: The combined Location and Advanced Search results\. There are two sites which have both Farm Building and Tomb/Grave/Burial recorded and are in Good or Fair condition\.
+![Graphical user interface](images/241.jpg\)
 
 # TUTORIAL 18: Making tables and graphs based on database searches
 
@@ -4567,62 +4122,46 @@ What you are asking will depend on the aims and objectives of the analyses that 
 	- Refer to the guidelines of the programme you are using if you don’t know how to open or save spreadsheets in the programme\.
 	- Refer to what you have learned during the Basic Training about file naming and having a systematic folder system on your computer\.
 - Set up the different sheets in your spreadsheet\.
-	- Use one sheet \(tab\) for each topic, i\.e\. each database field\. For example, one sheet for Interpretation, one for Condition, one for Disturbances, and one for Threats, and so on \(Figure 1\)\.
-	- In each sheet, put the terms in each field \(the ones in the Dropdown menu\) in the rows \(Figure 2a\)\. Refer to the Glossary for the complete list of values and their exact spelling\.
-	- You can use the columns for numbers and percentages, and for different regions \(Figure 2b\)\. 
+	- Use one sheet \(tab\) for each topic, i\.e\. each database field\. For example, one sheet for Interpretation, one for Condition, one for Disturbances, and one for Threats, and so on\.
+	- In each sheet, put the terms in each field \(the ones in the Dropdown menu\) in the rows. Refer to the Glossary for the complete list of values and their exact spelling\.
+	- You can use the columns for numbers and percentages, and for different regions. 
 	- Make sure to keep it as simple as possible\. The aim here is to analyse your data, making a table look nice is better done in the final, presentation stage, and using text editing software like MS Word\.
 
-![Graphical user interface, application, table, Excel](images/242.jpg)
+![Graphical user interface, application, table, Excel](images/242.jpg\)
 
-Figure 1: One sheet per topic or database field\. Use the ‘\+’ button to add more sheets\.
+![Graphical user interface, table, Excel](images/243.jpg\)
 
-![Graphical user interface, table, Excel](images/243.jpg)
-
-Figure 2a: An example of a spreadsheet table setup, in this case for Overall Condition\.
-
-![Graphical user interface, application, table, Excel](images/244.jpg)
-
-Figure 2b: Spreadsheet setup for Overall Condition, comparing different regions\.
+![Graphical user interface, application, table, Excel](images/244.jpg\)
 
 ## Step 3: gathering the data by searching the database
 
 - Using what you have learned in __*Tutorial 17:*__ __*Searching the Database 2 – Advanced Search*__, conduct the required searches and enter the numbers in the spreadsheet\.
-	- For example, search for each of the Dropdown menu values of Overall Site Condition in Egypt \(Figure 3\) and enter the resulting numbers in the spreadsheet \(Figure 4\)\.
+	- For example, search for each of the Dropdown menu values of Overall Site Condition in Egypt and enter the resulting numbers in the spreadsheet\.
 
-![Graphical user interface, text, application, chat or text message](images/245.jpg)
+![Graphical user interface, text, application, chat or text message](images/245.jpg\)
 
-Figure 3: Searching for Heritage Place records in Egypt with a ‘Good’ Overall Condition; there are 1089 of such records\.
-
-![Graphical user interface, table](images/246.jpg)
-
-Figure 4: Entering the number of Heritage Places with a ‘Good’ Overall Condition into the spreadsheet\. Repeat for each value in this Dropdown by adjusting the search\.
+![Graphical user interface, table](images/246.jpg\)
 
 - It is very important to realize that the total is NOT the sum of the numbers\. This is a common mistake\. Because many of the fields in the database can have multiple values \(e\.g\. a site with a Domestic and Agricultural/Pastoral function\) you cannot just add up the numbers\.
-	- Instead, in the search box, type in the name of the field and select ‘Concepts’\. Click on the correct field\. This gives the total number of records for which this field has been filled in \(Figure 5\)\. If you are only searching within a specific country or area, make sure to leave this part of the search intact as well\.
+	- Instead, in the search box, type in the name of the field and select ‘Concepts’\. Click on the correct field\. This gives the total number of records for which this field has been filled in\. If you are only searching within a specific country or area, make sure to leave this part of the search intact as well\.
 
-![Graphical user interface, text, application, chat or text message](images/247.jpg)
-
-Figure 5: Searching for the total number of Heritage Place records in Egypt for which the Overall Condition field has been filled in\. In this case the number is the same as adding up the values, because there is only ever one Overall Condition per record; for other fields this is, however, not the case\!
+![Graphical user interface, text, application, chat or text message](images/247.jpg\)
 
 ## Step 4: Percentages
 
 To get a better understanding of your data, especially in relation to the data in the database as a whole, or in other countries or regions, it is very useful to calculate the percentages of the data\.
 
-- In the spreadsheet, in the column next to your numbers, type ‘=B2/$B$8\*100’ \(Figure 6\)\.
+- In the spreadsheet, in the column next to your numbers, type ‘=B2/$B$8\*100’\.
 	- Instead of actually typing each cell number, you can also select the cells – the numbers might well be different in your spreadsheet, depending on which column you are doing this for\.
 	- The ‘$’ signs keep this cell in place when you are dragging your formula down \(next step\)\.
 	- Instead of using “\*100” \(multiply by 100\) in the formula, you can leave this out, and format the cell as a ‘percentage’\.
-- Select the cell and drag this formula down until the end of the filled in rows \(Figure 6\)\.
+- Select the cell and drag this formula down until the end of the filled in rows\.
 	- For more information, see the online information for the programme you are using\.
-	- You can, and normally should, format the number in the cell to make it better readable \(e\.g\. remove the decimal numbers\) \(Figure 7\)\.
+	- You can, and normally should, format the number in the cell to make it better readable \(e\.g\. remove the decimal numbers\)\.
 
-![Graphical user interface, application, table, Excel](images/248.jpg)
+![Graphical user interface, application, table, Excel](images/248.jpg\)
 
-Figure 6: Calculating percentages for each of the categories\.
-
-![Graphical user interface, application, table](images/249.jpg)
-
-Figure 7: Adjusting the number format in Google Spreadsheets\.
+![Graphical user interface, application, table](images/249.jpg\)
 
 ## Step 5: Making a graph
 
@@ -4631,13 +4170,11 @@ For your own understanding as well as to visualize the data for others, it is ve
 - Decide what order you want the columns on the graph to be in: perhaps descending from highest to lowest percentage is clearer, especially if you have many values\.
 	- Select the WHOLE table and click on ‘Data – Sort’ to sort your data in a different order\. Refer to the guidelines of each of the programmes for more information on sorting\.
 	- You can change this later if you are not happy with the resulting graph\.
-- Select the data you want to make a graph of \(Figure 8\)\.
+- Select the data you want to make a graph of\.
 	- You can put the columns so that the ones you need are adjacent, or you can use Control \(Windows\) or cmd \(Mac\) to select the data\.
 	- Do not select the ‘total’ row but include the column headers\.
 
-![Graphical user interface, application, table, Excel](images/250.jpg)
-
-Figure 8: Selecting the two columns relevant for the graph \(column A for the labels, column C for the values; it is also possible to only select the value or data column C and add the labels to the graph later\)\.
+![Graphical user interface, application, table, Excel](images/250.jpg\)
 
 Then, find the relevant section below, depending on which software you are using for instructions on how to insert a chart:
 
@@ -4647,105 +4184,79 @@ Then, find the relevant section below, depending on which software you are using
 
 ### __Google Spreadsheets__
 
-- From the menu at the top of the page, choose ‘Insert’ and then ‘Chart’ \(Figure 9\)\.
-- This opens the chart itself and the Chart Editor to the right of the page \(Figure 10\)\.
+- From the menu at the top of the page, choose ‘Insert’ and then ‘Chart’\.
+- This opens the chart itself and the Chart Editor to the right of the page\.
 - In the Chart Editor:
 	- In Chart type, choose ‘Column chart’\.
 	- Leave Stacking to ‘None’\.
 	- If you want to add or change data, you can do this in ‘Data range’ by clicking on the table symbol\.
-		- You can add a second series, for example for a different region here \(Figure 11\)
+		- You can add a second series, for example for a different region here
 	- If you did not already add the X\-axis values in the previous steps, you can do this under X\-axis – three dots – add labels and select the labels \(column A ‘Overall Condition’ in the example\)\.
 
-![Graphical user interface, application, table](images/251.jpg)
+![Graphical user interface, application, table](images/251.jpg\)
 
-Figure 9: Choose Insert – Chart to add a chart in Google Spreadsheets\.
+![Graphical user interface, application, table, Excel](images/252.jpg\)
 
-![Graphical user interface, application, table, Excel](images/252.jpg)
-
-Figure 10: the produced chart and the Chart editor window to the right of the screen\.
-
-![Graphical user interface, text, application](images/253.jpg)
-
-Figure 11: Adding more data to the graph, like a second column for a different region\.
+![Graphical user interface, text, application](images/253.jpg\)
 
 You now have a graph\! 
 
 To change the layout:
 
-- If the Chart editor is closed, click on the three dots in the upper right corner of the graph and choose ‘Edit chart’ \(Figure 12\)\.
-- In the Chart editor, go to ‘Customise’ \(Figure 13\)
+- If the Chart editor is closed, click on the three dots in the upper right corner of the graph and choose ‘Edit chart’\.
+- In the Chart editor, go to ‘Customise’
 - Here you can add or edit the style of the chart, titles on the axes, the font on all of these, and much more\. To find out more, play around with this, or refer to the [Google Spreadsheet help pages](https://support.google.com/docs/topic/9054603?hl=en&ref_topic=1382883), especially [here](https://support.google.com/docs/answer/63824?hl=en&ref_topic=9055207)\.
 
-![Chart](images/254.jpg)
+![Chart](images/254.jpg\)
 
-Figure 12: Opening the Chart editor\.
-
-![Graphical user interface, chart, application, table, Excel](images/255.jpg)
-
-Figure 13: The Chart editor, Customize menu\.
+![Graphical user interface, chart, application, table, Excel](images/255.jpg\)
 
 ### __Open Office__
 
-- Choose Insert – Chart or click on the ‘Chart’ button in the menu bar \(Figures 14a\-b\)\.
+- Choose Insert – Chart or click on the ‘Chart’ button in the menu bar.
 
-![Graphical user interface, application, table, Excel](images/256.jpg)
+![Graphical user interface, application, table, Excel](images/256.jpg\)
 
-Figure 14a
+![](images/257.jpg\)
 
-![](images/257.jpg)Figure 14b: Chart button\.
-
-- In the Chart Wizard, choose the chart type \(e\.g\. bar chart\) \(Figure 15\)\. 
+- In the Chart Wizard, choose the chart type \(e\.g\. bar chart\)\. 
 - Click next\.
 
-![Graphical user interface, application](images/258.jpg)
+![Graphical user interface, application](images/258.jpg\)
 
-Figure 15
-
-- In the Chart Wizard, Data Range, click on the select icon and select the area where your data are \(Figure 16\)\. 
+- In the Chart Wizard, Data Range, click on the select icon and select the area where your data are\. 
 - Click next\.
 
-![Chart, waterfall chart](images/259.jpg)
+![Chart, waterfall chart](images/259.jpg\)
 
-Figure 16
-
-- In the Chart Wizard, Data Series, choose what to display as data on the Y\-axis, and what to display as the labels or ‘categories’ on the x\-axis \(Figures 17a\-b\)\.
+- In the Chart Wizard, Data Series, choose what to display as data on the Y\-axis, and what to display as the labels or ‘categories’ on the x\-axis\.
 	- Only choose the values, not the column headers\.
 	- To add multiple series, for example for different regions, click ‘Add’\.
 	- To remove a series, for example if you do not want to display the ‘number of records column’, but only the ‘% of records column’, select the data series and click on ‘Remove’
 	- Click ‘Next’\.
 
-![Graphical user interface, application](images/260.jpg)
+![Graphical user interface, application](images/260.jpg\)
 
-Figure 17a: Two data series\.
+![Graphical user interface, application](images/261.jpg\)
 
-![Graphical user interface, application](images/261.jpg)
-
-Figure 17b: The ‘Number of records’ data series was removed, using the ‘Remove’ button, so that only the ‘% of records’ data series remains to be shown in the graph\.
-
-- In the Chart Wizard, Chart Elements \(Figure 18\), you can:
+- In the Chart Wizard, Chart Elements, you can:
 	- Type a title and subtitle to display at the top of the chart\.
-	- Type a title for the X\-axis \(Figure 18\)\.
-	- Type a title for the Y\-axis \(Figure 18\)\.
+	- Type a title for the X\-axis\.
+	- Type a title for the Y\-axis\.
 	- Choose if you want to display grid lines\.
 	- Choose if you want to display a legend, and where\.
 - Click on ‘Finish’\.
 
-![Chart, waterfall chart](images/262.jpg)
+![Chart, waterfall chart](images/262.jpg\)
 
-Figure 18: Chart Wizard, Chart Elements window, with X\- and Y\-axis titles added, and the display legend box unticked\.
-
-- You can further edit the chart by choosing what chart element you want to edit and clicking on ‘Format selection’ \(Figure 19\)\.
+- You can further edit the chart by choosing what chart element you want to edit and clicking on ‘Format selection’\.
 	- The chart needs to be selected for this\. To select it, double\-click on it\.
 
-![](images/263.jpg)Figure 19: Format selection button\.
+![](images/263.jpg\)
 
-![Graphical user interface, application](images/264.jpg)
+![Graphical user interface, application](images/264.jpg\)
 
-Figure 20: Formatting the Y Axis numbers \(deselect ‘Source format’ to be able to do this\)\.
-
-![A picture containing graphical user interface, table](images/265.jpg)
-
-Figure 21: Formatting the Data Series, changing the colour of the bars\.
+![A picture containing graphical user interface, table](images/265.jpg\)
 
 - You can access other options by clicking on the buttons, or by choosing ‘Format’ from the top menu\.
 	- For example, to change the range of values the graph is drawing from, choose Format – Date range\.
@@ -4754,34 +4265,28 @@ Figure 21: Formatting the Data Series, changing the colour of the bars\.
 
 This guide was made using a Mac, and things may look a bit different if you are using Windows, and things might look different again if you are using the free online version of Excel\. They will also differ between different versions of Excel\. Please see the [extensive guidelines provided by Microsoft](https://support.microsoft.com/en-gb/excel) for more information\.
 
-- After selecting your data, in ‘Insert’ \(top of page, near the left\), choose the bar chart symbol \(towards the right of the page\), and select ‘2D charts’ \(or any chart of your choice\) \(Figure 22\)\. 
+- After selecting your data, in ‘Insert’ \(top of page, near the left\), choose the bar chart symbol \(towards the right of the page\), and select ‘2D charts’ \(or any chart of your choice\)\. 
 - A chart is now produced\.
 
-![Graphical user interface, application, table, Excel](images/266.jpg)
-
-Figure 22: Insert – Chart – 2D column\.
+![Graphical user interface, application, table, Excel](images/266.jpg\)
 
 - In Chart Design \(upper right\), you can, for example:
-	- ‘Add Chart Element’: Add chart elements like a title for the vertical or Y axis \(Figure 23\)\.
-	- ‘Select Data’: Add additional data, for example to add a second data series for a different region \(Figure 24\)\. 
+	- ‘Add Chart Element’: Add chart elements like a title for the vertical or Y axis\.
+	- ‘Select Data’: Add additional data, for example to add a second data series for a different region\. 
 		- In the Select Data Source Window, click on the ‘\+’ to add more data\.
 		- In this window, you can also edit the existing data series\.
 
-![Graphical user interface, application, table, Excel](images/267.jpg)
+![Graphical user interface, application, table, Excel](images/267.jpg\)
 
-Figure 23: Choosing a chart element to edit\.
+![Graphical user interface, application](images/268.jpg\)
 
-![Graphical user interface, application](images/268.jpg)
-
-Figure 24: Clicking on ‘Select Data’ opens this window\. Here you can select data to show in the graph, and you can edit the data that you already selected\. Click on the ‘\+’ to add an additional data series\.
-
-- To format the graph and work on the lay out, choose ‘Format’ in the upper right corner \(Figure 25\)\. 
+- To format the graph and work on the lay out, choose ‘Format’ in the upper right corner\. 
 - Here you can change the colours and styles of the whole chart or of specific elements\.
 	- Click on ‘Format Pane’ to open the format pane to the right\.
 	- Click on ‘Chart Area’ \(left\) to choose which part of the chart you want to edit \(or click on this part in the chart\)\.
 	- Play around with the different options in the Format Pane to learn how to format your graph\. You can also refer to the [detailed online information provided by Microsoft](https://support.microsoft.com/en-us/office/format-elements-of-a-chart-b6c787d5-f90a-41d2-a901-9d3ed9f0dbf0)\.
 
-![](images/269.jpg)Figure 25: Opening the Format Pane and the resulting Format Chart Area pane to the right\.
+![](images/269.jpg\)
 
 ## Step 6: Exporting your graph
 
@@ -4789,12 +4294,10 @@ Once you are happy with your graph, you can export it to use it in a presentatio
 
 ### __Google Spreadsheets__
 
-- Click on the three dots in the upper right corner of the chart area, choose download, and what you want to download it as \(Figure 26\)\.
+- Click on the three dots in the upper right corner of the chart area, choose download, and what you want to download it as\.
 - Alternatively, you can copy\-paste it into your Powerpoint/Google slides or document\.
 
-![A picture containing graphical user interface](images/270.jpg)
-
-Figure 26
+![A picture containing graphical user interface](images/270.jpg\)
 
 ### __Open Office Calc__
 
@@ -4804,14 +4307,12 @@ Figure 26
 
 ### __Microsoft Excel__
 
-- If you are using another Microsoft programme, like Powerpoint or Word you can simply copy\-and\-paste the image\. When pasting, choose one of the following \(Figure 27\):
+- If you are using another Microsoft programme, like Powerpoint or Word you can simply copy\-and\-paste the image\. When pasting, choose one of the following:
 	- Microsoft Excel Chart Object – this will keep a connection with the Excel spreadsheet and changes made there will be reflected in this document as well\.
 	- Microsoft Office Graphic Object
 	- Picture – this results in the lowest resolution, but it remains unchanged when you make changes in the Excel workbook\. 
 
-![Graphical user interface, application, Teams](images/271.jpg)
-
-Figure 27
+![Graphical user interface, application, Teams](images/271.jpg\)
 
 If you want to use the graph in a non\-Microsoft programme, you can:
 
