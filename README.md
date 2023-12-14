@@ -62,7 +62,7 @@ From the landing page, you can choose from two main actions: ‘Search the EAMEN
 
 Click on ‘Search the EAMENA Database’, to go directly to the Search Page\.
 
-To learn more about searching, please refer to [#tutorial-1-searching-the-database-basic](__Tutorial 1: Searching the Database \(Basic\)__)\. 
+To learn more about searching, please refer to [__Tutorial 1: Searching the Database \(Basic\)__](#tutorial-1-searching-the-database-basic)\. 
 
 ![Description automatically generated](images/008.jpg)
 
